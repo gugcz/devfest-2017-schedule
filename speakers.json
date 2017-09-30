@@ -1,1 +1,335 @@
-[{"bio": "I am a software engineer at Google working on the design and implementation of programming languages. I have been designing and implementing virtual machines and runtime systems for too long and efficient interpretation, dynamic compilation, and adaptive optimizations are my kind of things.", "photoUrl": "TODO", "company": "Google", "talk_title": "Flutter: The best way to build for mobile?", "talk_topic": "Dart", "talk_for_who": "Intermediates", "companyLogo": "TODO", "name": "Kasper Lund", "socials": "https://plus.google.com/+KasperLund", "country": "Denmark", "talk_desc": "Want a more productive way to build for mobile? Flutter is an SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single code-base. Flutter delivers a great developer experience in part because it is based on Dart, which allows you to build your cross-platform mobile apps in an approachable and analyzable language with sub-second edit-and-continue support baked in. Come see what makes Flutter special and learn how you can become a more productive mobile developer. "}, {"bio": "Rebecca Franks the Android Engineering Lead at DVT. She has over 5 years experience in developing Android applications.  In March 2016, she was awarded with the status of Google Developer Expert for Android.\n\nIn her spare time, she works with Book Dash \u2013 a Non Profit Organisation \u2013 developing an Android app to showcase their free children\u2019s books. She enjoys public speaking and frequently speak at conferences and local meetups.\n\nHer blog has been featured multiple times in Android Weekly . In June 2016, She was selected as part of the Mail & Guardian\u2019s Top 200 Young South Africans.", "photoUrl": "TODO", "company": "Dynamic Visual Technologies", "talk_title": "Android Things: Building a connected Product using Android", "talk_topic": "Android", "talk_for_who": "Intermediates", "companyLogo": "TODO", "name": "Rebecca Franks", "socials": "https://twitter.com/riggaroo\nhttps://github.com/riggaroo\nhttps://www.linkedin.com/in/rebeccafranks/\nhttps://riggaroo.co.za/", "country": "Johannesburg, South Africa", "talk_desc": "In this presentation, Rebecca will look into using the Android Things platform as a way in which you can build connected products using Android. Rebecca will cover controlling your Android Things device with the Google Assistant. She will also talk through some different options for storing data for IoT devices. She will also showcase a few different applications of Android Things. "}, {"bio": "Sofia has been working as Full Stack Software Engineers for last 3 years and she is really passionate about web, especially everything related to Progressive Web Apps and developing fancy web application using Polymer. She always tries to go beyond the day to day life and learn something new, for now is interested a lot in Machine Learning.\nDespite that, Sofia is a manager of GDG Lviv and also leads local WTM community in Lviv. Additionally, one of organisers of GDG DevFest Ukraine (https://devfest.gdg.org.ua/). \n", "photoUrl": "TODO", "company": "JustAnswer", "talk_title": "Go beyond the web development with Firebase Cloud Functions", "talk_topic": "Web, Firebase", "talk_for_who": "Beginners", "companyLogo": "TODO", "name": "Sofia", "socials": "https://www.linkedin.com/in/sofiya-huts-4b314a9a\nhttps://www.facebook.com/sophie.huts.7\nhttps://twitter.com/sophie_h29\n", "country": "Lviv, Ukraine", "talk_desc": "The main thought - developers should be able to enjoy their work. \nAssume you\u2019ve started working on development of the web application. By the time you\u2019ve got to the spot of enjoyable developemt, you would have to go through all the complex details of  building the basement for your app, taking care about the backend, servers and more...Cloud Functions allows Firebase developers to create a backend without having to worry about servers. During the talk you will learn what's possible with Cloud Functions and how it can be used for many different key use cases for your web app. You'll see real world examples that show how Cloud Functions for Firebase is the programmatic glue that allows you to extend and connect Firebase products and cloud services.\n"}, {"bio": "Radek is a software engineer at HashiCorp working on Terraform. Prior to joining he was part of the operations team at Time Inc. in the UK where he built tools for automating many parts of the deployment pipeline. He gravitated for most of his career towards automation and solving real problems through code. Besides open-source communities where he\u2019s been active in the past years as both contributor and maintainer he also enjoys discovering new places around the world and eating food while posting it on Instagram.", "photoUrl": "TODO", "company": "HashiCorp", "talk_title": "Infrastructure as Code in Google Cloud", "talk_topic": "Cloud", "talk_for_who": "Intermediates", "companyLogo": "TODO", "name": "Radek Simko", "socials": "https://github.com/radeksimko\nhttps://linkedin.com/in/radeksimko\nhttps://twitter.com/radeksimko", "country": "London, UK", "talk_desc": "Managing modern infrastructure presents many different challenges. While the main operational aspects of infrastructure like durability, availability, scalability, security are very important, there\u2019s also one aspect which should enable and support all the others - automation.\n \nAutomation is a very abstract word, so the talk will briefly explain what benefits does IaC approach bring to the table and why configuration management (often driven by tools like Ansible, Puppet, Salt, Chef etc.) is just one of many layers in an automated production infrastructure.\n \nThen we will walk through the main design goals of Terraform, open source tool that enables users to write, plan and apply changes of a production infrastructure in Google Cloud, and explain how to do it."}, {"bio": "I'm Android indie developer since 2010. I'm creating and selling my own apps for living.", "photoUrl": "TODO", "company": "Indie developer", "talk_title": "(TBD) How to design app to be easily sellable on Play Store", "talk_topic": "Marketing your application on Play Store", "talk_for_who": "Intermediates", "companyLogo": "TODO", "name": "Tom\u00e1\u0161 Hub\u00e1lek", "socials": "https://play.google.com/store/apps/developer?id=Tomas+Hubalek", "country": "Fren\u0161t\u00e1t pod Radho\u0161t\u011bm", "talk_desc": "It will be based on my experience lauching new apps this year."}, {"bio": "Developer, researcher, stratupist but most of all technology geek", "photoUrl": "TODO", "company": "Urabandroid", "talk_title": "Unveiling the mystery of Sleep with Google tech", "talk_topic": "Android, Cloud", "talk_for_who": "IT muggles", "companyLogo": "TODO", "name": "Petr Nalevka", "socials": "https://en.gravatar.com/petrnalevka", "country": "Czech republic, Prague", "talk_desc": "Overview of our findings on the mysterious phenomenon - Sleep:\nhttp://sleep.urbandroid.org/sleepcloud-study/\n\nOur study is based on analyses of more than 10 million sleep records in our Sleep Cloud data base collected in Google Cloud using Android smartphones and various wearable tech for Sleep tracking. Our findings are based on our own private funded research but also based on cooperation with several scientific institutions. \n\nTopics:\n- How does our lifestyle affect sleep\n- Nigh owls / morning larks - chronotypes, Roenneberg and Social jet lag\n- Want to stop snoring? Have a beer!\n- How do we sleep post-Brexit / post-Trump\n- Sleep and psychical health\n- Smart alarms improve sleep and wake up experience\n- Our internal clock and how harmful summer time is\n...\n"}, {"bio": "Gerard is very excited about the future of the Web and JavaScript. Always happy Computer Science Engineer and humble Google Developer Expert. He loves to share his learnings by giving talks, trainings and writing about cool technologies. He loves running AngularZone and GraphQL London, mentoring students and giving back to the community.", "photoUrl": "TODO", "company": "AngularZone", "talk_title": "What's new in Angular 5?", "talk_topic": "Web, Frontend Frameworks", "talk_for_who": "Intermediates", "companyLogo": "TODO", "name": "Gerard Sans", "socials": "https://twitter.com/gerardsans\nhttp://lanyrd.com/profile/gerardsans\nhttps://medium.com/@gerard.sans\nhttps://github.com/gsans", "country": "London", "talk_desc": "Awesome! The first Angular 5 beta is out already and the deadline for the final release is planned for September 18th. In this talk we are going to explore some of these new features and how to take advantage of them while going through some demos and easy to follow code snippets."}, {"bio": "I'm a long time software developer and Android developer since 2009, Google Developer Expert for Android, organiser of GDG The Dutch Android User group and international speaker. Creator of various open source tools like Cupboard, android-apt and rxlint.", "photoUrl": "TODO", "company": "Little Robots", "talk_title": "Room: the blessed Object Mapper", "talk_topic": "Android", "talk_for_who": "Beginners", "companyLogo": "TODO", "name": "Hugo Visser", "socials": "twitter.com/botteaap\nwww.littlerobots.nl", "country": "Amsterdam, NL", "talk_desc": "At I/O this year, the Room persistence library was introduced as part of the Architecture Components effort. In this talk we'll look at what Room has to offer, why and when you should use it and how it compares to existing solutions. We'll also take a look at how Room works under the covers and how it integrates with other Architecture components and RxJava."}, {"bio": "Vitaliy\u2019s background includes mobile application and game development. Nowadays, he is leading the development of the next generation in-app marketing tools at GetSocial. He is a frequent speaker at world class tech conferences and TEDx. Founder of the Google Developers Group Lviv.", "photoUrl": "TODO", "company": "GetSocial", "talk_title": "How not to fuckup with building SDK and make clients happy", "talk_topic": "Android ", "talk_for_who": "Everyone above and beyond", "companyLogo": "TODO", "name": "Vitaliy Zasadnyy", "socials": "see previous submission", "country": "Amsterdam, NL", "talk_desc": "Are you working on the client library? Or design a public API for the module that is going to be used by other team or department?\n\nIn this session, Vitality will share his experience and key learnings from building a mobile SDKs for last 4 years:\n\nwhat is the cost of too complex API and how to simplify it;\nwhat aspects of the library are important for clients;\nhow documentation should look like to avoid stupid and repetitive support questions;\nhow to make library update process smooth.\nThe session will be interesting for Android and iOS developers who want to learn what makes client library great. What are the best practices and common pitfalls in public API design? What is important, only programming API you expose or also ecosystem around?"}, {"bio": "Tanay Pant is an Indian author, hacker, developer and tech enthusiast. He is best known for his work on \"Building a Virtual Assistant for Raspberry Pi\" and \"Learning Firefox OS Application Development\". He is also an official representative of Mozilla. He has been listed in the about:credits of the Firefox web browser for his contributions to the different open source projects of the Mozilla Foundation.", "photoUrl": "TODO", "company": "Mozilla Foundation", "talk_title": "Web Based Virtual Reality", "talk_topic": "UX, VR/AR", "talk_for_who": "Beginners", "companyLogo": "TODO", "name": "Tanay Pant", "socials": "http://tanaypant.com\nhttps://github.com/tanay1337\nhttps://twitter.com/tanay1337\nhttps://linkedin.com/in/tanay1337", "country": "Berlin", "talk_desc": "Virtual Reality is a new technology used for building realistic experiences for games, environments, content display as well as marketing. Any person with a basic understanding of HTML5, CSS and JavaScript would be able to follow through the code examples. The talk would run through topics like VR, WebVR API, A Frame and designs, testing applications on Google Cardboard and so on. In these apps, users will be able to test the VR environments on their laptops, walk through the virtual world, interact with the objects as well as perceive these virtual realities with the help of Google Cardboard. By the end of the session, the user will have a complete understanding of what WebVR is, various VR devices available, requirements to start working on WebVR and the popular WebVR based projects. The user will also be comfortable in using A-Frame and its various components to build their own VR projects."}, {"bio": "Simon has over twenty years of development experience and has worked on a variety of projects including object oriented databases, police communication systems, speech recognition and unified messaging. His current focus is contributing to the open source PhoneGap project to enable developers to create cross platform mobile applications using Web technologies. Simon\u2019s been building web applications since the days they were written using shell scripts and he still has nightmares about those dark days.", "photoUrl": "TODO", "company": "Adobe", "talk_title": "Building Mobile Apps with Framework7 and Vue", "talk_topic": "Web/Mobile", "talk_for_who": "Intermediates", "companyLogo": "TODO", "name": "Simon MacDonald", "socials": "https://www.simonmacdonald.com/\nhttps://twitter.com/macdonst\nhttps://github.com/macdonst", "country": "Ottawa, Canada", "talk_desc": "In this presentation we'll introduce Vue.js, setup a webpack build, extoll the virtues of its reactive data binding and composble interface all while building an Instagram like app. Using Framework 7 to provide the basic UI for Android and iOS for those of us, like myself, who are CSS challenged.\n\nVue.js is a library for building interactive web interfaces. The goal of Vue.js is to provide the benefits of reactive data binding and composable view components with an API that is as simple as possible.\n\nFramework7 - is a free and open source mobile HTML framework to develop hybrid mobile apps or web apps with iOS & Android native look and feel. It is also an indispensable prototyping apps tool to show working app prototype as soon as possible in case you need to.\n"}, {"bio": "Passionate about traveling and also to share his adventures with Web Technologies and Firebase. As a Google Developer Expert he\u2019s helping communities all over the world to learn, discover and have fun.", "photoUrl": "TODO", "company": "Caravana Web", "talk_title": "Let Firebase help you to build better Front-end apps", "talk_topic": "Firebase", "talk_for_who": "Everyone above and beyond", "companyLogo": "TODO", "name": "Juarez Filho", "socials": "@juarezpaf, linkedin.com/in/juarezpaf, github.com/juarezpaf", "country": "Dublin, Ireland ", "talk_desc": "What is the first thing that comes to your mind when you are starting to develop your product? You need to think about all sort of features. How you are going to grow your app. Engage your audience and make money in the process, right? \nWhat if you could choose a platform to build your app with confidence, without the need of managing infrastructure, trusted by companies like The New York Times, The Economist, Shazam and much more. Firebase gives you the tools and infrastructure you need to build better apps and grow businesses. Join this talk and learn how to overcome the challenges of build extraordinary front-end apps using Firebase."}, {"bio": "Unfulfilled at my corporate job, I left to join a Seattle-based non-profit. Now I teach software development to 30+ incarcerated men at Washington State's second largest prison.", "photoUrl": "TODO", "company": "Unloop", "talk_title": "Programming in Prison: Web Development behind Bars", "talk_topic": "Web Development", "talk_for_who": "Everyone above and beyond", "companyLogo": "TODO", "name": "Sarabeth Jaffe", "socials": "www.linkedin.com/in/sarabethjaffe", "country": "United States - Seattle, WA", "talk_desc": "In a plain-looking computer room sits 30+ men wearing khaki-colored shirts and pants, each staring intently at their monitors. Some young, some old, some with tattoos, all with different life stories. These men--many of which have never been on the Internet-- are learning computer programming while serving time at Washington State's second largest prison. \n\nGaining employment upon release from prison is one of the largest indicators of successful re-entry into society. With today\u2019s booming tech market, these currently incarcerated men hope to gain the skills needed to obtain web development jobs upon release. \n\nHowever, learning programming inside a prison isn\u2019t easy. Each student computer is highly locked-down with limited software and absolutely no Internet access. While most programmers enjoy the benefits of Google and StackOverflow, these students must work with what is available on the classroom\u2019s local network and in the outdated computer manuals available in the facility library.\n\nMy name is Sarabeth Jaffe and I teach computer programming at Monroe Correctional Complex. In this talk, I will discuss the many challenges of teaching web development without the web, the Open Source technology that makes it possible, and the many opportunities we--as technologists--have to spread the benefits of the technical knowledge to disadvantaged populations."}, {"bio": "Born and raised in Israel, the \u201cStartup Nation\u201d, Britt has started and lead the mobile teams on various startup companies, currently leading a stealth mode startup. \n\nPassionate about Android, she is co-leading Android Academy TLV which is one of the largest and most active Android communities out there. \nShe is a public speaker, a mentor at Google Campus TLV, and a blogger about Android development.\nBritt is also Women Techmakers Israel community lead and act to promote diversity in tech.\n\n", "photoUrl": "TODO", "company": "Android Academy", "talk_title": "When your app is asleep", "talk_topic": "Android", "talk_for_who": "Intermediates", "companyLogo": "TODO", "name": "Britt Barak", "socials": "www.facebook.com/britt.barak\nhttps://medium.com/@britt.barak\n@BrittBarak\nhttps://www.linkedin.com/in/brittbarak\n", "country": "Israel", "talk_desc": "Amazing UX, delighting UI, wonderful performance.. You already know what to do in order to make users love your app when using it. But as app session lasts around 5 minutes, there\u2019s a large portion of the day where your app is not being used. When your app is sound asleep what can you do to remind your users that your app is the best? \nThis talk will explore how to make your app pop and shine, even when is not on the foreground, and increase retention dramatically! Brand new Android O features, notifications, shortcuts, animated launcher icons.. Your app won\u2019t be sleeping for long ;) \n"}, {"bio": "TODO", "photoUrl": "TODO", "company": "TODO", "talk_title": "TODO", "talk_topic": "TODO", "talk_for_who": "TODO", "companyLogo": "TODO", "name": "TODO", "socials": "TODO", "country": "TODO", "talk_desc": "TODO"}, {"bio": "TODO", "photoUrl": "TODO", "company": "TODO", "talk_title": "TODO", "talk_topic": "TODO", "talk_for_who": "TODO", "companyLogo": "TODO", "name": "TODO", "socials": "TODO", "country": "TODO", "talk_desc": "TODO"}, {"bio": "Alexey is a passionate developer and trainer that loves to engage people into conversations about IT and tech. He is an organizer of Google Developers Group Riga (http://GDGRiga.lv), Java User Group Latvia (http://JUG.lv), Mobile Developers Latvia, annual Riga Dev Day conference (http://rigadevday.lv/) and a frequent speaker at international conferences.", "photoUrl": "TODO", "company": "GDG Riga", "talk_title": "Keynote: Present and Future of IT", "talk_topic": "IT", "talk_for_who": "IT muggles", "companyLogo": "TODO", "name": "Alexey Buzdin", "socials": "http://lanyrd.com/profile/alexeybuzdin/\nhttps://twitter.com/AlexeyBuzdin\nhttps://www.linkedin.com/in/alexeybuzdin\nhttps://speakerdeck.com/larchaon\nhttps://github.com/AlexeyBuzdin/\n", "country": "Latvia, Riga", "talk_desc": "I can do a Keynote about Past, Present and Future of IT and Google Tech and cover topics about Mobile, Education, Google Tech, Google Initiatives, Getting Started in IT, Internet of Things, VR/AR, Machine Learning, etc"}, {"bio": "Google Developer Expert on Dart and Google Cloud Platform", "photoUrl": "TODO", "company": "fnx.io", "talk_title": "Flutter - jak to funguje?", "talk_topic": "Dart", "talk_for_who": "Beginners", "companyLogo": "TODO", "name": "Tom\u00e1\u0161 Zv\u011b\u0159ina", "socials": "https://twitter.com/tomucha", "country": "\u0158evnice !", "talk_desc": "Zjist\u00edme jak postavit mobiln\u00ed aplikaci ve Flutteru a prozkoum\u00e1me jeho architekturu."}, {"bio": "Faisal is a Google Developer Expert, Entrepreneur and Engineer. He is a programming language enthusiast and loves solving software engineering challenges across the stack.\n\nDuring the days, you can find Faisal developing mobile applications either on iOS/Android, or writing backends in Dart or Node.js", "photoUrl": "TODO", "company": "Zoom.ai", "talk_title": "Flutter for Android Developers", "talk_topic": "Dart, Flutter, Android", "talk_for_who": "Beginners", "companyLogo": "TODO", "name": "Faisal Abid", "socials": "https://www.twitter.com/FaisalAbid", "country": "Toronto, Canada", "talk_desc": "Learn how to take your Android development skills and apply them to Flutter, a cross platform native mobile development framework from Google.\n\nWe will go over how to build a Flutter app, and how to apply the concepts you know such as Activities, Intents, Lifecycle, Layouts, and many more and translate those over to Flutter so you can be a Flutter pro in no time!"}, {"bio": "TODO", "photoUrl": "TODO", "company": "TODO", "talk_title": "TODO", "talk_topic": "TODO", "talk_for_who": "TODO", "companyLogo": "TODO", "name": "TODO", "socials": "TODO", "country": "TODO", "talk_desc": "TODO"}, {"bio": "Vigneshwer is an innovative data scientist with an artistic perception of technology and business, having 3+ years of experience in various domains such as IOT, DevOps, Computer Vision & Deep Learning and is currently engaged as a research analyst crunching real-time data and implementing state of art AI algorithms in the Innovation and development lab of the world\u2019s largest decision science company in Bengaluru, India.\n \nHe is a Mozilla TechSpeaker program member and has been associated with Mozilla communities and initiatives for more than 4 years conducting 100+ events in his regions. He strongly believes and evangelises that technology needs to have a human centric design & workflow in order to create solutions for a diverse audience. He recently delivered a session about AI engineering in the open science space at Mozfest 16 & HKOScon 17. He speaks regularly about rust / ML in various local meetup groups and is the author of Rust Cookbook by Packt publisher. ", "photoUrl": "TODO", "company": "Mozilla", "talk_title": "Building Artificial Intelligence Units in Rust", "talk_topic": "AI, IOT", "talk_for_who": "Everyone above and beyond", "companyLogo": "TODO", "name": "Vigneshwer", "socials": "https://github.com/dvigneshwer, https://twitter.com/dvigneshwer", "country": "Bengaluru, India", "talk_desc": "Learn to build an end-to-end, high-performance artificial intelligence algorithm in Rust language capable of predicting whether male or female is the subject of the image captured from an edge device like a mobile camera.\n \nThe speciality of the session is that all the functional units starting from the web server, front end web app and algorithm are developed in rust language.\n"}, {"bio": "Ipsha is a software engineer at Gemalto by profession, a Mozilla tech speaker by heart, and an advocate for a free and open web by passion. She likes traveling to new places and meeting people with different perspectives of the world. Fascinated by psychology and astronomy, she looks up to people who dare to think beyond the realms of what seems possible.", "photoUrl": "TODO", "company": "Gemalto/Mozilla Tech Speaker", "talk_title": "WebRTC \u2013 webifying communications", "talk_topic": "API", "talk_for_who": "Intermediates", "companyLogo": "TODO", "name": "Ipsha Bhidonia", "socials": "https://ipsha218.wordpress.com/\nhttps://twitter.com/ipsha21", "country": "New Delhi, India", "talk_desc": "WebRTC is an emerging technology for communicating over modern browsers that enables a new generation of capabilities. We have historically been dependent on the telecom vendors, but now everyone has the ability to put communication in their apps without going to a communication company. This session involves everything you need to know about webRTC, and how it is changing the fundamental model of communication. "}, {"bio": "Vladislav is working in mobile and IoT security. In the past he did a several experiments, like accessibility and hackability of web cams in Czech republic, security analysis of consumer applications such as Target or the demo of insecurity of IoT home appliances. Vladislav is working for Avast at R&D of next-gen security solution for Android. ", "photoUrl": "TODO", "company": "Avast", "talk_title": "Dark side of IoT", "talk_topic": "IoT", "talk_for_who": "Everyone above and beyond", "companyLogo": "TODO", "name": "Vladislav Iliushin", "socials": "https://www.linkedin.com/in/iliushin/\nhttps://www.facebook.com/vlad.iliushin", "country": "Prague", "talk_desc": "Let's take a look into the world of IoT devices. How much time will it take to hack a coffee machine or a kettle, get inside your local network or use remote control apps against you. "}, {"bio": "I am Swift/iOS and Ruby on Rails Software Engineer, Internet of Things & Open Hardware enthusiast, Entrepreneur and Public Speaker.\n", "photoUrl": "TODO", "company": "Juicymo", "talk_title": "M\u00e1m v\u00edce mo\u017en\u00fdch t\u00e9mat, dle pokyn\u016f od Eli\u0161ky jsou vyps\u00e1na n\u00ed\u017ee v popisu pod sebou", "talk_topic": "iOS, Swift, Ruby on Rails, IoT", "talk_for_who": "Everyone above and beyond", "companyLogo": "TODO", "name": "Tom\u00e1\u0161 Jukin", "socials": "https://about.me/Inza\nhttps://twitter.com/Inza\nhttps://github.com/Inza", "country": "Prague - budu mo\u017en\u00e1 d\u011blat taxik\u00e1\u0159e Kasper Lund z leti\u0161te a pl\u00e1nuji pro n\u011bj ud\u011blat prohl\u00eddku Prahy s koment\u00e1\u0159em v EN, pokud by se cht\u011bli p\u0159idat i dal\u0161\u00ed spek\u0159i, je to mo\u017en\u00e9 ;)", "talk_desc": "M\u00e1m v\u00edce mo\u017en\u00fdch t\u00e9mat (konkr\u00e9tn\u011b t\u0159i, z r\u016fzn\u00fdch oblast\u00ed, jedno je iOS, druh\u00e9 je Ruby on Rails a t\u0159et\u00ed je IoT), dle instrukc\u00ed od Eli\u0161ky je vypisuji pod sebe odd\u011blen\u00e1 hv\u011bzdi\u010dkami. P\u0159edn\u00e1\u0161el bych v EN.\n\n***\n\nExcellent iOS Apps Architecture with MVVM & RxSwift\n\nApple never provided any solution or guide on how to make a state-of-the-art iOS app architecture. But the global iOS developer community never sleeps! Let's take a look together how a state-of-the-art architecture of iOS app should looks like. Let's dive into the refreshing waters of MVVM+, FlowControllers, DI and RxSwift. Code is included!\n\n[for intermediates or experts]\n\n***\n\nA cute garden where Web Apps are grown with fun (and Ruby on Rails 5.1)\n\nEvery mature mobile app or responsive website needs a backend or Web App. There are many technologies you can use for that purpose. But only one of them found it's way into my Heart. Let me show you how much fun and productivity you can get while building a well tested Web App. Ruby on Rails lets you focus on things that matter instead of the boring ones. And with version 5.1 a much closer cooperation with your favourite frontend technology is now possible. It does not matter if you prefer jQuery, React, Angular or Dart. Or anything else. Rails will be happy to talk to everybody. Code is included!\n\n[for beginners or intermediates, the TDD (Test Driven Development) part can be interesting even for experts or jedis]\n\n***\n\nWhen a Robot is smart enough?\n\nInternet of Things (IoT) covers many areas, but the most interesting ones (at least for me) are Robotics and AI. Where is the moment when a machine or robot is \"smart enough\"? Let's explore this area a bit together and let's see some examples. How difficult is to build a Smart Robot? Could you build one at home? The answer is Yes! And I will show you how. From the basic steps on #Arduino, to the beauty of more complex examples and solutions like SLAM, optical recognition, path finding or steering behaviours. Live demo is included!\n\n[for everybody interested in IoT or robotics, they do not require big or deep knowledge. Some parts are interesting even to experts]"}, {"bio": "I'm Android Developer at eMan which is a Czech company providing innovative solutions.\nI have almost 10 years of experience in software development field.\n\nI'm proud to be the Czech Kotlin User Group Founder & Organizer. I fell in love with Kotlin even before it was cool. I've been using Kotlin for two years already not only for Android, but at the beginning I also used it as a replacement for JavaScript and prototyping of small microservices. I'm fully focusing on everything around Kotlin language and organizing the Czech Kotlin User Group meetups.\n\nIn my spare time I enjoy playing ice hockey, drinking Pilsner Urquell and following tech trends.", "photoUrl": "TODO", "company": "eMan s.r.o.", "talk_title": "Create Your First Android App in Kotlin", "talk_topic": "Android, Kotlin", "talk_for_who": "Beginners", "companyLogo": "TODO", "name": "Vaclav Souhrada", "socials": "https://www.facebook.com/vaclav.souhrada\nhttps://twitter.com/vsouhrada\nhttps://plus.google.com/u/0/+VaclavSouhrada\nhttps://www.linkedin.com/in/v%C3%A1clav-souhrada-7488755b/\nhttps://www.facebook.com/czkug/\nhttps://twitter.com/KotlinCzech", "country": "Pilsen, Czech Republic", "talk_desc": "The main goal of this workshop is that you will learn how to build and run your first Android app written in Kotlin from scratch.\n\n You will learn how to set up Android project and Gradle for using it with Kotlin. Next, you will learn how to write the KDoc documentation and how to generate it by using the Dokka tool. Output application will demonstrate main advantages of Kotlin for Android development and good starting point for you. \n\nYou will need a computer that can run Android Studio 3."}, {"bio": "TODO", "photoUrl": "TODO", "company": "TODO", "talk_title": "TODO", "talk_topic": "TODO", "talk_for_who": "TODO", "companyLogo": "TODO", "name": "TODO", "socials": "TODO", "country": "TODO", "talk_desc": "TODO"}]
+[
+  {
+    "bio": "I am a software engineer at Google working on the design and implementation of programming languages. I have been designing and implementing virtual machines and runtime systems for too long and efficient interpretation, dynamic compilation, and adaptive optimizations are my kind of things.",
+    "photoUrl": "TODO",
+    "company": "Google",
+    "companyLogo": "TODO",
+    "name": "Kasper Lund",
+    "socials": "https://plus.google.com/+KasperLund",
+    "country": "Denmark"
+  },
+  {
+    "bio": "Rebecca Franks the Android Engineering Lead at DVT. She has over 5 years experience in developing Android applications.  In March 2016, she was awarded with the status of Google Developer Expert for Android.\n\nIn her spare time, she works with Book Dash \u2013 a Non Profit Organisation \u2013 developing an Android app to showcase their free children\u2019s books. She enjoys public speaking and frequently speak at conferences and local meetups.\n\nHer blog has been featured multiple times in Android Weekly . In June 2016, She was selected as part of the Mail & Guardian\u2019s Top 200 Young South Africans.",
+    "photoUrl": "TODO",
+    "company": "Dynamic Visual Technologies",
+    "companyLogo": "TODO",
+    "name": "Rebecca Franks",
+    "socials": "https://twitter.com/riggaroo\nhttps://github.com/riggaroo\nhttps://www.linkedin.com/in/rebeccafranks/\nhttps://riggaroo.co.za/",
+    "country": "Johannesburg, South Africa"
+  },
+  {
+    "bio": "Sofia has been working as Full Stack Software Engineers for last 3 years and she is really passionate about web, especially everything related to Progressive Web Apps and developing fancy web application using Polymer. She always tries to go beyond the day to day life and learn something new, for now is interested a lot in Machine Learning.\nDespite that, Sofia is a manager of GDG Lviv and also leads local WTM community in Lviv. Additionally, one of organisers of GDG DevFest Ukraine (https://devfest.gdg.org.ua/). \n",
+    "photoUrl": "TODO",
+    "company": "JustAnswer",
+    "companyLogo": "TODO",
+    "name": "Sofia Huts",
+    "socials": "https://www.linkedin.com/in/sofiya-huts-4b314a9a\nhttps://www.facebook.com/sophie.huts.7\nhttps://twitter.com/sophie_h29\n",
+    "country": "Lviv, Ukraine"
+  },
+  {
+    "bio": "Radek is a software engineer at HashiCorp working on Terraform. Prior to joining he was part of the operations team at Time Inc. in the UK where he built tools for automating many parts of the deployment pipeline. He gravitated for most of his career towards automation and solving real problems through code. Besides open-source communities where he\u2019s been active in the past years as both contributor and maintainer he also enjoys discovering new places around the world and eating food while posting it on Instagram.",
+    "photoUrl": "TODO",
+    "company": "HashiCorp",
+    "companyLogo": "TODO",
+    "name": "Radek Simko",
+    "socials": "https://github.com/radeksimko\nhttps://linkedin.com/in/radeksimko\nhttps://twitter.com/radeksimko",
+    "country": "London, UK"
+  },
+  {
+    "bio": "I'm Android indie developer since 2010. I'm creating and selling my own apps for living.",
+    "photoUrl": "TODO",
+    "company": "Indie",
+    "companyLogo": "TODO",
+    "name": "Tom\u00e1\u0161 Hub\u00e1lek",
+    "socials": "https://play.google.com/store/apps/developer?id=Tomas+Hubalek",
+    "country": "Fren\u0161t\u00e1t pod Radho\u0161t\u011bm"
+  },
+  {
+    "bio": "Developer, researcher, stratupist but most of all technology geek",
+    "photoUrl": "TODO",
+    "company": "Urbandroid",
+    "companyLogo": "TODO",
+    "name": "Petr N\u00e1levka",
+    "socials": "https://en.gravatar.com/petrnalevka",
+    "country": "Czech republic, Prague"
+  },
+  {
+    "bio": "Gerard is very excited about the future of the Web and JavaScript. Always happy Computer Science Engineer and humble Google Developer Expert. He loves to share his learnings by giving talks, trainings and writing about cool technologies. He loves running AngularZone and GraphQL London, mentoring students and giving back to the community.",
+    "photoUrl": "TODO",
+    "company": "AngularZone",
+    "companyLogo": "TODO",
+    "name": "Gerard Sans",
+    "socials": "https://twitter.com/gerardsans\nhttp://lanyrd.com/profile/gerardsans\nhttps://medium.com/@gerard.sans\nhttps://github.com/gsans",
+    "country": "London"
+  },
+  {
+    "bio": "I'm a long time software developer and Android developer since 2009, Google Developer Expert for Android, organiser of GDG The Dutch Android User group and international speaker. Creator of various open source tools like Cupboard, android-apt and rxlint.",
+    "photoUrl": "TODO",
+    "company": "Little Robots",
+    "companyLogo": "TODO",
+    "name": "Hugo Visser",
+    "socials": "twitter.com/botteaap\nwww.littlerobots.nl",
+    "country": "Amsterdam, NL"
+  },
+  {
+    "bio": "Vitaliy\u2019s background includes mobile application and game development. Nowadays, he is leading the development of the next generation in-app marketing tools at GetSocial. He is a frequent speaker at world class tech conferences and TEDx. Founder of the Google Developers Group Lviv.",
+    "photoUrl": "TODO",
+    "company": "GetSocial",
+    "companyLogo": "TODO",
+    "name": "Vitaliy Zasadnyy",
+    "socials": "see previous submission",
+    "country": "Amsterdam, NL"
+  },
+  {
+    "bio": "Tanay Pant is an Indian author, hacker, developer and tech enthusiast. He is best known for his work on \"Building a Virtual Assistant for Raspberry Pi\" and \"Learning Firefox OS Application Development\". He is also an official representative of Mozilla. He has been listed in the about:credits of the Firefox web browser for his contributions to the different open source projects of the Mozilla Foundation.",
+    "photoUrl": "TODO",
+    "company": "Mozilla",
+    "companyLogo": "TODO",
+    "name": "Tanay Pant",
+    "socials": "http://tanaypant.com\nhttps://github.com/tanay1337\nhttps://twitter.com/tanay1337\nhttps://linkedin.com/in/tanay1337",
+    "country": "Berlin"
+  },
+  {
+    "bio": "Simon has over twenty years of development experience and has worked on a variety of projects including object oriented databases, police communication systems, speech recognition and unified messaging. His current focus is contributing to the open source PhoneGap project to enable developers to create cross platform mobile applications using Web technologies. Simon\u2019s been building web applications since the days they were written using shell scripts and he still has nightmares about those dark days.",
+    "photoUrl": "TODO",
+    "company": "Adobe",
+    "companyLogo": "TODO",
+    "name": "Simon MacDonald",
+    "socials": "https://www.simonmacdonald.com/\nhttps://twitter.com/macdonst\nhttps://github.com/macdonst",
+    "country": "Ottawa, Canada"
+  },
+  {
+    "bio": "Passionate about traveling and also to share his adventures with Web Technologies and Firebase. As a Google Developer Expert he\u2019s helping communities all over the world to learn, discover and have fun.",
+    "photoUrl": "TODO",
+    "company": "Caravana Web",
+    "companyLogo": "TODO",
+    "name": "Juarez Filho",
+    "socials": "@juarezpaf, linkedin.com/in/juarezpaf, github.com/juarezpaf",
+    "country": "Dublin, Ireland "
+  },
+  {
+    "bio": "Unfulfilled at my corporate job, I left to join a Seattle-based non-profit. Now I teach software development to 30+ incarcerated men at Washington State's second largest prison.",
+    "photoUrl": "TODO",
+    "company": "Unloop",
+    "companyLogo": "TODO",
+    "name": "Sarabeth Jaffe",
+    "socials": "www.linkedin.com/in/sarabethjaffe",
+    "country": "United States - Seattle, WA"
+  },
+  {
+    "bio": "Born and raised in Israel, the \u201cStartup Nation\u201d, Britt has started and lead the mobile teams on various startup companies, currently leading a stealth mode startup. \n\nPassionate about Android, she is co-leading Android Academy TLV which is one of the largest and most active Android communities out there. \nShe is a public speaker, a mentor at Google Campus TLV, and a blogger about Android development.\nBritt is also Women Techmakers Israel community lead and act to promote diversity in tech.\n\n",
+    "photoUrl": "TODO",
+    "company": "Android Academy",
+    "companyLogo": "TODO",
+    "name": "Britt Barak",
+    "socials": "www.facebook.com/britt.barak\nhttps://medium.com/@britt.barak\n@BrittBarak\nhttps://www.linkedin.com/in/brittbarak\n",
+    "country": "Israel"
+  },
+  {
+    "bio": "TODO",
+    "companyLogo": "TODO",
+    "name": "Jindrich Sarson",
+    "photoUrl": "TODO",
+    "country": "TODO",
+    "company": "TappyTaps",
+    "socials": "TODO"
+  },
+  {
+    "bio": "TODO",
+    "companyLogo": "TODO",
+    "name": "Jana Moudr\u00e1",
+    "photoUrl": "TODO",
+    "country": "TODO",
+    "company": "Juicymo",
+    "socials": "TODO"
+  },
+  {
+    "bio": "Alexey is a passionate developer and trainer that loves to engage people into conversations about IT and tech. He is an organizer of Google Developers Group Riga (http://GDGRiga.lv), Java User Group Latvia (http://JUG.lv), Mobile Developers Latvia, annual Riga Dev Day conference (http://rigadevday.lv/) and a frequent speaker at international conferences.",
+    "photoUrl": "TODO",
+    "company": "GDG Riga",
+    "companyLogo": "TODO",
+    "name": "Alexey Buzdin",
+    "socials": "http://lanyrd.com/profile/alexeybuzdin/\nhttps://twitter.com/AlexeyBuzdin\nhttps://www.linkedin.com/in/alexeybuzdin\nhttps://speakerdeck.com/larchaon\nhttps://github.com/AlexeyBuzdin/\n",
+    "country": "Latvia, Riga"
+  },
+  {
+    "bio": "Google Developer Expert on Dart and Google Cloud Platform",
+    "photoUrl": "TODO",
+    "company": "fnx.io",
+    "companyLogo": "TODO",
+    "name": "Tom\u00e1\u0161 Zv\u011b\u0159ina",
+    "socials": "https://twitter.com/tomucha",
+    "country": "\u0158evnice !"
+  },
+  {
+    "bio": "Faisal is a Google Developer Expert, Entrepreneur and Engineer. He is a programming language enthusiast and loves solving software engineering challenges across the stack.\n\nDuring the days, you can find Faisal developing mobile applications either on iOS/Android, or writing backends in Dart or Node.js",
+    "photoUrl": "TODO",
+    "company": "Zoom.ai",
+    "companyLogo": "TODO",
+    "name": "Faisal Abid",
+    "socials": "https://www.twitter.com/FaisalAbid",
+    "country": "Toronto, Canada"
+  },
+  {
+    "bio": "TODO",
+    "companyLogo": "TODO",
+    "name": "Daniel Stenberg ",
+    "photoUrl": "TODO",
+    "country": "TODO",
+    "company": "Mozilla",
+    "socials": "TODO"
+  },
+  {
+    "bio": "Vigneshwer is an innovative data scientist with an artistic perception of technology and business, having 3+ years of experience in various domains such as IOT, DevOps, Computer Vision & Deep Learning and is currently engaged as a research analyst crunching real-time data and implementing state of art AI algorithms in the Innovation and development lab of the world\u2019s largest decision science company in Bengaluru, India.\n \nHe is a Mozilla TechSpeaker program member and has been associated with Mozilla communities and initiatives for more than 4 years conducting 100+ events in his regions. He strongly believes and evangelises that technology needs to have a human centric design & workflow in order to create solutions for a diverse audience. He recently delivered a session about AI engineering in the open science space at Mozfest 16 & HKOScon 17. He speaks regularly about rust / ML in various local meetup groups and is the author of Rust Cookbook by Packt publisher. ",
+    "photoUrl": "TODO",
+    "company": "Mozilla",
+    "companyLogo": "TODO",
+    "name": "Vigneshwer Dhinakaran",
+    "socials": "https://github.com/dvigneshwer, https://twitter.com/dvigneshwer",
+    "country": "Bengaluru, India"
+  },
+  {
+    "bio": "Ipsha is a software engineer at Gemalto by profession, a Mozilla tech speaker by heart, and an advocate for a free and open web by passion. She likes traveling to new places and meeting people with different perspectives of the world. Fascinated by psychology and astronomy, she looks up to people who dare to think beyond the realms of what seems possible.",
+    "photoUrl": "TODO",
+    "company": "Mozilla",
+    "companyLogo": "TODO",
+    "name": "Ipsha Bhidonia",
+    "socials": "https://ipsha218.wordpress.com/\nhttps://twitter.com/ipsha21",
+    "country": "New Delhi, India"
+  },
+  {
+    "bio": "Vladislav is working in mobile and IoT security. In the past he did a several experiments, like accessibility and hackability of web cams in Czech republic, security analysis of consumer applications such as Target or the demo of insecurity of IoT home appliances. Vladislav is working for Avast at R&D of next-gen security solution for Android. ",
+    "photoUrl": "TODO",
+    "company": "Avast",
+    "companyLogo": "TODO",
+    "name": "Vladislav Iliushin",
+    "socials": "https://www.linkedin.com/in/iliushin/\nhttps://www.facebook.com/vlad.iliushin",
+    "country": "Prague"
+  },
+  {
+    "bio": "I am Swift/iOS and Ruby on Rails Software Engineer, Internet of Things & Open Hardware enthusiast, Entrepreneur and Public Speaker.\n",
+    "photoUrl": "TODO",
+    "company": "Juicymo",
+    "companyLogo": "TODO",
+    "name": "Tom\u00e1\u0161 Jukin",
+    "socials": "https://about.me/Inza\nhttps://twitter.com/Inza\nhttps://github.com/Inza",
+    "country": "Prague - budu mo\u017en\u00e1 d\u011blat taxik\u00e1\u0159e Kasper Lund z leti\u0161te a pl\u00e1nuji pro n\u011bj ud\u011blat prohl\u00eddku Prahy s koment\u00e1\u0159em v EN, pokud by se cht\u011bli p\u0159idat i dal\u0161\u00ed spek\u0159i, je to mo\u017en\u00e9 ;)"
+  },
+  {
+    "bio": "I'm Android Developer at eMan which is a Czech company providing innovative solutions.\nI have almost 10 years of experience in software development field.\n\nI'm proud to be the Czech Kotlin User Group Founder & Organizer. I fell in love with Kotlin even before it was cool. I've been using Kotlin for two years already not only for Android, but at the beginning I also used it as a replacement for JavaScript and prototyping of small microservices. I'm fully focusing on everything around Kotlin language and organizing the Czech Kotlin User Group meetups.\n\nIn my spare time I enjoy playing ice hockey, drinking Pilsner Urquell and following tech trends.",
+    "photoUrl": "TODO",
+    "company": "eMan",
+    "companyLogo": "TODO",
+    "name": "Vaclav Souhrada",
+    "socials": "https://www.facebook.com/vaclav.souhrada\nhttps://twitter.com/vsouhrada\nhttps://plus.google.com/u/0/+VaclavSouhrada\nhttps://www.linkedin.com/in/v%C3%A1clav-souhrada-7488755b/\nhttps://www.facebook.com/czkug/\nhttps://twitter.com/KotlinCzech",
+    "country": "Pilsen, Czech Republic"
+  },
+  {
+    "bio": "TODO",
+    "companyLogo": "TODO",
+    "name": "Nik Page",
+    "photoUrl": "TODO",
+    "country": "TODO",
+    "company": "GDE",
+    "socials": "TODO"
+  },
+  {
+    "bio": "Red Hatter for 5 years, working with containers for last 4 years. Currently in Developer Tools team making developers' life easier.",
+    "photoUrl": "TODO",
+    "company": "Red Hat",
+    "companyLogo": "TODO",
+    "name": "V\u00e1clav Pavl\u00edn",
+    "socials": "vpavlin.eu, https://twitter.com/vpavlin",
+    "country": "Brno"
+  },
+  {
+    "bio": "From an API technical writer, through an API evangelist to the API Godfather. I am a part of a team that knows no borders. The team has decoded my DNA and added our API to it.  Apart from being a proud member of this wonderful team, I am also its speaker on the international stage and its link to the worldwide API community.",
+    "photoUrl": "TODO",
+    "company": "\u010cesk\u00e1 Spo\u0159itelna",
+    "companyLogo": "TODO",
+    "name": "Jaroslav Macha\u0148",
+    "socials": "@csas_devs, https://www.linkedin.com/in/machanjr/, ",
+    "country": "Prague, Antala Sta\u0161ka 32"
+  },
+  {
+    "bio": "I have been developing Android applications in multiple companies over last 4+ years. Tinkering with Kotlin from the first public releases and using it in production application for the last 6 months. Occasionally giving presentations about Kotlin related topics at local developer meetups.",
+    "photoUrl": "TODO",
+    "company": "FullContact",
+    "companyLogo": "TODO",
+    "name": "Sergejs Luhmirins",
+    "socials": "https://github.com/siga111\nhttps://www.linkedin.com/in/sergejs-luhmirins-61a58937/",
+    "country": "Riga"
+  },
+  {
+    "bio": "Alvin is a web and game developer working on interactive graphics for BBC news. \nA lover of open-source, always looking to push the boundaries of the browsers when it comes to creativity and interactivity.\nEspecially into programming when it comes to journalism, 3D and all things data-driven.\n\nI've worked on some award-winning HTML5 games and I have been a core contributor to the Phaser game framework as well as Pixi.js, the fast and versatile 2D rendering engine.\n\nAccolades include FWA mobile, Lovie Awards, finalist for Broadcast Digital and Tiga awards, as well as a BAFTA nomination.",
+    "photoUrl": "TODO",
+    "company": "BBC",
+    "companyLogo": "TODO",
+    "name": "Alvin Ourrad",
+    "socials": "Portfolio: http://alvin.me.uk\nPortfolio: http://www.alvin.me.uk\nTwitter: https://twitter.com/alvinsight\nGithub: https://github.com/alvinsight",
+    "country": "London, UK"
+  },
+  {
+    "bio": "I'm passionate about helping people communicate. One of the areas I've focused on since 2009 is helping IT professionals share their ideas and projects and even communicate with each other in networking situations.",
+    "photoUrl": "TODO",
+    "company": "Freelance",
+    "companyLogo": "TODO",
+    "name": "Jeanne Trojan",
+    "socials": "jeannetrojan.com\nlinkedin.com/in/jeannetrojan\n@jmtcz\n@JeanneTrojan",
+    "country": "I'm in Prague"
+  },
+  {
+    "bio": "I am cloud enthusiastic person. Started as programmer in FoxPro in 1993, worked for large enterprise company  Siemens in various African countries (Morocco, South Africa, Mozambique, Tanzania, Zanzibar ...), founded technical and deployment and support team in nangu.tv. ",
+    "photoUrl": "TODO",
+    "company": "Netmail",
+    "companyLogo": "TODO",
+    "name": "Pavel Krejsa",
+    "socials": "https://www.linkedin.com/in/pavel-krejsa/",
+    "country": "Prague"
+  },
+  {
+    "bio": "Developer with 8 years of experience with backend systems. Created them from scratch by starting with analysis and writing specification up to deployment on production. Working mainly with Python, PHP and MySQL, elastic search and other technologies. Big fan and evangelist of continuous learning, organizer of many coding dojo sessions.",
+    "photoUrl": "TODO",
+    "company": "GOG.com",
+    "companyLogo": "TODO",
+    "name": "Pawe\u0142 Lewtak",
+    "socials": "https://twitter.com/pawel_lewtak\nhttps://www.linkedin.com/in/plewtak/\nhttps://github.com/pawel-lewtak",
+    "country": "Warsaw, Poland"
+  },
+  {
+    "bio": "Passionate developer working with machine learning models at scale. ",
+    "photoUrl": "TODO",
+    "company": "Seznam",
+    "companyLogo": "TODO",
+    "name": "V\u00edt List\u00edk",
+    "socials": "https://www.linkedin.com/in/tivvit/",
+    "country": "Prague"
+  },
+  {
+    "bio": "An experienced web developer (10+ years), speaker and lecturer. Apart from working for a major Czech online company (Seznam.cz, a.s.), I regularly give talks at the Czech Technical University in Prague. Focus on all frontend web technologies.",
+    "photoUrl": "TODO",
+    "company": "Seznam",
+    "companyLogo": "TODO",
+    "name": "Ond\u0159ej \u017d\u00e1ra",
+    "socials": "http://ondras.zarovi.cz/\nhttps://github.com/ondras/\nhttps://twitter.com/0ndras",
+    "country": "Prague"
+  },
+  {
+    "bio": "I am Senior marketing & HR manager with 8+ years experience, incl. Google. Now I am focusing on happiness at work, company culture and startups. I teach people, how to build teams, motivate them and how new employement market works. I do write articles about HR and happiness management to a magazine Statut\u00e1rn\u00ed z\u00e1stupce firem (for CEOs, boards) and do workshop for Forum publishing house. My last talk was for GBG Prague about Happiness management and was very well rated.",
+    "photoUrl": "TODO",
+    "company": "Robeeto",
+    "companyLogo": "TODO",
+    "name": "V\u011brka Koukalov\u00e1",
+    "socials": "search for Verudellita (Twitter, Instagram, Facebook, LinkedIN - verka.koukalova)",
+    "country": "CZ"
+  },
+  {
+    "bio": "I am a Delhi Girl working as UI Tech lead. I started my journey as web designer and over the years I moved to web developer. My core skills are - Photoshop, HTML, CSS, Javascript, Typescript, Nodejs , Gruntjs, Polymerjs, python, Reactjs. People know me as Javascript Girl as I run a community name JSLovers (meetup.com/jslovers) here from last 2 years to teach the developers. I love chai , love coding and I do doodle. I am biggest bollywood fan. I am active tech speaker around Delhi/Gurgaon/Noida/Mumbai and promote women in technology .",
+    "photoUrl": "TODO",
+    "company": "Toaster",
+    "companyLogo": "TODO",
+    "name": "Neha Sharma",
+    "socials": "https://www.linkedin.com/in/nehha/\nhttps://twitter.com/hellonehha\nhttps://medium.com/@hellonehha\n",
+    "country": "New Delhi, India"
+  }
+]
