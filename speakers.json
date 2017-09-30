@@ -1,335 +1,1109 @@
 [
   {
     "bio": "I am a software engineer at Google working on the design and implementation of programming languages. I have been designing and implementing virtual machines and runtime systems for too long and efficient interpretation, dynamic compilation, and adaptive optimizations are my kind of things.",
-    "photoUrl": "TODO",
     "company": "Google",
     "companyLogo": "TODO",
+    "socials": [
+      {
+        "link": "https://plus.google.com/+KasperLund",
+        "icon": "gplus",
+        "name": "Google+"
+      }
+    ],
     "name": "Kasper Lund",
-    "socials": "https://plus.google.com/+KasperLund",
-    "country": "Denmark"
+    "photoUrl": "/images/people/kasper_lund.jpg",
+    "country": "Denmark",
+    "featured": true,
+    "shortBio": "TODO",
+    "title": "Engineering lead for Dart",
+    "tags": [
+      "Dart"
+    ]
   },
   {
-    "bio": "Rebecca Franks the Android Engineering Lead at DVT. She has over 5 years experience in developing Android applications.  In March 2016, she was awarded with the status of Google Developer Expert for Android.\n\nIn her spare time, she works with Book Dash \u2013 a Non Profit Organisation \u2013 developing an Android app to showcase their free children\u2019s books. She enjoys public speaking and frequently speak at conferences and local meetups.\n\nHer blog has been featured multiple times in Android Weekly . In June 2016, She was selected as part of the Mail & Guardian\u2019s Top 200 Young South Africans.",
-    "photoUrl": "TODO",
+    "bio": "Rebecca Franks the Android Engineering Lead at DVT. She has over 5 years experience in developing Android applications.  In March 2016, she was awarded with the status of Google Developer Expert for Android.\n\nIn her spare time, she works with Book Dash – a Non Profit Organisation – developing an Android app to showcase their free children’s books. She enjoys public speaking and frequently speak at conferences and local meetups.\n\nHer blog has been featured multiple times in Android Weekly . In June 2016, She was selected as part of the Mail & Guardian’s Top 200 Young South Africans.",
     "company": "Dynamic Visual Technologies",
     "companyLogo": "TODO",
+    "socials": [
+      {
+        "link": "https://twitter.com/riggaroo",
+        "icon": "twitter",
+        "name": "Twitter"
+      },
+      {
+        "link": "https://github.com/riggaroo",
+        "icon": "github",
+        "name": "GitHub"
+      },
+      {
+        "link": "https://www.linkedin.com/in/rebeccafranks/",
+        "icon": "linkedin",
+        "name": "LinkedIn"
+      },
+      {
+        "link": "https://riggaroo.co.za/",
+        "icon": "website",
+        "name": "Website"
+      }
+    ],
     "name": "Rebecca Franks",
-    "socials": "https://twitter.com/riggaroo\nhttps://github.com/riggaroo\nhttps://www.linkedin.com/in/rebeccafranks/\nhttps://riggaroo.co.za/",
-    "country": "Johannesburg, South Africa"
+    "photoUrl": "/images/people/rebecca_franks.jpg",
+    "country": "Johannesburg, South Africa",
+    "featured": true,
+    "shortBio": "TODO",
+    "title": "Lead Android Engineer",
+    "tags": [
+      "Android"
+    ]
   },
   {
     "bio": "Sofia has been working as Full Stack Software Engineers for last 3 years and she is really passionate about web, especially everything related to Progressive Web Apps and developing fancy web application using Polymer. She always tries to go beyond the day to day life and learn something new, for now is interested a lot in Machine Learning.\nDespite that, Sofia is a manager of GDG Lviv and also leads local WTM community in Lviv. Additionally, one of organisers of GDG DevFest Ukraine (https://devfest.gdg.org.ua/). \n",
-    "photoUrl": "TODO",
     "company": "JustAnswer",
     "companyLogo": "TODO",
+    "socials": [
+      {
+        "link": "https://www.linkedin.com/in/sofiya-huts-4b314a9a",
+        "icon": "linkedin",
+        "name": "LinkedIn"
+      },
+      {
+        "link": "https://www.facebook.com/sophie.huts.7",
+        "icon": "facebook",
+        "name": "Facebook"
+      },
+      {
+        "link": "https://twitter.com/sophie_h29",
+        "icon": "twitter",
+        "name": "Twitter"
+      }
+    ],
     "name": "Sofia Huts",
-    "socials": "https://www.linkedin.com/in/sofiya-huts-4b314a9a\nhttps://www.facebook.com/sophie.huts.7\nhttps://twitter.com/sophie_h29\n",
-    "country": "Lviv, Ukraine"
+    "photoUrl": "/images/people/sofia_huts.jpg",
+    "country": "Lviv, Ukraine",
+    "featured": true,
+    "shortBio": "TODO",
+    "title": "Full Stack Software Engineer",
+    "tags": [
+      "Web",
+      "Firebase"
+    ]
   },
   {
-    "bio": "Radek is a software engineer at HashiCorp working on Terraform. Prior to joining he was part of the operations team at Time Inc. in the UK where he built tools for automating many parts of the deployment pipeline. He gravitated for most of his career towards automation and solving real problems through code. Besides open-source communities where he\u2019s been active in the past years as both contributor and maintainer he also enjoys discovering new places around the world and eating food while posting it on Instagram.",
-    "photoUrl": "TODO",
+    "bio": "Radek is a software engineer at HashiCorp working on Terraform. Prior to joining he was part of the operations team at Time Inc. in the UK where he built tools for automating many parts of the deployment pipeline. He gravitated for most of his career towards automation and solving real problems through code. Besides open-source communities where he’s been active in the past years as both contributor and maintainer he also enjoys discovering new places around the world and eating food while posting it on Instagram.",
     "company": "HashiCorp",
     "companyLogo": "TODO",
+    "socials": [
+      {
+        "link": "https://github.com/radeksimko",
+        "icon": "github",
+        "name": "GitHub"
+      },
+      {
+        "link": "https://linkedin.com/in/radeksimko",
+        "icon": "linkedin",
+        "name": "LinkedIn"
+      },
+      {
+        "link": "https://twitter.com/radeksimko",
+        "icon": "twitter",
+        "name": "Twitter"
+      }
+    ],
     "name": "Radek Simko",
-    "socials": "https://github.com/radeksimko\nhttps://linkedin.com/in/radeksimko\nhttps://twitter.com/radeksimko",
-    "country": "London, UK"
+    "photoUrl": "/images/people/radek_simko.jpg",
+    "country": "London, UK",
+    "featured": true,
+    "shortBio": "TODO",
+    "title": "Software Engineer",
+    "tags": [
+      "Cloud"
+    ]
   },
   {
     "bio": "I'm Android indie developer since 2010. I'm creating and selling my own apps for living.",
-    "photoUrl": "TODO",
     "company": "Indie",
     "companyLogo": "TODO",
-    "name": "Tom\u00e1\u0161 Hub\u00e1lek",
-    "socials": "https://play.google.com/store/apps/developer?id=Tomas+Hubalek",
-    "country": "Fren\u0161t\u00e1t pod Radho\u0161t\u011bm"
+    "socials": [
+      {
+        "link": "https://play.google.com/store/apps/developer?id=Tomas+Hubalek",
+        "icon": "website",
+        "name": "Website"
+      }
+    ],
+    "name": "Tomáš Hubálek",
+    "photoUrl": "/images/people/tomáš_hubálek.jpg",
+    "country": "Frenštát pod Radhoštěm",
+    "featured": true,
+    "shortBio": "TODO",
+    "title": "Indie developer",
+    "tags": [
+      "Marketing",
+      "Indie"
+    ]
   },
   {
     "bio": "Developer, researcher, stratupist but most of all technology geek",
-    "photoUrl": "TODO",
     "company": "Urbandroid",
     "companyLogo": "TODO",
-    "name": "Petr N\u00e1levka",
-    "socials": "https://en.gravatar.com/petrnalevka",
-    "country": "Czech republic, Prague"
+    "socials": [
+      {
+        "link": "https://en.gravatar.com/petrnalevka",
+        "icon": "website",
+        "name": "Website"
+      }
+    ],
+    "name": "Petr Nálevka",
+    "photoUrl": "/images/people/petr_nálevka.jpg",
+    "country": "Czech republic, Prague",
+    "featured": true,
+    "shortBio": "TODO",
+    "title": "CEO",
+    "tags": [
+      "Android",
+      "Cloud"
+    ]
   },
   {
     "bio": "Gerard is very excited about the future of the Web and JavaScript. Always happy Computer Science Engineer and humble Google Developer Expert. He loves to share his learnings by giving talks, trainings and writing about cool technologies. He loves running AngularZone and GraphQL London, mentoring students and giving back to the community.",
-    "photoUrl": "TODO",
     "company": "AngularZone",
     "companyLogo": "TODO",
+    "socials": [
+      {
+        "link": "https://twitter.com/gerardsans",
+        "icon": "twitter",
+        "name": "Twitter"
+      },
+      {
+        "link": "http://lanyrd.com/profile/gerardsans",
+        "icon": "website",
+        "name": "Website"
+      },
+      {
+        "link": "https://medium.com/@gerard.sans",
+        "icon": "website",
+        "name": "Website"
+      },
+      {
+        "link": "https://github.com/gsans",
+        "icon": "github",
+        "name": "GitHub"
+      }
+    ],
     "name": "Gerard Sans",
-    "socials": "https://twitter.com/gerardsans\nhttp://lanyrd.com/profile/gerardsans\nhttps://medium.com/@gerard.sans\nhttps://github.com/gsans",
-    "country": "London"
+    "photoUrl": "/images/people/gerard_sans.jpg",
+    "country": "London",
+    "featured": true,
+    "shortBio": "TODO",
+    "title": "Google Developer Expert",
+    "tags": [
+      "Web"
+    ]
   },
   {
     "bio": "I'm a long time software developer and Android developer since 2009, Google Developer Expert for Android, organiser of GDG The Dutch Android User group and international speaker. Creator of various open source tools like Cupboard, android-apt and rxlint.",
-    "photoUrl": "TODO",
     "company": "Little Robots",
     "companyLogo": "TODO",
+    "socials": [
+      {
+        "link": "twitter.com/botteaap",
+        "icon": "twitter",
+        "name": "Twitter"
+      },
+      {
+        "link": "www.littlerobots.nl",
+        "icon": "website",
+        "name": "Website"
+      }
+    ],
     "name": "Hugo Visser",
-    "socials": "twitter.com/botteaap\nwww.littlerobots.nl",
-    "country": "Amsterdam, NL"
+    "photoUrl": "/images/people/hugo_visser.jpg",
+    "country": "Amsterdam, NL",
+    "featured": true,
+    "shortBio": "TODO",
+    "title": "Main Robot",
+    "tags": [
+      "Android"
+    ]
   },
   {
-    "bio": "Vitaliy\u2019s background includes mobile application and game development. Nowadays, he is leading the development of the next generation in-app marketing tools at GetSocial. He is a frequent speaker at world class tech conferences and TEDx. Founder of the Google Developers Group Lviv.",
-    "photoUrl": "TODO",
+    "bio": "Vitaliy’s background includes mobile application and game development. Nowadays, he is leading the development of the next generation in-app marketing tools at GetSocial. He is a frequent speaker at world class tech conferences and TEDx. Founder of the Google Developers Group Lviv.",
     "company": "GetSocial",
     "companyLogo": "TODO",
+    "socials": [
+      {
+        "link": "see",
+        "icon": "website",
+        "name": "Website"
+      },
+      {
+        "link": "previous",
+        "icon": "website",
+        "name": "Website"
+      },
+      {
+        "link": "submission",
+        "icon": "website",
+        "name": "Website"
+      }
+    ],
     "name": "Vitaliy Zasadnyy",
-    "socials": "see previous submission",
-    "country": "Amsterdam, NL"
+    "photoUrl": "/images/people/vitaliy_zasadnyy.jpg",
+    "country": "Amsterdam, NL",
+    "featured": true,
+    "shortBio": "TODO",
+    "title": "Head of Mobile",
+    "tags": [
+      "Android",
+      "iOS"
+    ]
   },
   {
     "bio": "Tanay Pant is an Indian author, hacker, developer and tech enthusiast. He is best known for his work on \"Building a Virtual Assistant for Raspberry Pi\" and \"Learning Firefox OS Application Development\". He is also an official representative of Mozilla. He has been listed in the about:credits of the Firefox web browser for his contributions to the different open source projects of the Mozilla Foundation.",
-    "photoUrl": "TODO",
     "company": "Mozilla",
     "companyLogo": "TODO",
+    "socials": [
+      {
+        "link": "http://tanaypant.com",
+        "icon": "website",
+        "name": "Website"
+      },
+      {
+        "link": "https://github.com/tanay1337",
+        "icon": "github",
+        "name": "GitHub"
+      },
+      {
+        "link": "https://twitter.com/tanay1337",
+        "icon": "twitter",
+        "name": "Twitter"
+      },
+      {
+        "link": "https://linkedin.com/in/tanay1337",
+        "icon": "linkedin",
+        "name": "LinkedIn"
+      }
+    ],
     "name": "Tanay Pant",
-    "socials": "http://tanaypant.com\nhttps://github.com/tanay1337\nhttps://twitter.com/tanay1337\nhttps://linkedin.com/in/tanay1337",
-    "country": "Berlin"
+    "photoUrl": "/images/people/tanay_pant.jpg",
+    "country": "Berlin",
+    "featured": true,
+    "shortBio": "TODO",
+    "title": "Tech Speaker",
+    "tags": [
+      "UX",
+      "VR/AR"
+    ]
   },
   {
-    "bio": "Simon has over twenty years of development experience and has worked on a variety of projects including object oriented databases, police communication systems, speech recognition and unified messaging. His current focus is contributing to the open source PhoneGap project to enable developers to create cross platform mobile applications using Web technologies. Simon\u2019s been building web applications since the days they were written using shell scripts and he still has nightmares about those dark days.",
-    "photoUrl": "TODO",
+    "bio": "Simon has over twenty years of development experience and has worked on a variety of projects including object oriented databases, police communication systems, speech recognition and unified messaging. His current focus is contributing to the open source PhoneGap project to enable developers to create cross platform mobile applications using Web technologies. Simon’s been building web applications since the days they were written using shell scripts and he still has nightmares about those dark days.",
     "company": "Adobe",
     "companyLogo": "TODO",
+    "socials": [
+      {
+        "link": "https://www.simonmacdonald.com/",
+        "icon": "website",
+        "name": "Website"
+      },
+      {
+        "link": "https://twitter.com/macdonst",
+        "icon": "twitter",
+        "name": "Twitter"
+      },
+      {
+        "link": "https://github.com/macdonst",
+        "icon": "github",
+        "name": "GitHub"
+      }
+    ],
     "name": "Simon MacDonald",
-    "socials": "https://www.simonmacdonald.com/\nhttps://twitter.com/macdonst\nhttps://github.com/macdonst",
-    "country": "Ottawa, Canada"
+    "photoUrl": "/images/people/simon_macdonald.jpg",
+    "country": "Ottawa, Canada",
+    "featured": true,
+    "shortBio": "TODO",
+    "title": "Senior Software Scientist",
+    "tags": [
+      "Web",
+      "Mobile"
+    ]
   },
   {
-    "bio": "Passionate about traveling and also to share his adventures with Web Technologies and Firebase. As a Google Developer Expert he\u2019s helping communities all over the world to learn, discover and have fun.",
-    "photoUrl": "TODO",
+    "bio": "Passionate about traveling and also to share his adventures with Web Technologies and Firebase. As a Google Developer Expert he’s helping communities all over the world to learn, discover and have fun.",
     "company": "Caravana Web",
     "companyLogo": "TODO",
+    "socials": [
+      {
+        "link": "@juarezpaf,",
+        "icon": "website",
+        "name": "Website"
+      },
+      {
+        "link": "linkedin.com/in/juarezpaf,",
+        "icon": "linkedin",
+        "name": "LinkedIn"
+      },
+      {
+        "link": "github.com/juarezpaf",
+        "icon": "github",
+        "name": "GitHub"
+      }
+    ],
     "name": "Juarez Filho",
-    "socials": "@juarezpaf, linkedin.com/in/juarezpaf, github.com/juarezpaf",
-    "country": "Dublin, Ireland "
+    "photoUrl": "/images/people/juarez_filho.jpg",
+    "country": "Dublin, Ireland ",
+    "featured": true,
+    "shortBio": "TODO",
+    "title": "Firebase Google Developer Expert",
+    "tags": [
+      "Firebase"
+    ]
   },
   {
     "bio": "Unfulfilled at my corporate job, I left to join a Seattle-based non-profit. Now I teach software development to 30+ incarcerated men at Washington State's second largest prison.",
-    "photoUrl": "TODO",
     "company": "Unloop",
     "companyLogo": "TODO",
+    "socials": [
+      {
+        "link": "www.linkedin.com/in/sarabethjaffe",
+        "icon": "linkedin",
+        "name": "LinkedIn"
+      }
+    ],
     "name": "Sarabeth Jaffe",
-    "socials": "www.linkedin.com/in/sarabethjaffe",
-    "country": "United States - Seattle, WA"
+    "photoUrl": "/images/people/sarabeth_jaffe.jpg",
+    "country": "United States - Seattle, WA",
+    "featured": true,
+    "shortBio": "TODO",
+    "title": "Software Development Instructor",
+    "tags": [
+      "Web"
+    ]
   },
   {
-    "bio": "Born and raised in Israel, the \u201cStartup Nation\u201d, Britt has started and lead the mobile teams on various startup companies, currently leading a stealth mode startup. \n\nPassionate about Android, she is co-leading Android Academy TLV which is one of the largest and most active Android communities out there. \nShe is a public speaker, a mentor at Google Campus TLV, and a blogger about Android development.\nBritt is also Women Techmakers Israel community lead and act to promote diversity in tech.\n\n",
-    "photoUrl": "TODO",
+    "bio": "Born and raised in Israel, the “Startup Nation”, Britt has started and lead the mobile teams on various startup companies, currently leading a stealth mode startup. \n\nPassionate about Android, she is co-leading Android Academy TLV which is one of the largest and most active Android communities out there. \nShe is a public speaker, a mentor at Google Campus TLV, and a blogger about Android development.\nBritt is also Women Techmakers Israel community lead and act to promote diversity in tech.\n\n",
     "company": "Android Academy",
     "companyLogo": "TODO",
+    "socials": [
+      {
+        "link": "www.facebook.com/britt.barak",
+        "icon": "facebook",
+        "name": "Facebook"
+      },
+      {
+        "link": "https://medium.com/@britt.barak",
+        "icon": "website",
+        "name": "Website"
+      },
+      {
+        "link": "@BrittBarak",
+        "icon": "website",
+        "name": "Website"
+      },
+      {
+        "link": "https://www.linkedin.com/in/brittbarak",
+        "icon": "linkedin",
+        "name": "LinkedIn"
+      }
+    ],
     "name": "Britt Barak",
-    "socials": "www.facebook.com/britt.barak\nhttps://medium.com/@britt.barak\n@BrittBarak\nhttps://www.linkedin.com/in/brittbarak\n",
-    "country": "Israel"
+    "photoUrl": "/images/people/britt_barak.jpg",
+    "country": "Israel",
+    "featured": true,
+    "shortBio": "TODO",
+    "title": "Co-Leader, Android Expert, Speaker, Mentor",
+    "tags": [
+      "Android"
+    ]
   },
   {
     "bio": "TODO",
+    "company": "TappyTaps",
     "companyLogo": "TODO",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "TODO",
+        "name": "Twitter"
+      }
+    ],
     "name": "Jindrich Sarson",
     "photoUrl": "TODO",
     "country": "TODO",
-    "company": "TappyTaps",
-    "socials": "TODO"
+    "featured": true,
+    "shortBio": "TODO",
+    "tags": [
+      ""
+    ],
+    "title": "TODO"
   },
   {
     "bio": "TODO",
+    "company": "Juicymo",
     "companyLogo": "TODO",
-    "name": "Jana Moudr\u00e1",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "TODO",
+        "name": "Twitter"
+      }
+    ],
+    "name": "Jana Moudrá",
     "photoUrl": "TODO",
     "country": "TODO",
-    "company": "Juicymo",
-    "socials": "TODO"
+    "featured": true,
+    "shortBio": "TODO",
+    "tags": [
+      "Dart",
+      "Web"
+    ],
+    "title": "TODO"
   },
   {
     "bio": "Alexey is a passionate developer and trainer that loves to engage people into conversations about IT and tech. He is an organizer of Google Developers Group Riga (http://GDGRiga.lv), Java User Group Latvia (http://JUG.lv), Mobile Developers Latvia, annual Riga Dev Day conference (http://rigadevday.lv/) and a frequent speaker at international conferences.",
-    "photoUrl": "TODO",
     "company": "GDG Riga",
     "companyLogo": "TODO",
+    "socials": [
+      {
+        "link": "http://lanyrd.com/profile/alexeybuzdin/",
+        "icon": "website",
+        "name": "Website"
+      },
+      {
+        "link": "https://twitter.com/AlexeyBuzdin",
+        "icon": "twitter",
+        "name": "Twitter"
+      },
+      {
+        "link": "https://www.linkedin.com/in/alexeybuzdin",
+        "icon": "linkedin",
+        "name": "LinkedIn"
+      },
+      {
+        "link": "https://speakerdeck.com/larchaon",
+        "icon": "website",
+        "name": "Website"
+      },
+      {
+        "link": "https://github.com/AlexeyBuzdin/",
+        "icon": "github",
+        "name": "GitHub"
+      }
+    ],
     "name": "Alexey Buzdin",
-    "socials": "http://lanyrd.com/profile/alexeybuzdin/\nhttps://twitter.com/AlexeyBuzdin\nhttps://www.linkedin.com/in/alexeybuzdin\nhttps://speakerdeck.com/larchaon\nhttps://github.com/AlexeyBuzdin/\n",
-    "country": "Latvia, Riga"
+    "photoUrl": "/images/people/alexey_buzdin.jpg",
+    "country": "Latvia, Riga",
+    "featured": true,
+    "shortBio": "TODO",
+    "title": "Organizer",
+    "tags": [
+      "Android"
+    ]
   },
   {
     "bio": "Google Developer Expert on Dart and Google Cloud Platform",
-    "photoUrl": "TODO",
     "company": "fnx.io",
     "companyLogo": "TODO",
-    "name": "Tom\u00e1\u0161 Zv\u011b\u0159ina",
-    "socials": "https://twitter.com/tomucha",
-    "country": "\u0158evnice !"
+    "socials": [
+      {
+        "link": "https://twitter.com/tomucha",
+        "icon": "twitter",
+        "name": "Twitter"
+      }
+    ],
+    "name": "Tomáš Zvěřina",
+    "photoUrl": "/images/people/tomáš_zvěřina.jpg",
+    "country": "Řevnice !",
+    "featured": true,
+    "shortBio": "TODO",
+    "title": "Founder",
+    "tags": [
+      "Dart"
+    ]
   },
   {
     "bio": "Faisal is a Google Developer Expert, Entrepreneur and Engineer. He is a programming language enthusiast and loves solving software engineering challenges across the stack.\n\nDuring the days, you can find Faisal developing mobile applications either on iOS/Android, or writing backends in Dart or Node.js",
-    "photoUrl": "TODO",
     "company": "Zoom.ai",
     "companyLogo": "TODO",
+    "socials": [
+      {
+        "link": "https://www.twitter.com/FaisalAbid",
+        "icon": "twitter",
+        "name": "Twitter"
+      }
+    ],
     "name": "Faisal Abid",
-    "socials": "https://www.twitter.com/FaisalAbid",
-    "country": "Toronto, Canada"
+    "photoUrl": "/images/people/faisal_abid.jpg",
+    "country": "Toronto, Canada",
+    "featured": true,
+    "shortBio": "TODO",
+    "title": "Senior Engineer",
+    "tags": [
+      "Assistant"
+    ]
   },
   {
     "bio": "TODO",
+    "company": "Mozilla",
     "companyLogo": "TODO",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "TODO",
+        "name": "Twitter"
+      }
+    ],
     "name": "Daniel Stenberg ",
     "photoUrl": "TODO",
     "country": "TODO",
-    "company": "Mozilla",
-    "socials": "TODO"
+    "featured": true,
+    "shortBio": "TODO",
+    "tags": [
+      "web"
+    ],
+    "title": "TODO"
   },
   {
-    "bio": "Vigneshwer is an innovative data scientist with an artistic perception of technology and business, having 3+ years of experience in various domains such as IOT, DevOps, Computer Vision & Deep Learning and is currently engaged as a research analyst crunching real-time data and implementing state of art AI algorithms in the Innovation and development lab of the world\u2019s largest decision science company in Bengaluru, India.\n \nHe is a Mozilla TechSpeaker program member and has been associated with Mozilla communities and initiatives for more than 4 years conducting 100+ events in his regions. He strongly believes and evangelises that technology needs to have a human centric design & workflow in order to create solutions for a diverse audience. He recently delivered a session about AI engineering in the open science space at Mozfest 16 & HKOScon 17. He speaks regularly about rust / ML in various local meetup groups and is the author of Rust Cookbook by Packt publisher. ",
-    "photoUrl": "TODO",
+    "bio": "Vigneshwer is an innovative data scientist with an artistic perception of technology and business, having 3+ years of experience in various domains such as IOT, DevOps, Computer Vision & Deep Learning and is currently engaged as a research analyst crunching real-time data and implementing state of art AI algorithms in the Innovation and development lab of the world’s largest decision science company in Bengaluru, India.\n \nHe is a Mozilla TechSpeaker program member and has been associated with Mozilla communities and initiatives for more than 4 years conducting 100+ events in his regions. He strongly believes and evangelises that technology needs to have a human centric design & workflow in order to create solutions for a diverse audience. He recently delivered a session about AI engineering in the open science space at Mozfest 16 & HKOScon 17. He speaks regularly about rust / ML in various local meetup groups and is the author of Rust Cookbook by Packt publisher. ",
     "company": "Mozilla",
     "companyLogo": "TODO",
+    "socials": [
+      {
+        "link": "https://github.com/dvigneshwer,",
+        "icon": "github",
+        "name": "GitHub"
+      },
+      {
+        "link": "https://twitter.com/dvigneshwer",
+        "icon": "twitter",
+        "name": "Twitter"
+      }
+    ],
     "name": "Vigneshwer Dhinakaran",
-    "socials": "https://github.com/dvigneshwer, https://twitter.com/dvigneshwer",
-    "country": "Bengaluru, India"
+    "photoUrl": "/images/people/vigneshwer_dhinakaran.jpg",
+    "country": "Bengaluru, India",
+    "featured": true,
+    "shortBio": "TODO",
+    "title": "TechSpeaker",
+    "tags": [
+      "AI",
+      "IOT"
+    ]
   },
   {
     "bio": "Ipsha is a software engineer at Gemalto by profession, a Mozilla tech speaker by heart, and an advocate for a free and open web by passion. She likes traveling to new places and meeting people with different perspectives of the world. Fascinated by psychology and astronomy, she looks up to people who dare to think beyond the realms of what seems possible.",
-    "photoUrl": "TODO",
     "company": "Mozilla",
     "companyLogo": "TODO",
+    "socials": [
+      {
+        "link": "https://ipsha218.wordpress.com/",
+        "icon": "website",
+        "name": "Website"
+      },
+      {
+        "link": "https://twitter.com/ipsha21",
+        "icon": "twitter",
+        "name": "Twitter"
+      }
+    ],
     "name": "Ipsha Bhidonia",
-    "socials": "https://ipsha218.wordpress.com/\nhttps://twitter.com/ipsha21",
-    "country": "New Delhi, India"
+    "photoUrl": "/images/people/ipsha_bhidonia.jpg",
+    "country": "New Delhi, India",
+    "featured": true,
+    "shortBio": "TODO",
+    "title": "Software Engineer/Tech Speaker",
+    "tags": [
+      "Web"
+    ]
   },
   {
     "bio": "Vladislav is working in mobile and IoT security. In the past he did a several experiments, like accessibility and hackability of web cams in Czech republic, security analysis of consumer applications such as Target or the demo of insecurity of IoT home appliances. Vladislav is working for Avast at R&D of next-gen security solution for Android. ",
-    "photoUrl": "TODO",
     "company": "Avast",
     "companyLogo": "TODO",
+    "socials": [
+      {
+        "link": "https://www.linkedin.com/in/iliushin/",
+        "icon": "linkedin",
+        "name": "LinkedIn"
+      },
+      {
+        "link": "https://www.facebook.com/vlad.iliushin",
+        "icon": "facebook",
+        "name": "Facebook"
+      }
+    ],
     "name": "Vladislav Iliushin",
-    "socials": "https://www.linkedin.com/in/iliushin/\nhttps://www.facebook.com/vlad.iliushin",
-    "country": "Prague"
+    "photoUrl": "/images/people/vladislav_iliushin.jpg",
+    "country": "Prague",
+    "featured": true,
+    "shortBio": "TODO",
+    "title": "Avast Hacker",
+    "tags": [
+      "IOT"
+    ]
   },
   {
     "bio": "I am Swift/iOS and Ruby on Rails Software Engineer, Internet of Things & Open Hardware enthusiast, Entrepreneur and Public Speaker.\n",
-    "photoUrl": "TODO",
     "company": "Juicymo",
     "companyLogo": "TODO",
-    "name": "Tom\u00e1\u0161 Jukin",
-    "socials": "https://about.me/Inza\nhttps://twitter.com/Inza\nhttps://github.com/Inza",
-    "country": "Prague - budu mo\u017en\u00e1 d\u011blat taxik\u00e1\u0159e Kasper Lund z leti\u0161te a pl\u00e1nuji pro n\u011bj ud\u011blat prohl\u00eddku Prahy s koment\u00e1\u0159em v EN, pokud by se cht\u011bli p\u0159idat i dal\u0161\u00ed spek\u0159i, je to mo\u017en\u00e9 ;)"
+    "socials": [
+      {
+        "link": "https://about.me/Inza",
+        "icon": "website",
+        "name": "Website"
+      },
+      {
+        "link": "https://twitter.com/Inza",
+        "icon": "twitter",
+        "name": "Twitter"
+      },
+      {
+        "link": "https://github.com/Inza",
+        "icon": "github",
+        "name": "GitHub"
+      }
+    ],
+    "name": "Tomáš Jukin",
+    "photoUrl": "/images/people/tomáš_jukin.jpg",
+    "country": "Prague - budu možná dělat taxikáře Kasper Lund z letište a plánuji pro něj udělat prohlídku Prahy s komentářem v EN, pokud by se chtěli přidat i další spekři, je to možné ;)",
+    "featured": true,
+    "shortBio": "TODO",
+    "title": "CTO",
+    "tags": [
+      "IOT"
+    ]
   },
   {
     "bio": "I'm Android Developer at eMan which is a Czech company providing innovative solutions.\nI have almost 10 years of experience in software development field.\n\nI'm proud to be the Czech Kotlin User Group Founder & Organizer. I fell in love with Kotlin even before it was cool. I've been using Kotlin for two years already not only for Android, but at the beginning I also used it as a replacement for JavaScript and prototyping of small microservices. I'm fully focusing on everything around Kotlin language and organizing the Czech Kotlin User Group meetups.\n\nIn my spare time I enjoy playing ice hockey, drinking Pilsner Urquell and following tech trends.",
-    "photoUrl": "TODO",
     "company": "eMan",
     "companyLogo": "TODO",
+    "socials": [
+      {
+        "link": "https://www.facebook.com/vaclav.souhrada",
+        "icon": "facebook",
+        "name": "Facebook"
+      },
+      {
+        "link": "https://twitter.com/vsouhrada",
+        "icon": "twitter",
+        "name": "Twitter"
+      },
+      {
+        "link": "https://plus.google.com/u/0/+VaclavSouhrada",
+        "icon": "gplus",
+        "name": "Google+"
+      },
+      {
+        "link": "https://www.linkedin.com/in/v%C3%A1clav-souhrada-7488755b/",
+        "icon": "linkedin",
+        "name": "LinkedIn"
+      },
+      {
+        "link": "https://www.facebook.com/czkug/",
+        "icon": "facebook",
+        "name": "Facebook"
+      },
+      {
+        "link": "https://twitter.com/KotlinCzech",
+        "icon": "twitter",
+        "name": "Twitter"
+      }
+    ],
     "name": "Vaclav Souhrada",
-    "socials": "https://www.facebook.com/vaclav.souhrada\nhttps://twitter.com/vsouhrada\nhttps://plus.google.com/u/0/+VaclavSouhrada\nhttps://www.linkedin.com/in/v%C3%A1clav-souhrada-7488755b/\nhttps://www.facebook.com/czkug/\nhttps://twitter.com/KotlinCzech",
-    "country": "Pilsen, Czech Republic"
+    "photoUrl": "/images/people/vaclav_souhrada.jpg",
+    "country": "Pilsen, Czech Republic",
+    "featured": true,
+    "shortBio": "TODO",
+    "title": "Senior Android Developer",
+    "tags": [
+      "Android"
+    ]
   },
   {
     "bio": "TODO",
+    "company": "GDE",
     "companyLogo": "TODO",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "TODO",
+        "name": "Twitter"
+      }
+    ],
     "name": "Nik Page",
     "photoUrl": "TODO",
     "country": "TODO",
-    "company": "GDE",
-    "socials": "TODO"
+    "featured": true,
+    "shortBio": "TODO",
+    "tags": [
+      ""
+    ],
+    "title": "TODO"
   },
   {
     "bio": "Red Hatter for 5 years, working with containers for last 4 years. Currently in Developer Tools team making developers' life easier.",
-    "photoUrl": "TODO",
     "company": "Red Hat",
     "companyLogo": "TODO",
-    "name": "V\u00e1clav Pavl\u00edn",
-    "socials": "vpavlin.eu, https://twitter.com/vpavlin",
-    "country": "Brno"
+    "socials": [
+      {
+        "link": "vpavlin.eu,",
+        "icon": "website",
+        "name": "Website"
+      },
+      {
+        "link": "https://twitter.com/vpavlin",
+        "icon": "twitter",
+        "name": "Twitter"
+      }
+    ],
+    "name": "Václav Pavlín",
+    "photoUrl": "/images/people/václav_pavlín.jpg",
+    "country": "Brno",
+    "featured": true,
+    "shortBio": "TODO",
+    "title": "Architect - Senior Software Engineer",
+    "tags": [
+      "Cloud"
+    ]
   },
   {
     "bio": "From an API technical writer, through an API evangelist to the API Godfather. I am a part of a team that knows no borders. The team has decoded my DNA and added our API to it.  Apart from being a proud member of this wonderful team, I am also its speaker on the international stage and its link to the worldwide API community.",
-    "photoUrl": "TODO",
-    "company": "\u010cesk\u00e1 Spo\u0159itelna",
+    "company": "Česká Spořitelna",
     "companyLogo": "TODO",
-    "name": "Jaroslav Macha\u0148",
-    "socials": "@csas_devs, https://www.linkedin.com/in/machanjr/, ",
-    "country": "Prague, Antala Sta\u0161ka 32"
+    "socials": [
+      {
+        "link": "@csas_devs,",
+        "icon": "website",
+        "name": "Website"
+      },
+      {
+        "link": "https://www.linkedin.com/in/machanjr/,",
+        "icon": "linkedin",
+        "name": "LinkedIn"
+      }
+    ],
+    "name": "Jaroslav Machaň",
+    "photoUrl": "/images/people/jaroslav_machaň.jpg",
+    "country": "Prague, Antala Staška 32",
+    "featured": true,
+    "shortBio": "TODO",
+    "title": "API Godfather",
+    "tags": [
+      "API"
+    ]
   },
   {
     "bio": "I have been developing Android applications in multiple companies over last 4+ years. Tinkering with Kotlin from the first public releases and using it in production application for the last 6 months. Occasionally giving presentations about Kotlin related topics at local developer meetups.",
-    "photoUrl": "TODO",
     "company": "FullContact",
     "companyLogo": "TODO",
+    "socials": [
+      {
+        "link": "https://github.com/siga111",
+        "icon": "github",
+        "name": "GitHub"
+      },
+      {
+        "link": "https://www.linkedin.com/in/sergejs-luhmirins-61a58937/",
+        "icon": "linkedin",
+        "name": "LinkedIn"
+      }
+    ],
     "name": "Sergejs Luhmirins",
-    "socials": "https://github.com/siga111\nhttps://www.linkedin.com/in/sergejs-luhmirins-61a58937/",
-    "country": "Riga"
+    "photoUrl": "/images/people/sergejs_luhmirins.jpg",
+    "country": "Riga",
+    "featured": true,
+    "shortBio": "TODO",
+    "title": "Android Developer",
+    "tags": [
+      "Firebase",
+      "Kotlin"
+    ]
   },
   {
     "bio": "Alvin is a web and game developer working on interactive graphics for BBC news. \nA lover of open-source, always looking to push the boundaries of the browsers when it comes to creativity and interactivity.\nEspecially into programming when it comes to journalism, 3D and all things data-driven.\n\nI've worked on some award-winning HTML5 games and I have been a core contributor to the Phaser game framework as well as Pixi.js, the fast and versatile 2D rendering engine.\n\nAccolades include FWA mobile, Lovie Awards, finalist for Broadcast Digital and Tiga awards, as well as a BAFTA nomination.",
-    "photoUrl": "TODO",
     "company": "BBC",
     "companyLogo": "TODO",
+    "socials": [
+      {
+        "link": "Portfolio:",
+        "icon": "website",
+        "name": "Website"
+      },
+      {
+        "link": "http://alvin.me.uk",
+        "icon": "website",
+        "name": "Website"
+      },
+      {
+        "link": "Portfolio:",
+        "icon": "website",
+        "name": "Website"
+      },
+      {
+        "link": "http://www.alvin.me.uk",
+        "icon": "website",
+        "name": "Website"
+      },
+      {
+        "link": "Twitter:",
+        "icon": "website",
+        "name": "Website"
+      },
+      {
+        "link": "https://twitter.com/alvinsight",
+        "icon": "twitter",
+        "name": "Twitter"
+      },
+      {
+        "link": "Github:",
+        "icon": "website",
+        "name": "Website"
+      },
+      {
+        "link": "https://github.com/alvinsight",
+        "icon": "github",
+        "name": "GitHub"
+      }
+    ],
     "name": "Alvin Ourrad",
-    "socials": "Portfolio: http://alvin.me.uk\nPortfolio: http://www.alvin.me.uk\nTwitter: https://twitter.com/alvinsight\nGithub: https://github.com/alvinsight",
-    "country": "London, UK"
+    "photoUrl": "/images/people/alvin_ourrad.jpg",
+    "country": "London, UK",
+    "featured": true,
+    "shortBio": "TODO",
+    "title": "Software engineer",
+    "tags": [
+      "Web"
+    ]
   },
   {
     "bio": "I'm passionate about helping people communicate. One of the areas I've focused on since 2009 is helping IT professionals share their ideas and projects and even communicate with each other in networking situations.",
-    "photoUrl": "TODO",
     "company": "Freelance",
     "companyLogo": "TODO",
+    "socials": [
+      {
+        "link": "jeannetrojan.com",
+        "icon": "website",
+        "name": "Website"
+      },
+      {
+        "link": "linkedin.com/in/jeannetrojan",
+        "icon": "linkedin",
+        "name": "LinkedIn"
+      },
+      {
+        "link": "@jmtcz",
+        "icon": "website",
+        "name": "Website"
+      },
+      {
+        "link": "@JeanneTrojan",
+        "icon": "website",
+        "name": "Website"
+      }
+    ],
     "name": "Jeanne Trojan",
-    "socials": "jeannetrojan.com\nlinkedin.com/in/jeannetrojan\n@jmtcz\n@JeanneTrojan",
-    "country": "I'm in Prague"
+    "photoUrl": "/images/people/jeanne_trojan.jpg",
+    "country": "I'm in Prague",
+    "featured": true,
+    "shortBio": "TODO",
+    "title": "Executive Communication Coach",
+    "tags": [
+      "Soft skills"
+    ]
   },
   {
     "bio": "I am cloud enthusiastic person. Started as programmer in FoxPro in 1993, worked for large enterprise company  Siemens in various African countries (Morocco, South Africa, Mozambique, Tanzania, Zanzibar ...), founded technical and deployment and support team in nangu.tv. ",
-    "photoUrl": "TODO",
     "company": "Netmail",
     "companyLogo": "TODO",
+    "socials": [
+      {
+        "link": "https://www.linkedin.com/in/pavel-krejsa/",
+        "icon": "linkedin",
+        "name": "LinkedIn"
+      }
+    ],
     "name": "Pavel Krejsa",
-    "socials": "https://www.linkedin.com/in/pavel-krejsa/",
-    "country": "Prague"
+    "photoUrl": "/images/people/pavel_krejsa.jpg",
+    "country": "Prague",
+    "featured": true,
+    "shortBio": "TODO",
+    "title": "COO / Head of deployment",
+    "tags": [
+      "Cloud"
+    ]
   },
   {
     "bio": "Developer with 8 years of experience with backend systems. Created them from scratch by starting with analysis and writing specification up to deployment on production. Working mainly with Python, PHP and MySQL, elastic search and other technologies. Big fan and evangelist of continuous learning, organizer of many coding dojo sessions.",
-    "photoUrl": "TODO",
     "company": "GOG.com",
     "companyLogo": "TODO",
-    "name": "Pawe\u0142 Lewtak",
-    "socials": "https://twitter.com/pawel_lewtak\nhttps://www.linkedin.com/in/plewtak/\nhttps://github.com/pawel-lewtak",
-    "country": "Warsaw, Poland"
+    "socials": [
+      {
+        "link": "https://twitter.com/pawel_lewtak",
+        "icon": "twitter",
+        "name": "Twitter"
+      },
+      {
+        "link": "https://www.linkedin.com/in/plewtak/",
+        "icon": "linkedin",
+        "name": "LinkedIn"
+      },
+      {
+        "link": "https://github.com/pawel-lewtak",
+        "icon": "github",
+        "name": "GitHub"
+      }
+    ],
+    "name": "Paweł Lewtak",
+    "photoUrl": "/images/people/paweł_lewtak.jpg",
+    "country": "Warsaw, Poland",
+    "featured": true,
+    "shortBio": "TODO",
+    "title": "Web Developer",
+    "tags": [
+      "TDD"
+    ]
   },
   {
     "bio": "Passionate developer working with machine learning models at scale. ",
-    "photoUrl": "TODO",
     "company": "Seznam",
     "companyLogo": "TODO",
-    "name": "V\u00edt List\u00edk",
-    "socials": "https://www.linkedin.com/in/tivvit/",
-    "country": "Prague"
+    "socials": [
+      {
+        "link": "https://www.linkedin.com/in/tivvit/",
+        "icon": "linkedin",
+        "name": "LinkedIn"
+      }
+    ],
+    "name": "Vít Listík",
+    "photoUrl": "/images/people/vít_listík.jpg",
+    "country": "Prague",
+    "featured": true,
+    "shortBio": "TODO",
+    "title": "Python, machine learning developer",
+    "tags": [
+      "Cloud",
+      "AI"
+    ]
   },
   {
     "bio": "An experienced web developer (10+ years), speaker and lecturer. Apart from working for a major Czech online company (Seznam.cz, a.s.), I regularly give talks at the Czech Technical University in Prague. Focus on all frontend web technologies.",
-    "photoUrl": "TODO",
     "company": "Seznam",
     "companyLogo": "TODO",
-    "name": "Ond\u0159ej \u017d\u00e1ra",
-    "socials": "http://ondras.zarovi.cz/\nhttps://github.com/ondras/\nhttps://twitter.com/0ndras",
-    "country": "Prague"
+    "socials": [
+      {
+        "link": "http://ondras.zarovi.cz/",
+        "icon": "website",
+        "name": "Website"
+      },
+      {
+        "link": "https://github.com/ondras/",
+        "icon": "github",
+        "name": "GitHub"
+      },
+      {
+        "link": "https://twitter.com/0ndras",
+        "icon": "twitter",
+        "name": "Twitter"
+      }
+    ],
+    "name": "Ondřej Žára",
+    "photoUrl": "/images/people/ondřej_žára.jpg",
+    "country": "Prague",
+    "featured": true,
+    "shortBio": "TODO",
+    "title": "senior frontend developer",
+    "tags": [
+      "Web"
+    ]
   },
   {
-    "bio": "I am Senior marketing & HR manager with 8+ years experience, incl. Google. Now I am focusing on happiness at work, company culture and startups. I teach people, how to build teams, motivate them and how new employement market works. I do write articles about HR and happiness management to a magazine Statut\u00e1rn\u00ed z\u00e1stupce firem (for CEOs, boards) and do workshop for Forum publishing house. My last talk was for GBG Prague about Happiness management and was very well rated.",
-    "photoUrl": "TODO",
+    "bio": "I am Senior marketing & HR manager with 8+ years experience, incl. Google. Now I am focusing on happiness at work, company culture and startups. I teach people, how to build teams, motivate them and how new employement market works. I do write articles about HR and happiness management to a magazine Statutární zástupce firem (for CEOs, boards) and do workshop for Forum publishing house. My last talk was for GBG Prague about Happiness management and was very well rated.",
     "company": "Robeeto",
     "companyLogo": "TODO",
-    "name": "V\u011brka Koukalov\u00e1",
-    "socials": "search for Verudellita (Twitter, Instagram, Facebook, LinkedIN - verka.koukalova)",
-    "country": "CZ"
+    "socials": [
+      {
+        "link": "search",
+        "icon": "website",
+        "name": "Website"
+      },
+      {
+        "link": "for",
+        "icon": "website",
+        "name": "Website"
+      },
+      {
+        "link": "Verudellita",
+        "icon": "website",
+        "name": "Website"
+      },
+      {
+        "link": "(Twitter,",
+        "icon": "website",
+        "name": "Website"
+      },
+      {
+        "link": "Instagram,",
+        "icon": "website",
+        "name": "Website"
+      },
+      {
+        "link": "Facebook,",
+        "icon": "website",
+        "name": "Website"
+      },
+      {
+        "link": "LinkedIN",
+        "icon": "website",
+        "name": "Website"
+      },
+      {
+        "link": "-",
+        "icon": "website",
+        "name": "Website"
+      },
+      {
+        "link": "verka.koukalova)",
+        "icon": "website",
+        "name": "Website"
+      }
+    ],
+    "name": "Věrka Koukalová",
+    "photoUrl": "/images/people/věrka_koukalová.jpg",
+    "country": "CZ",
+    "featured": true,
+    "shortBio": "TODO",
+    "title": "Happiness Manager",
+    "tags": [
+      "Soft skills"
+    ]
   },
   {
     "bio": "I am a Delhi Girl working as UI Tech lead. I started my journey as web designer and over the years I moved to web developer. My core skills are - Photoshop, HTML, CSS, Javascript, Typescript, Nodejs , Gruntjs, Polymerjs, python, Reactjs. People know me as Javascript Girl as I run a community name JSLovers (meetup.com/jslovers) here from last 2 years to teach the developers. I love chai , love coding and I do doodle. I am biggest bollywood fan. I am active tech speaker around Delhi/Gurgaon/Noida/Mumbai and promote women in technology .",
-    "photoUrl": "TODO",
     "company": "Toaster",
     "companyLogo": "TODO",
+    "socials": [
+      {
+        "link": "https://www.linkedin.com/in/nehha/",
+        "icon": "linkedin",
+        "name": "LinkedIn"
+      },
+      {
+        "link": "https://twitter.com/hellonehha",
+        "icon": "twitter",
+        "name": "Twitter"
+      },
+      {
+        "link": "https://medium.com/@hellonehha",
+        "icon": "website",
+        "name": "Website"
+      }
+    ],
     "name": "Neha Sharma",
-    "socials": "https://www.linkedin.com/in/nehha/\nhttps://twitter.com/hellonehha\nhttps://medium.com/@hellonehha\n",
-    "country": "New Delhi, India"
+    "photoUrl": "/images/people/neha_sharma.jpg",
+    "country": "New Delhi, India",
+    "featured": true,
+    "shortBio": "TODO",
+    "title": "Tech Lead (UI)",
+    "tags": [
+      "Assistant"
+    ]
   }
 ]

@@ -20,20 +20,60 @@ def fill_talk_speaker(r, speakers, speaker_c, talk_c):
         "title": r["Název talku/workshopu"],
         # speakers[r["Name"]]["talk_title"],
     }
-    for i in speakers[r["Name"]].keys():
+    for i in list(speakers[r["Name"]].keys()):
         if i.startswith("talk_"):
             del speakers[r["Name"]][i]
     speakers[r["Name"]]["name"] = r["Name"]
     speakers[r["Name"]]["company"] = r["Firma"]
+    speakers[r["Name"]]["tags"] = talks[str(talk_c)]["tags"]
+    speakers[r["Name"]]["photoUrl"] = speakers[r["Name"]]["photoUrl"].format(
+        r["Name"].lower().replace(" ", "_"))
     speak.append(speakers[r["Name"]])
 
     return speak, talks
 
 
+def socials(s):
+    r = {
+        "link": s
+    }
+    if "facebook" in s:
+        r.update({
+            "icon": "facebook",
+            "name": "Facebook"
+        })
+    if "github" in s:
+        r.update({
+            "icon": "github",
+            "name": "GitHub"
+        })
+    if "twitter" in s:
+        r.update({
+            "icon": "twitter",
+            "name": "Twitter"
+        })
+    if "linkedin" in s:
+        r.update({
+            "icon": "linkedin",
+            "name": "LinkedIn"
+        })
+    if "plus" in s:
+        r.update({
+            "icon": "gplus",
+            "name": "Google+"
+        })
+    if "icon" not in r:
+        r.update({
+            "icon": "website",
+            "name": "Website"
+        })
+    return r
+
+
 def main():
     speakers = {}
 
-    with open('cfp.csv') as csvfile:
+    with open('cfp.csv', encoding="utf-8") as csvfile:
         reader = csv.DictReader(csvfile)
         for r in reader:
             speakers[r['Your name']] = \
@@ -41,11 +81,14 @@ def main():
                     "bio": r['Bio'],
                     "company": r['Company'],
                     "companyLogo": "TODO",
-                    "socials": r['Social links'],
+                    "socials": list(map(socials, r['Social links'].split())),
                     "name": r['Your name'],
-                    "photoUrl": "TODO",
+                    "photoUrl": "/images/people/{}.jpg",
                     "country": r['Where you will be travelling from?'],
-                    # r['Position'],
+                    "featured": True,
+                    "shortBio": "TODO",
+                    "title": r['Position'],
+                    "tags": [],
                     "talk_title": r['Title of your talk/workshop'],
                     "talk_desc": r['Short description of your talk/workshop:'],
                     "talk_for_who": r['For whom is this suitable?'],
@@ -56,11 +99,18 @@ def main():
         "bio": "TODO",
         "company": "TODO",
         "companyLogo": "TODO",
-        "socials": "TODO",
+        "socials": [{
+            "icon": "twitter",
+            "link": "TODO",
+            "name": "Twitter"
+        }],
         "name": "TODO",
         "photoUrl": "TODO",
         "country": "TODO",
-        # r['Position'],
+        "featured": True,
+        "shortBio": "TODO",
+        "tags": ["TODO"],
+        "title": "TODO",
         "talk_title": "TODO",
         "talk_desc": "TODO",
         "talk_for_who": "TODO",
@@ -87,7 +137,7 @@ def main():
     speaker_c = 1
     talk_c = 100
 
-    with open('speakers.csv') as csvfile:
+    with open('speakers.csv', encoding="utf-8") as csvfile:
         reader = csv.DictReader(csvfile)
         for r in reader:
             # print(r["Name"], r["Firma"], r["Název talku/workshopu"],
@@ -101,7 +151,7 @@ def main():
 
     talk_c = 200
 
-    with open('ws_speakers.csv') as csvfile:
+    with open('ws_speakers.csv', encoding="utf-8") as csvfile:
         reader = csv.DictReader(csvfile)
         for r in reader:
             s, t = fill_talk_speaker(r, speakers, speaker_c, talk_c)
@@ -110,8 +160,10 @@ def main():
             speaker_c += 1
             talk_c += 1
 
-    json.dump(speakers_final, open("speakers.json", "w"))
-    json.dump(talks, open("talks.json", "w"))
+    json.dump(speakers_final, open("speakers.json", "w", encoding="utf-8"),
+              ensure_ascii=False)
+    json.dump(talks, open("talks.json", "w", encoding="utf-8"),
+              ensure_ascii=False)
 
 
 if __name__ == "__main__":
