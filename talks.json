@@ -1,1 +1,493 @@
-{"100": {"complexity": "Intermediates", "description": "Want a more productive way to build for mobile? Flutter is an SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single code-base. Flutter delivers a great developer experience in part because it is based on Dart, which allows you to build your cross-platform mobile apps in an approachable and analyzable language with sub-second edit-and-continue support baked in. Come see what makes Flutter special and learn how you can become a more productive mobile developer. ", "id": 100, "language": "English", "speakers": [1], "tags": ["Dart"], "title": "Flutter: The best way to build for mobile?"}, "101": {"complexity": "Intermediates", "description": "In this presentation, Rebecca will look into using the Android Things platform as a way in which you can build connected products using Android. Rebecca will cover controlling your Android Things device with the Google Assistant. She will also talk through some different options for storing data for IoT devices. She will also showcase a few different applications of Android Things. ", "id": 101, "language": "English", "speakers": [2], "tags": ["Android"], "title": "Android Things: The IoT Platform for Everyone"}, "102": {"complexity": "Beginners", "description": "The main thought - developers should be able to enjoy their work. \nAssume you’ve started working on development of the web application. By the time you’ve got to the spot of enjoyable developemt, you would have to go through all the complex details of  building the basement for your app, taking care about the backend, servers and more...Cloud Functions allows Firebase developers to create a backend without having to worry about servers. During the talk you will learn what's possible with Cloud Functions and how it can be used for many different key use cases for your web app. You'll see real world examples that show how Cloud Functions for Firebase is the programmatic glue that allows you to extend and connect Firebase products and cloud services.\n", "id": 102, "language": "English", "speakers": [3], "tags": ["Web", "Firebase"], "title": "Go beyond the web development with Firebase Cloud Functions"}, "103": {"complexity": "Intermediates", "description": "Managing modern infrastructure presents many different challenges. While the main operational aspects of infrastructure like durability, availability, scalability, security are very important, there’s also one aspect which should enable and support all the others - automation.\n \nAutomation is a very abstract word, so the talk will briefly explain what benefits does IaC approach bring to the table and why configuration management (often driven by tools like Ansible, Puppet, Salt, Chef etc.) is just one of many layers in an automated production infrastructure.\n \nThen we will walk through the main design goals of Terraform, open source tool that enables users to write, plan and apply changes of a production infrastructure in Google Cloud, and explain how to do it.", "id": 103, "language": "English", "speakers": [4], "tags": ["Cloud"], "title": "Infrastructure as Code in Google Cloud"}, "104": {"complexity": "Intermediates", "description": "It will be based on my experience lauching new apps this year.", "id": 104, "language": "English", "speakers": [5], "tags": ["Marketing", "Indie"], "title": "(TBD) How to design app to be easily sellable on Play Store"}, "105": {"complexity": "IT muggles", "description": "Overview of our findings on the mysterious phenomenon - Sleep:\nhttp://sleep.urbandroid.org/sleepcloud-study/\n\nOur study is based on analyses of more than 10 million sleep records in our Sleep Cloud data base collected in Google Cloud using Android smartphones and various wearable tech for Sleep tracking. Our findings are based on our own private funded research but also based on cooperation with several scientific institutions. \n\nTopics:\n- How does our lifestyle affect sleep\n- Nigh owls / morning larks - chronotypes, Roenneberg and Social jet lag\n- Want to stop snoring? Have a beer!\n- How do we sleep post-Brexit / post-Trump\n- Sleep and psychical health\n- Smart alarms improve sleep and wake up experience\n- Our internal clock and how harmful summer time is\n...\n", "id": 105, "language": "English", "speakers": [6], "tags": ["Android", "Cloud"], "title": "Sonar or the Tricoder (how we created a new smartphone sensor)"}, "106": {"complexity": "Intermediates", "description": "Awesome! The first Angular 5 beta is out already and the deadline for the final release is planned for September 18th. In this talk we are going to explore some of these new features and how to take advantage of them while going through some demos and easy to follow code snippets.", "id": 106, "language": "English", "speakers": [7], "tags": ["Web"], "title": "What's new in Angular 5?"}, "107": {"complexity": "Beginners", "description": "At I/O this year, the Room persistence library was introduced as part of the Architecture Components effort. In this talk we'll look at what Room has to offer, why and when you should use it and how it compares to existing solutions. We'll also take a look at how Room works under the covers and how it integrates with other Architecture components and RxJava.", "id": 107, "language": "English", "speakers": [8], "tags": ["Android"], "title": "Room: the blessed Object Mapper"}, "108": {"complexity": "Everyone above and beyond", "description": "Are you working on the client library? Or design a public API for the module that is going to be used by other team or department?\n\nIn this session, Vitality will share his experience and key learnings from building a mobile SDKs for last 4 years:\n\nwhat is the cost of too complex API and how to simplify it;\nwhat aspects of the library are important for clients;\nhow documentation should look like to avoid stupid and repetitive support questions;\nhow to make library update process smooth.\nThe session will be interesting for Android and iOS developers who want to learn what makes client library great. What are the best practices and common pitfalls in public API design? What is important, only programming API you expose or also ecosystem around?", "id": 108, "language": "English", "speakers": [9], "tags": ["Android", "iOS"], "title": "How not to fuckup with building SDK and make clients happy"}, "109": {"complexity": "Beginners", "description": "Virtual Reality is a new technology used for building realistic experiences for games, environments, content display as well as marketing. Any person with a basic understanding of HTML5, CSS and JavaScript would be able to follow through the code examples. The talk would run through topics like VR, WebVR API, A Frame and designs, testing applications on Google Cardboard and so on. In these apps, users will be able to test the VR environments on their laptops, walk through the virtual world, interact with the objects as well as perceive these virtual realities with the help of Google Cardboard. By the end of the session, the user will have a complete understanding of what WebVR is, various VR devices available, requirements to start working on WebVR and the popular WebVR based projects. The user will also be comfortable in using A-Frame and its various components to build their own VR projects.", "id": 109, "language": "English", "speakers": [10], "tags": ["UX", "VR/AR"], "title": "Web Based Virtual Reality"}, "110": {"complexity": "Intermediates", "description": "In this presentation we'll introduce Vue.js, setup a webpack build, extoll the virtues of its reactive data binding and composble interface all while building an Instagram like app. Using Framework 7 to provide the basic UI for Android and iOS for those of us, like myself, who are CSS challenged.\n\nVue.js is a library for building interactive web interfaces. The goal of Vue.js is to provide the benefits of reactive data binding and composable view components with an API that is as simple as possible.\n\nFramework7 - is a free and open source mobile HTML framework to develop hybrid mobile apps or web apps with iOS & Android native look and feel. It is also an indispensable prototyping apps tool to show working app prototype as soon as possible in case you need to.\n", "id": 110, "language": "English", "speakers": [11], "tags": ["Web", "Mobile"], "title": "Cross Platform Progressive Web Apps"}, "111": {"complexity": "Everyone above and beyond", "description": "What is the first thing that comes to your mind when you are starting to develop your product? You need to think about all sort of features. How you are going to grow your app. Engage your audience and make money in the process, right? \nWhat if you could choose a platform to build your app with confidence, without the need of managing infrastructure, trusted by companies like The New York Times, The Economist, Shazam and much more. Firebase gives you the tools and infrastructure you need to build better apps and grow businesses. Join this talk and learn how to overcome the challenges of build extraordinary front-end apps using Firebase.", "id": 111, "language": "English", "speakers": [12], "tags": ["Firebase"], "title": "Let Firebase help you to build better Front-end apps"}, "112": {"complexity": "Everyone above and beyond", "description": "In a plain-looking computer room sits 30+ men wearing khaki-colored shirts and pants, each staring intently at their monitors. Some young, some old, some with tattoos, all with different life stories. These men--many of which have never been on the Internet-- are learning computer programming while serving time at Washington State's second largest prison. \n\nGaining employment upon release from prison is one of the largest indicators of successful re-entry into society. With today’s booming tech market, these currently incarcerated men hope to gain the skills needed to obtain web development jobs upon release. \n\nHowever, learning programming inside a prison isn’t easy. Each student computer is highly locked-down with limited software and absolutely no Internet access. While most programmers enjoy the benefits of Google and StackOverflow, these students must work with what is available on the classroom’s local network and in the outdated computer manuals available in the facility library.\n\nMy name is Sarabeth Jaffe and I teach computer programming at Monroe Correctional Complex. In this talk, I will discuss the many challenges of teaching web development without the web, the Open Source technology that makes it possible, and the many opportunities we--as technologists--have to spread the benefits of the technical knowledge to disadvantaged populations.", "id": 112, "language": "English", "speakers": [13], "tags": ["Web"], "title": "Programming in Prison: Web Development behind Bars"}, "113": {"complexity": "Intermediates", "description": "Amazing UX, delighting UI, wonderful performance.. You already know what to do in order to make users love your app when using it. But as app session lasts around 5 minutes, there’s a large portion of the day where your app is not being used. When your app is sound asleep what can you do to remind your users that your app is the best? \nThis talk will explore how to make your app pop and shine, even when is not on the foreground, and increase retention dramatically! Brand new Android O features, notifications, shortcuts, animated launcher icons.. Your app won’t be sleeping for long ;) \n", "id": 113, "language": "English", "speakers": [14], "tags": ["Android"], "title": "When your app is asleep"}, "114": {"complexity": "TODO", "description": "TODO", "id": 114, "language": "English", "speakers": [15], "tags": [""], "title": "Úspěšný vývoj multiplaformní aplikace pomocí J2Objc"}, "115": {"complexity": "TODO", "description": "TODO", "id": 115, "language": "English", "speakers": [16], "tags": ["Dart", "Web"], "title": "Angular Dart?"}, "116": {"complexity": "IT muggles", "description": "I can do a Keynote about Past, Present and Future of IT and Google Tech and cover topics about Mobile, Education, Google Tech, Google Initiatives, Getting Started in IT, Internet of Things, VR/AR, Machine Learning, etc", "id": 116, "language": "English", "speakers": [17], "tags": ["Android"], "title": "Writing A Plugin for Android Studio"}, "117": {"complexity": "Beginners", "description": "Zjistíme jak postavit mobilní aplikaci ve Flutteru a prozkoumáme jeho architekturu.", "id": 117, "language": "English", "speakers": [18], "tags": ["Dart"], "title": "Dart pro Javisty"}, "118": {"complexity": "Beginners", "description": "Learn how to take your Android development skills and apply them to Flutter, a cross platform native mobile development framework from Google.\n\nWe will go over how to build a Flutter app, and how to apply the concepts you know such as Activities, Intents, Lifecycle, Layouts, and many more and translate those over to Flutter so you can be a Flutter pro in no time!", "id": 118, "language": "English", "speakers": [19], "tags": ["Assistant"], "title": "Building Google Assistant Actions"}, "119": {"complexity": "TODO", "description": "TODO", "id": 119, "language": "English", "speakers": [20], "tags": ["web"], "title": "Http/2"}, "120": {"complexity": "Everyone above and beyond", "description": "Learn to build an end-to-end, high-performance artificial intelligence algorithm in Rust language capable of predicting whether male or female is the subject of the image captured from an edge device like a mobile camera.\n \nThe speciality of the session is that all the functional units starting from the web server, front end web app and algorithm are developed in rust language.\n", "id": 120, "language": "English", "speakers": [21], "tags": ["AI", "IOT"], "title": "Building Artificial Intelligence Units in Rust"}, "121": {"complexity": "Intermediates", "description": "WebRTC is an emerging technology for communicating over modern browsers that enables a new generation of capabilities. We have historically been dependent on the telecom vendors, but now everyone has the ability to put communication in their apps without going to a communication company. This session involves everything you need to know about webRTC, and how it is changing the fundamental model of communication. ", "id": 121, "language": "English", "speakers": [22], "tags": ["Web"], "title": "Service workers and their role in PWAs"}, "122": {"complexity": "Everyone above and beyond", "description": "Let's take a look into the world of IoT devices. How much time will it take to hack a coffee machine or a kettle, get inside your local network or use remote control apps against you. ", "id": 122, "language": "English", "speakers": [23], "tags": ["IOT"], "title": "Dark side of IoT"}, "123": {"complexity": "Everyone above and beyond", "description": "Mám více možných témat (konkrétně tři, z různých oblastí, jedno je iOS, druhé je Ruby on Rails a třetí je IoT), dle instrukcí od Elišky je vypisuji pod sebe oddělená hvězdičkami. Přednášel bych v EN.\n\n***\n\nExcellent iOS Apps Architecture with MVVM & RxSwift\n\nApple never provided any solution or guide on how to make a state-of-the-art iOS app architecture. But the global iOS developer community never sleeps! Let's take a look together how a state-of-the-art architecture of iOS app should looks like. Let's dive into the refreshing waters of MVVM+, FlowControllers, DI and RxSwift. Code is included!\n\n[for intermediates or experts]\n\n***\n\nA cute garden where Web Apps are grown with fun (and Ruby on Rails 5.1)\n\nEvery mature mobile app or responsive website needs a backend or Web App. There are many technologies you can use for that purpose. But only one of them found it's way into my Heart. Let me show you how much fun and productivity you can get while building a well tested Web App. Ruby on Rails lets you focus on things that matter instead of the boring ones. And with version 5.1 a much closer cooperation with your favourite frontend technology is now possible. It does not matter if you prefer jQuery, React, Angular or Dart. Or anything else. Rails will be happy to talk to everybody. Code is included!\n\n[for beginners or intermediates, the TDD (Test Driven Development) part can be interesting even for experts or jedis]\n\n***\n\nWhen a Robot is smart enough?\n\nInternet of Things (IoT) covers many areas, but the most interesting ones (at least for me) are Robotics and AI. Where is the moment when a machine or robot is \"smart enough\"? Let's explore this area a bit together and let's see some examples. How difficult is to build a Smart Robot? Could you build one at home? The answer is Yes! And I will show you how. From the basic steps on #Arduino, to the beauty of more complex examples and solutions like SLAM, optical recognition, path finding or steering behaviours. Live demo is included!\n\n[for everybody interested in IoT or robotics, they do not require big or deep knowledge. Some parts are interesting even to experts]", "id": 123, "language": "English", "speakers": [24], "tags": ["IOT"], "title": "When a Robot is smart enough?"}, "124": {"complexity": "Beginners", "description": "The main goal of this workshop is that you will learn how to build and run your first Android app written in Kotlin from scratch.\n\n You will learn how to set up Android project and Gradle for using it with Kotlin. Next, you will learn how to write the KDoc documentation and how to generate it by using the Dokka tool. Output application will demonstrate main advantages of Kotlin for Android development and good starting point for you. \n\nYou will need a computer that can run Android Studio 3.", "id": 124, "language": "English", "speakers": [25], "tags": ["Android"], "title": "Kotlin for Android"}, "125": {"complexity": "TODO", "description": "TODO", "id": 125, "language": "English", "speakers": [26], "tags": [""], "title": "nahradni speaker"}, "200": {"complexity": "Intermediates", "description": "What if you could automate your DevOps life? Let’s first talk briefly about OpenShift and Jenkins and then dive deep into their integration - OpenShift Pipelines. They let you create your CI/CD around containers simply and efficiently. If the demo gods are with us, you’ll see it all live and shiny.", "id": 200, "language": "English", "speakers": [27], "tags": ["Cloud"], "title": "Basic Concepts of Containers Orchestration"}, "201": {"complexity": "Everyone above and beyond", "description": "Have you ever wondered how to provide sensitive customer data to third parties and still maintain privacy and client’s secret? How to enable partners to mine for wealth and knowledge in client’s data, that we can use to provide better customer experience later? And how to protect client’s data and yet go hand in hand with the trend of Open APIs and Open banking? The solution is simple: Homomorphic encryption. So you know, it is not so easy, but later on :)", "id": 201, "language": "English", "speakers": [28], "tags": ["API"], "title": "Morfina - The World Unique Homomorphic Encrypted Open API"}, "202": {"complexity": "Intermediates", "description": "There is a lot of hype around the serverless architecture and for many products having dedicated servers might not be cost-effective. Such products are the perfect use case for Firebase. \nFirebase Functions allow you to execute computation directly in the cloud without caring about instances, containers and other infrastructure details. And after the release of Kotlin 1.1 it is possible to write those Functions in Kotlin, receiving all the benefits of this pragmatic and robust language.\nIn this talk I will show how to set up and write a simple backend for a mobile application, what problems you may face and what benefits you will receive at the end.", "id": 202, "language": "English", "speakers": [29], "tags": ["Firebase", "Kotlin"], "title": "Writing Firebase Functions in Kotlin"}, "203": {"complexity": "Intermediates", "description": "We all love a good game, don’t we? I’ve got some good news for you, making games is almost as fun as playing them, and you can do it in JavaScript.\n\nYou will learn the components of game development, and will walk out with a responsive prototype. \nAnd of course we won’t forget to add some juice! As with any good game, the right amount of particles, cameras shakes and other goodies will be added.\n\nGame development is a very versatile skill that can also act as a gateway to creative coding, and with the advent of VR, an understanding of its principles and challenges is more relevant than ever.", "id": 203, "language": "English", "speakers": [30], "tags": ["Web"], "title": "Introduction to JavaScript Game Development"}, "204": {"complexity": "Everyone above and beyond", "description": "One of the hardest things to do in any social situation is to get the courage to introduce yourself and talk to people you don't know. This workshop will help you lose the fear and will give you some practical strategies for networking.\n\n*this workshop would actually be ideal BEFORE DevFest starts as the participants would be able to use what they learned during the conference. There is no limit to how many people can attend (at WebExpo 2013, I had about 50 participants go through the workshop before the Warmup Party). It lasts about an hour and is very active.", "id": 204, "language": "English", "speakers": [31], "tags": ["Soft skills"], "title": "Networking for Geeks"}, "205": {"complexity": "Intermediates", "description": "Everything you want to and should, as developer, forget about: How to migrate to cloud from on-premise solution, including cloud to cloud migration, disaster recovery from on-premise to cloud. How to split monolith servers to managed services and/or micro-services. How to optimize security, monthly spending on cloud.", "id": 205, "language": "English", "speakers": [32], "tags": ["Cloud"], "title": "Move to Google Cloud Platform, and stop worrying ..."}, "206": {"complexity": "Beginners", "description": "If you didn't fail did you know why you succeeded? Do you know what worked so you could repeat it again when needed? I don't think that's true. We learn the most when we fail. We know what didn't work and using that knowledge we can improve next attempt. While failure is always an option (at least should be!), your job isn't the best place for failures. That's why I'd like to invite you to join Coding Dojo.\n\nCoding Dojo is a place for practice in a safe environment. You can fail, learn and repeat until you feel your skills are improved. This session would be held in order to practice Test Driven Development in pairs or small groups. No prior knowledge of TDD is required.", "id": 206, "language": "English", "speakers": [33], "tags": ["TDD"], "title": "Coding Dojo"}, "207": {"complexity": "Intermediates", "description": "How to write system which makes you money", "id": 207, "language": "English", "speakers": [34], "tags": ["Cloud", "AI"], "title": "Crypto currency trading algo"}, "208": {"complexity": "Everyone above and beyond", "description": "Why do some colors have a name while others do not? Where do the named colors come from, what are their properties and what strange surprises do they hide?\nThis talk will explain the concept of named CSS colors, introduce their origin and list some interesting and lesser-known facts about them.\n", "id": 208, "language": "English", "speakers": [35], "tags": ["Web"], "title": "experiments with real-time audio/video processing in JavaScript"}, "209": {"complexity": "Everyone above and beyond", "description": "Welcome to our \"failcon\" story of how we created Robeeto - a startup of shared economics. Learn from our mistakes and more - how to work with the initial idea, who else do you need except you as a developer. How we learned from our mistakes, redesigned the idea and created an ecosystem of people who love what they do. Step by step, we will look at the process from idea to creating your own monster. So you can call with us - It's aliiiiive!!! \n\nWe can also present in Czech or do this as workshop. Your choice :-)", "id": 209, "language": "English", "speakers": [36], "tags": ["Soft skills"], "title": "It's aliiiiive!"}, "210": {"complexity": "Intermediates", "description": "Google Assistant is popular for doing the tasks such as - calls, mails, songs play, weather check, traffic update. But for developers like us we need an assistant do help us in coding , help us in code review and doing so many stuff to keep us free to focus on important things such as - Learning and more coding. So here we are with our Google assistant to assist us in our coding tasks. \n\nWhat you need:\nPython/javascript \nRaspberry pi\nGoogle Assistant\n\nWhat we will do:\nWe will develop a Google Assistant SDK to help developers in task such us:\n1) Code Commit\n2) Code review\n3) Priorities code bug/error\n4) Suggestions of solutions based on Bugs logged\n5) Creating reports ", "id": 210, "language": "English", "speakers": [37], "tags": ["Assistant"], "title": "Okay Google, let's do the code review"}}
+{
+  "100": {
+    "complexity": "Intermediates",
+    "description": "Want a more productive way to build for mobile? Flutter is an SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single code-base. Flutter delivers a great developer experience in part because it is based on Dart, which allows you to build your cross-platform mobile apps in an approachable and analyzable language with sub-second edit-and-continue support baked in. Come see what makes Flutter special and learn how you can become a more productive mobile developer. ",
+    "id": 100,
+    "language": "English",
+    "speakers": [
+      1
+    ],
+    "tags": [
+      "Dart"
+    ],
+    "title": "Flutter: The best way to build for mobile?"
+  },
+  "101": {
+    "complexity": "Intermediates",
+    "description": "In this presentation, Rebecca will look into using the Android Things platform as a way in which you can build connected products using Android. Rebecca will cover controlling your Android Things device with the Google Assistant. She will also talk through some different options for storing data for IoT devices. She will also showcase a few different applications of Android Things. ",
+    "id": 101,
+    "language": "English",
+    "speakers": [
+      2
+    ],
+    "tags": [
+      "Android"
+    ],
+    "title": "Android Things: The IoT Platform for Everyone"
+  },
+  "102": {
+    "complexity": "Beginners",
+    "description": "The main thought - developers should be able to enjoy their work. \nAssume you’ve started working on development of the web application. By the time you’ve got to the spot of enjoyable developemt, you would have to go through all the complex details of  building the basement for your app, taking care about the backend, servers and more...Cloud Functions allows Firebase developers to create a backend without having to worry about servers. During the talk you will learn what's possible with Cloud Functions and how it can be used for many different key use cases for your web app. You'll see real world examples that show how Cloud Functions for Firebase is the programmatic glue that allows you to extend and connect Firebase products and cloud services.\n",
+    "id": 102,
+    "language": "English",
+    "speakers": [
+      3
+    ],
+    "tags": [
+      "Web",
+      "Firebase"
+    ],
+    "title": "Go beyond the web development with Firebase Cloud Functions"
+  },
+  "103": {
+    "complexity": "Intermediates",
+    "description": "Managing modern infrastructure presents many different challenges. While the main operational aspects of infrastructure like durability, availability, scalability, security are very important, there’s also one aspect which should enable and support all the others - automation.\n \nAutomation is a very abstract word, so the talk will briefly explain what benefits does IaC approach bring to the table and why configuration management (often driven by tools like Ansible, Puppet, Salt, Chef etc.) is just one of many layers in an automated production infrastructure.\n \nThen we will walk through the main design goals of Terraform, open source tool that enables users to write, plan and apply changes of a production infrastructure in Google Cloud, and explain how to do it.",
+    "id": 103,
+    "language": "English",
+    "speakers": [
+      4
+    ],
+    "tags": [
+      "Cloud"
+    ],
+    "title": "Infrastructure as Code in Google Cloud"
+  },
+  "104": {
+    "complexity": "Intermediates",
+    "description": "It will be based on my experience lauching new apps this year.",
+    "id": 104,
+    "language": "English",
+    "speakers": [
+      5
+    ],
+    "tags": [
+      "Marketing",
+      "Indie"
+    ],
+    "title": "(TBD) How to design app to be easily sellable on Play Store"
+  },
+  "105": {
+    "complexity": "IT muggles",
+    "description": "Overview of our findings on the mysterious phenomenon - Sleep:\nhttp://sleep.urbandroid.org/sleepcloud-study/\n\nOur study is based on analyses of more than 10 million sleep records in our Sleep Cloud data base collected in Google Cloud using Android smartphones and various wearable tech for Sleep tracking. Our findings are based on our own private funded research but also based on cooperation with several scientific institutions. \n\nTopics:\n- How does our lifestyle affect sleep\n- Nigh owls / morning larks - chronotypes, Roenneberg and Social jet lag\n- Want to stop snoring? Have a beer!\n- How do we sleep post-Brexit / post-Trump\n- Sleep and psychical health\n- Smart alarms improve sleep and wake up experience\n- Our internal clock and how harmful summer time is\n...\n",
+    "id": 105,
+    "language": "English",
+    "speakers": [
+      6
+    ],
+    "tags": [
+      "Android",
+      "Cloud"
+    ],
+    "title": "Sonar or the Tricoder (how we created a new smartphone sensor)"
+  },
+  "106": {
+    "complexity": "Intermediates",
+    "description": "Awesome! The first Angular 5 beta is out already and the deadline for the final release is planned for September 18th. In this talk we are going to explore some of these new features and how to take advantage of them while going through some demos and easy to follow code snippets.",
+    "id": 106,
+    "language": "English",
+    "speakers": [
+      7
+    ],
+    "tags": [
+      "Web"
+    ],
+    "title": "What's new in Angular 5?"
+  },
+  "107": {
+    "complexity": "Beginners",
+    "description": "At I/O this year, the Room persistence library was introduced as part of the Architecture Components effort. In this talk we'll look at what Room has to offer, why and when you should use it and how it compares to existing solutions. We'll also take a look at how Room works under the covers and how it integrates with other Architecture components and RxJava.",
+    "id": 107,
+    "language": "English",
+    "speakers": [
+      8
+    ],
+    "tags": [
+      "Android"
+    ],
+    "title": "Room: the blessed Object Mapper"
+  },
+  "108": {
+    "complexity": "Everyone above and beyond",
+    "description": "Are you working on the client library? Or design a public API for the module that is going to be used by other team or department?\n\nIn this session, Vitality will share his experience and key learnings from building a mobile SDKs for last 4 years:\n\nwhat is the cost of too complex API and how to simplify it;\nwhat aspects of the library are important for clients;\nhow documentation should look like to avoid stupid and repetitive support questions;\nhow to make library update process smooth.\nThe session will be interesting for Android and iOS developers who want to learn what makes client library great. What are the best practices and common pitfalls in public API design? What is important, only programming API you expose or also ecosystem around?",
+    "id": 108,
+    "language": "English",
+    "speakers": [
+      9
+    ],
+    "tags": [
+      "Android",
+      "iOS"
+    ],
+    "title": "How not to fuckup with building SDK and make clients happy"
+  },
+  "109": {
+    "complexity": "Beginners",
+    "description": "Virtual Reality is a new technology used for building realistic experiences for games, environments, content display as well as marketing. Any person with a basic understanding of HTML5, CSS and JavaScript would be able to follow through the code examples. The talk would run through topics like VR, WebVR API, A Frame and designs, testing applications on Google Cardboard and so on. In these apps, users will be able to test the VR environments on their laptops, walk through the virtual world, interact with the objects as well as perceive these virtual realities with the help of Google Cardboard. By the end of the session, the user will have a complete understanding of what WebVR is, various VR devices available, requirements to start working on WebVR and the popular WebVR based projects. The user will also be comfortable in using A-Frame and its various components to build their own VR projects.",
+    "id": 109,
+    "language": "English",
+    "speakers": [
+      10
+    ],
+    "tags": [
+      "UX",
+      "VR/AR"
+    ],
+    "title": "Web Based Virtual Reality"
+  },
+  "110": {
+    "complexity": "Intermediates",
+    "description": "In this presentation we'll introduce Vue.js, setup a webpack build, extoll the virtues of its reactive data binding and composble interface all while building an Instagram like app. Using Framework 7 to provide the basic UI for Android and iOS for those of us, like myself, who are CSS challenged.\n\nVue.js is a library for building interactive web interfaces. The goal of Vue.js is to provide the benefits of reactive data binding and composable view components with an API that is as simple as possible.\n\nFramework7 - is a free and open source mobile HTML framework to develop hybrid mobile apps or web apps with iOS & Android native look and feel. It is also an indispensable prototyping apps tool to show working app prototype as soon as possible in case you need to.\n",
+    "id": 110,
+    "language": "English",
+    "speakers": [
+      11
+    ],
+    "tags": [
+      "Web",
+      "Mobile"
+    ],
+    "title": "Cross Platform Progressive Web Apps"
+  },
+  "111": {
+    "complexity": "Everyone above and beyond",
+    "description": "What is the first thing that comes to your mind when you are starting to develop your product? You need to think about all sort of features. How you are going to grow your app. Engage your audience and make money in the process, right? \nWhat if you could choose a platform to build your app with confidence, without the need of managing infrastructure, trusted by companies like The New York Times, The Economist, Shazam and much more. Firebase gives you the tools and infrastructure you need to build better apps and grow businesses. Join this talk and learn how to overcome the challenges of build extraordinary front-end apps using Firebase.",
+    "id": 111,
+    "language": "English",
+    "speakers": [
+      12
+    ],
+    "tags": [
+      "Firebase"
+    ],
+    "title": "Let Firebase help you to build better Front-end apps"
+  },
+  "112": {
+    "complexity": "Everyone above and beyond",
+    "description": "In a plain-looking computer room sits 30+ men wearing khaki-colored shirts and pants, each staring intently at their monitors. Some young, some old, some with tattoos, all with different life stories. These men--many of which have never been on the Internet-- are learning computer programming while serving time at Washington State's second largest prison. \n\nGaining employment upon release from prison is one of the largest indicators of successful re-entry into society. With today’s booming tech market, these currently incarcerated men hope to gain the skills needed to obtain web development jobs upon release. \n\nHowever, learning programming inside a prison isn’t easy. Each student computer is highly locked-down with limited software and absolutely no Internet access. While most programmers enjoy the benefits of Google and StackOverflow, these students must work with what is available on the classroom’s local network and in the outdated computer manuals available in the facility library.\n\nMy name is Sarabeth Jaffe and I teach computer programming at Monroe Correctional Complex. In this talk, I will discuss the many challenges of teaching web development without the web, the Open Source technology that makes it possible, and the many opportunities we--as technologists--have to spread the benefits of the technical knowledge to disadvantaged populations.",
+    "id": 112,
+    "language": "English",
+    "speakers": [
+      13
+    ],
+    "tags": [
+      "Web"
+    ],
+    "title": "Programming in Prison: Web Development behind Bars"
+  },
+  "113": {
+    "complexity": "Intermediates",
+    "description": "Amazing UX, delighting UI, wonderful performance.. You already know what to do in order to make users love your app when using it. But as app session lasts around 5 minutes, there’s a large portion of the day where your app is not being used. When your app is sound asleep what can you do to remind your users that your app is the best? \nThis talk will explore how to make your app pop and shine, even when is not on the foreground, and increase retention dramatically! Brand new Android O features, notifications, shortcuts, animated launcher icons.. Your app won’t be sleeping for long ;) \n",
+    "id": 113,
+    "language": "English",
+    "speakers": [
+      14
+    ],
+    "tags": [
+      "Android"
+    ],
+    "title": "When your app is asleep"
+  },
+  "114": {
+    "complexity": "TODO",
+    "description": "TODO",
+    "id": 114,
+    "language": "English",
+    "speakers": [
+      15
+    ],
+    "tags": [
+      ""
+    ],
+    "title": "Úspěšný vývoj multiplaformní aplikace pomocí J2Objc"
+  },
+  "115": {
+    "complexity": "TODO",
+    "description": "TODO",
+    "id": 115,
+    "language": "English",
+    "speakers": [
+      16
+    ],
+    "tags": [
+      "Dart",
+      "Web"
+    ],
+    "title": "Angular Dart?"
+  },
+  "116": {
+    "complexity": "IT muggles",
+    "description": "I can do a Keynote about Past, Present and Future of IT and Google Tech and cover topics about Mobile, Education, Google Tech, Google Initiatives, Getting Started in IT, Internet of Things, VR/AR, Machine Learning, etc",
+    "id": 116,
+    "language": "English",
+    "speakers": [
+      17
+    ],
+    "tags": [
+      "Android"
+    ],
+    "title": "Writing A Plugin for Android Studio"
+  },
+  "117": {
+    "complexity": "Beginners",
+    "description": "Zjistíme jak postavit mobilní aplikaci ve Flutteru a prozkoumáme jeho architekturu.",
+    "id": 117,
+    "language": "English",
+    "speakers": [
+      18
+    ],
+    "tags": [
+      "Dart"
+    ],
+    "title": "Dart pro Javisty"
+  },
+  "118": {
+    "complexity": "Beginners",
+    "description": "Learn how to take your Android development skills and apply them to Flutter, a cross platform native mobile development framework from Google.\n\nWe will go over how to build a Flutter app, and how to apply the concepts you know such as Activities, Intents, Lifecycle, Layouts, and many more and translate those over to Flutter so you can be a Flutter pro in no time!",
+    "id": 118,
+    "language": "English",
+    "speakers": [
+      19
+    ],
+    "tags": [
+      "Assistant"
+    ],
+    "title": "Building Google Assistant Actions"
+  },
+  "119": {
+    "complexity": "TODO",
+    "description": "TODO",
+    "id": 119,
+    "language": "English",
+    "speakers": [
+      20
+    ],
+    "tags": [
+      "web"
+    ],
+    "title": "Http/2"
+  },
+  "120": {
+    "complexity": "Everyone above and beyond",
+    "description": "Learn to build an end-to-end, high-performance artificial intelligence algorithm in Rust language capable of predicting whether male or female is the subject of the image captured from an edge device like a mobile camera.\n \nThe speciality of the session is that all the functional units starting from the web server, front end web app and algorithm are developed in rust language.\n",
+    "id": 120,
+    "language": "English",
+    "speakers": [
+      21
+    ],
+    "tags": [
+      "AI",
+      "IOT"
+    ],
+    "title": "Building Artificial Intelligence Units in Rust"
+  },
+  "121": {
+    "complexity": "Intermediates",
+    "description": "WebRTC is an emerging technology for communicating over modern browsers that enables a new generation of capabilities. We have historically been dependent on the telecom vendors, but now everyone has the ability to put communication in their apps without going to a communication company. This session involves everything you need to know about webRTC, and how it is changing the fundamental model of communication. ",
+    "id": 121,
+    "language": "English",
+    "speakers": [
+      22
+    ],
+    "tags": [
+      "Web"
+    ],
+    "title": "Service workers and their role in PWAs"
+  },
+  "122": {
+    "complexity": "Everyone above and beyond",
+    "description": "Let's take a look into the world of IoT devices. How much time will it take to hack a coffee machine or a kettle, get inside your local network or use remote control apps against you. ",
+    "id": 122,
+    "language": "English",
+    "speakers": [
+      23
+    ],
+    "tags": [
+      "IOT"
+    ],
+    "title": "Dark side of IoT"
+  },
+  "123": {
+    "complexity": "Everyone above and beyond",
+    "description": "Mám více možných témat (konkrétně tři, z různých oblastí, jedno je iOS, druhé je Ruby on Rails a třetí je IoT), dle instrukcí od Elišky je vypisuji pod sebe oddělená hvězdičkami. Přednášel bych v EN.\n\n***\n\nExcellent iOS Apps Architecture with MVVM & RxSwift\n\nApple never provided any solution or guide on how to make a state-of-the-art iOS app architecture. But the global iOS developer community never sleeps! Let's take a look together how a state-of-the-art architecture of iOS app should looks like. Let's dive into the refreshing waters of MVVM+, FlowControllers, DI and RxSwift. Code is included!\n\n[for intermediates or experts]\n\n***\n\nA cute garden where Web Apps are grown with fun (and Ruby on Rails 5.1)\n\nEvery mature mobile app or responsive website needs a backend or Web App. There are many technologies you can use for that purpose. But only one of them found it's way into my Heart. Let me show you how much fun and productivity you can get while building a well tested Web App. Ruby on Rails lets you focus on things that matter instead of the boring ones. And with version 5.1 a much closer cooperation with your favourite frontend technology is now possible. It does not matter if you prefer jQuery, React, Angular or Dart. Or anything else. Rails will be happy to talk to everybody. Code is included!\n\n[for beginners or intermediates, the TDD (Test Driven Development) part can be interesting even for experts or jedis]\n\n***\n\nWhen a Robot is smart enough?\n\nInternet of Things (IoT) covers many areas, but the most interesting ones (at least for me) are Robotics and AI. Where is the moment when a machine or robot is \"smart enough\"? Let's explore this area a bit together and let's see some examples. How difficult is to build a Smart Robot? Could you build one at home? The answer is Yes! And I will show you how. From the basic steps on #Arduino, to the beauty of more complex examples and solutions like SLAM, optical recognition, path finding or steering behaviours. Live demo is included!\n\n[for everybody interested in IoT or robotics, they do not require big or deep knowledge. Some parts are interesting even to experts]",
+    "id": 123,
+    "language": "English",
+    "speakers": [
+      24
+    ],
+    "tags": [
+      "IOT"
+    ],
+    "title": "When a Robot is smart enough?"
+  },
+  "124": {
+    "complexity": "Beginners",
+    "description": "The main goal of this workshop is that you will learn how to build and run your first Android app written in Kotlin from scratch.\n\n You will learn how to set up Android project and Gradle for using it with Kotlin. Next, you will learn how to write the KDoc documentation and how to generate it by using the Dokka tool. Output application will demonstrate main advantages of Kotlin for Android development and good starting point for you. \n\nYou will need a computer that can run Android Studio 3.",
+    "id": 124,
+    "language": "English",
+    "speakers": [
+      25
+    ],
+    "tags": [
+      "Android"
+    ],
+    "title": "Kotlin for Android"
+  },
+  "125": {
+    "complexity": "TODO",
+    "description": "TODO",
+    "id": 125,
+    "language": "English",
+    "speakers": [
+      26
+    ],
+    "tags": [
+      ""
+    ],
+    "title": "nahradni speaker"
+  },
+  "200": {
+    "complexity": "Intermediates",
+    "description": "What if you could automate your DevOps life? Let’s first talk briefly about OpenShift and Jenkins and then dive deep into their integration - OpenShift Pipelines. They let you create your CI/CD around containers simply and efficiently. If the demo gods are with us, you’ll see it all live and shiny.",
+    "id": 200,
+    "language": "English",
+    "speakers": [
+      27
+    ],
+    "tags": [
+      "Cloud"
+    ],
+    "title": "Basic Concepts of Containers Orchestration"
+  },
+  "201": {
+    "complexity": "Everyone above and beyond",
+    "description": "Have you ever wondered how to provide sensitive customer data to third parties and still maintain privacy and client’s secret? How to enable partners to mine for wealth and knowledge in client’s data, that we can use to provide better customer experience later? And how to protect client’s data and yet go hand in hand with the trend of Open APIs and Open banking? The solution is simple: Homomorphic encryption. So you know, it is not so easy, but later on :)",
+    "id": 201,
+    "language": "English",
+    "speakers": [
+      28
+    ],
+    "tags": [
+      "API"
+    ],
+    "title": "Morfina - The World Unique Homomorphic Encrypted Open API"
+  },
+  "202": {
+    "complexity": "Intermediates",
+    "description": "There is a lot of hype around the serverless architecture and for many products having dedicated servers might not be cost-effective. Such products are the perfect use case for Firebase. \nFirebase Functions allow you to execute computation directly in the cloud without caring about instances, containers and other infrastructure details. And after the release of Kotlin 1.1 it is possible to write those Functions in Kotlin, receiving all the benefits of this pragmatic and robust language.\nIn this talk I will show how to set up and write a simple backend for a mobile application, what problems you may face and what benefits you will receive at the end.",
+    "id": 202,
+    "language": "English",
+    "speakers": [
+      29
+    ],
+    "tags": [
+      "Firebase",
+      "Kotlin"
+    ],
+    "title": "Writing Firebase Functions in Kotlin"
+  },
+  "203": {
+    "complexity": "Intermediates",
+    "description": "We all love a good game, don’t we? I’ve got some good news for you, making games is almost as fun as playing them, and you can do it in JavaScript.\n\nYou will learn the components of game development, and will walk out with a responsive prototype. \nAnd of course we won’t forget to add some juice! As with any good game, the right amount of particles, cameras shakes and other goodies will be added.\n\nGame development is a very versatile skill that can also act as a gateway to creative coding, and with the advent of VR, an understanding of its principles and challenges is more relevant than ever.",
+    "id": 203,
+    "language": "English",
+    "speakers": [
+      30
+    ],
+    "tags": [
+      "Web"
+    ],
+    "title": "Introduction to JavaScript Game Development"
+  },
+  "204": {
+    "complexity": "Everyone above and beyond",
+    "description": "One of the hardest things to do in any social situation is to get the courage to introduce yourself and talk to people you don't know. This workshop will help you lose the fear and will give you some practical strategies for networking.\n\n*this workshop would actually be ideal BEFORE DevFest starts as the participants would be able to use what they learned during the conference. There is no limit to how many people can attend (at WebExpo 2013, I had about 50 participants go through the workshop before the Warmup Party). It lasts about an hour and is very active.",
+    "id": 204,
+    "language": "English",
+    "speakers": [
+      31
+    ],
+    "tags": [
+      "Soft skills"
+    ],
+    "title": "Networking for Geeks"
+  },
+  "205": {
+    "complexity": "Intermediates",
+    "description": "Everything you want to and should, as developer, forget about: How to migrate to cloud from on-premise solution, including cloud to cloud migration, disaster recovery from on-premise to cloud. How to split monolith servers to managed services and/or micro-services. How to optimize security, monthly spending on cloud.",
+    "id": 205,
+    "language": "English",
+    "speakers": [
+      32
+    ],
+    "tags": [
+      "Cloud"
+    ],
+    "title": "Move to Google Cloud Platform, and stop worrying ..."
+  },
+  "206": {
+    "complexity": "Beginners",
+    "description": "If you didn't fail did you know why you succeeded? Do you know what worked so you could repeat it again when needed? I don't think that's true. We learn the most when we fail. We know what didn't work and using that knowledge we can improve next attempt. While failure is always an option (at least should be!), your job isn't the best place for failures. That's why I'd like to invite you to join Coding Dojo.\n\nCoding Dojo is a place for practice in a safe environment. You can fail, learn and repeat until you feel your skills are improved. This session would be held in order to practice Test Driven Development in pairs or small groups. No prior knowledge of TDD is required.",
+    "id": 206,
+    "language": "English",
+    "speakers": [
+      33
+    ],
+    "tags": [
+      "TDD"
+    ],
+    "title": "Coding Dojo"
+  },
+  "207": {
+    "complexity": "Intermediates",
+    "description": "How to write system which makes you money",
+    "id": 207,
+    "language": "English",
+    "speakers": [
+      34
+    ],
+    "tags": [
+      "Cloud",
+      "AI"
+    ],
+    "title": "Crypto currency trading algo"
+  },
+  "208": {
+    "complexity": "Everyone above and beyond",
+    "description": "Why do some colors have a name while others do not? Where do the named colors come from, what are their properties and what strange surprises do they hide?\nThis talk will explain the concept of named CSS colors, introduce their origin and list some interesting and lesser-known facts about them.\n",
+    "id": 208,
+    "language": "English",
+    "speakers": [
+      35
+    ],
+    "tags": [
+      "Web"
+    ],
+    "title": "experiments with real-time audio/video processing in JavaScript"
+  },
+  "209": {
+    "complexity": "Everyone above and beyond",
+    "description": "Welcome to our \"failcon\" story of how we created Robeeto - a startup of shared economics. Learn from our mistakes and more - how to work with the initial idea, who else do you need except you as a developer. How we learned from our mistakes, redesigned the idea and created an ecosystem of people who love what they do. Step by step, we will look at the process from idea to creating your own monster. So you can call with us - It's aliiiiive!!! \n\nWe can also present in Czech or do this as workshop. Your choice :-)",
+    "id": 209,
+    "language": "English",
+    "speakers": [
+      36
+    ],
+    "tags": [
+      "Soft skills"
+    ],
+    "title": "It's aliiiiive!"
+  },
+  "210": {
+    "complexity": "Intermediates",
+    "description": "Google Assistant is popular for doing the tasks such as - calls, mails, songs play, weather check, traffic update. But for developers like us we need an assistant do help us in coding , help us in code review and doing so many stuff to keep us free to focus on important things such as - Learning and more coding. So here we are with our Google assistant to assist us in our coding tasks. \n\nWhat you need:\nPython/javascript \nRaspberry pi\nGoogle Assistant\n\nWhat we will do:\nWe will develop a Google Assistant SDK to help developers in task such us:\n1) Code Commit\n2) Code review\n3) Priorities code bug/error\n4) Suggestions of solutions based on Bugs logged\n5) Creating reports ",
+    "id": 210,
+    "language": "English",
+    "speakers": [
+      37
+    ],
+    "tags": [
+      "Assistant"
+    ],
+    "title": "Okay Google, let's do the code review"
+  }
+}
