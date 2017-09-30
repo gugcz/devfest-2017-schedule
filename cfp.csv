@@ -1,0 +1,1020 @@
+Timestamp,Your name,Your email,Company,Position,Bio,Social links,Talk or workshop?,Which field is most relevant to your topic?,Title of your talk/workshop,Short description of your talk/workshop:,For whom is this suitable?,How would you rate your presentation skills?,Do you need any help with stage-fright?,Reference,Do you need cost coverage?,Where you will be travelling from?,"Do you have a co-speaker? If so, add any details about him/her here:"
+6/1/2017 20:36:22,Adam Sobotka,adam.sobotka@2fresh.cz,2Fresh,Seeing Eye Dog,"I learn every day and with all gained knowledge I try to help people. Usually with process definitions, guiding through the obstacles of product and project lifecycle and similar areas.","https://www.linkedin.com/in/adamsobotka/ 
+https://github.com/vorcigernix",Talk (~40 mins on Saturday),"UX, Agile",Human Centered Development,Coming from world of engineering I learned a lot in last few months about Design and I believe you should too. ,Beginners,I am an experienced speaker.,Yes,"I was talking on smaller events, usually about Agile. There was a live stream from last year LoveCode.cz (interview with tyinternety.cz) but I can't find it, sorry.","No, I got it",Not travelling. Born wild in Prague.,"Not yet, working on it :-)"
+6/12/2017 18:45:54,Adrian Bolboacă,adrian.bolboaca@mozaicworks.com,Mozaic Works,"Programmer, Trainer, Coach","Adrian is a programmer, trainer and coach. His passion is helping teams produce high quality software, both on technical and organizational sides.
+In 2016 he published a book about hosting and facilitating a coderetreat, a one-day deliberate practice concept for programming https://leanpub.com/coderetreat.
+Adrian plans to develop more the concept of Evolutionary Design through hands-on workshops, live coding sessions, articles and at least one book on this topic.",blog.adrianbolboaca.ro,Workshop (~2 hours on Sunday),Soft Skills,Personal Responsibility Process,"This is a workshop that can change your life by helping you take action instead of being stuck in an non-efficient mindset.
+
+How do you get from blaming the others to Responsibility? This is a workshop about a model created by Christopher Avery after a long research about what responsibility really is. 
+
+We will talk about: denial, blame, justify, shame, obligation and responsibility. We will get to practice with personal examples to understand this model. 
+
+This workshop is mostly about our mental states, feelings and reactions. If you want to get most of it please try to open yourself to the workshop routine.",Everyone above and beyond,I am an experienced speaker.,No,http://blog.adrianbolboaca.ro/category/talk/,"Yes, travel and accommodation fees","Probably from Bucharest, Romania. Since I am travelling a lot I cannot know now.",
+6/12/2017 18:50:23,Adrian Bolboacă,adrian.bolboaca@mozaicworks.com,Mozaic Works,"Programmer, Trainer, Coach","Adrian is a programmer, trainer and coach. His passion is helping teams produce high quality software, both on technical and organizational sides.
+
+In 2016 he published a book about hosting and facilitating a coderetreat, a one-day deliberate practice concept for programming https://leanpub.com/coderetreat.
+
+Adrian plans to develop more the concept of Evolutionary Design through hands-on workshops, live coding sessions, articles and at least one book on this topic.",blog.adrianbolboaca.ro,Talk (~40 mins on Saturday),Active Learning,Deliberate Practice,"Deliberate practice is a highly structured activity engaged in with the specific goal of improving performance. It is different from work, play and simple repetition of a task. It requires effort, it has no monetary reward, and it is not inherently enjoyable.
+
+The common view held until recently was that expert-level performance was simply the result of talent and “natural abilities.” But scientists believe that expert-level performance is primarily the result of expert-level practice NOT due to innate talent.
+
+So let’s have a discussion about how we can practice, formats and methods of practice in the Software Development world. I will touch technical type of practice (for programmers, testers, etc), and also organizational type of practice (managers, Scrum Masters, Team Leaders, Product Owners, etc)",Everyone above and beyond,I am an experienced speaker.,No,http://blog.adrianbolboaca.ro/category/talk/,"Yes, travel and accommodation fees","Proabably from Bucharest, Romania, but as I am travelling a lot, I cannot know now.",
+7/10/2017 14:50:50,Alexey Buzdin,alex.buzdin@gmail.com,GDG Riga,Organizer,"Alexey is a passionate developer and trainer that loves to engage people into conversations about IT and tech. He is an organizer of Google Developers Group Riga (http://GDGRiga.lv), Java User Group Latvia (http://JUG.lv), Mobile Developers Latvia, annual Riga Dev Day conference (http://rigadevday.lv/) and a frequent speaker at international conferences.","https://twitter.com/AlexeyBuzdin 
+http://lanyrd.com/profile/alexeybuzdin/
+https://speakerdeck.com/larchaon
+https://github.com/AlexeyBuzdin/
+https://www.linkedin.com/in/alexeybuzdin",Talk (~40 mins on Saturday),Android Studio,Writing A Plugin for Android Studio,"Do you wish you could click autocomplete an exotic language or drill down into framework String parameters? But sadly there's no IDE plugin for
+ that, what a shame.. But do not fear, we have a solution! Let's explore how we could make our own plugin for our favourite tool. We will start
+with capability overview of plugin API, get into parsers and lexers, syntax highlight, adding buttons to toolbars, etc. As well as briefly cover best practices, build system configurations and deployment to get your plugin into the wilds into the plugin store!",Intermediates,I am an experienced speaker.,No,https://www.youtube.com/playlist?list=FLo0E6iZ96NTGMvVm2Vs5IOA, Travel and accommodation fees would be really great since I'm planning to come on my own. But if it's a problem I can try to pay for something from my money,"Latvia, Riga",
+7/10/2017 14:58:35,Alexey Buzdin,alex.buzdin@gmail.com,GDG Riga,Organizer,"Alexey is a passionate developer and trainer that loves to engage people into conversations about IT and tech. He is an organizer of Google Developers Group Riga (http://GDGRiga.lv), Java User Group Latvia (http://JUG.lv), Mobile Developers Latvia, annual Riga Dev Day conference (http://rigadevday.lv/) and a frequent speaker at international conferences.","
+http://lanyrd.com/profile/alexeybuzdin/
+https://twitter.com/AlexeyBuzdin
+https://www.linkedin.com/in/alexeybuzdin
+https://speakerdeck.com/larchaon
+https://github.com/AlexeyBuzdin/",Talk (~40 mins on Saturday),Android,Deep Dive into JUnit and Mockito,"Everyone is using JUnit and Mockito, but they have always some tricks in their sleeves. In this topic we will look into all the frameworks in JUnit ecosystem and deep dive into all the features it provides and when can you use them. Then we will move to Mockito, PowerMock, Hamcrest Matchers and AssertJ. So you will have a whole overview of tools and benefits you need to start testing you code.",Beginners,I am an experienced speaker.,No,https://www.youtube.com/playlist?list=FLo0E6iZ96NTGMvVm2Vs5IOA,"Yes, travel and accommodation fees","Latvia, Riga",
+7/10/2017 15:04:50,Alexey Buzdin,alex.buzdin@gmail.com,GDG Riga,Organizer,"Alexey is a passionate developer and trainer that loves to engage people into conversations about IT and tech. He is an organizer of Google Developers Group Riga (http://GDGRiga.lv), Java User Group Latvia (http://JUG.lv), Mobile Developers Latvia, annual Riga Dev Day conference (http://rigadevday.lv/) and a frequent speaker at international conferences.","http://lanyrd.com/profile/alexeybuzdin/
+https://twitter.com/AlexeyBuzdin
+https://www.linkedin.com/in/alexeybuzdin
+https://speakerdeck.com/larchaon
+https://github.com/AlexeyBuzdin/",Talk (~40 mins on Saturday),Android,Marvels of Annotation Processing,"Writing code is cool, but see it generating automatically is even cooler! This talk will be a case study about possibilities of Annotation Preprocessing in Java development and when you would actually use it. Let's look into popular libraries and frameworks that are using Annotation Preprocessing, talk about it pros and cons compared with Reflection / Runtime Code Generation and when you would actually need compile time code generation in favour of generating bytecode at Runtime. Also during this talk we will glance into two most popular compile time code generation libraries - Dagger 2.0 and Lombok, and discuss their effectiveness",Intermediates,I am an experienced speaker.,No,https://www.youtube.com/playlist?list=FLo0E6iZ96NTGMvVm2Vs5IOA,"Yes, travel and accommodation fees","Latvia, Riga",
+7/10/2017 15:16:12,Alexey Buzdin,alex.buzdin@gmail.com,GDG Riga,Organizer,"Alexey is a passionate developer and trainer that loves to engage people into conversations about IT and tech. He is an organizer of Google Developers Group Riga (http://GDGRiga.lv), Java User Group Latvia (http://JUG.lv), Mobile Developers Latvia, annual Riga Dev Day conference (http://rigadevday.lv/) and a frequent speaker at international conferences.","http://lanyrd.com/profile/alexeybuzdin/
+https://twitter.com/AlexeyBuzdin
+https://www.linkedin.com/in/alexeybuzdin
+https://speakerdeck.com/larchaon
+https://github.com/AlexeyBuzdin/",Talk (~40 mins on Saturday),"Mobile, Android iOS",Easy and Fast Crosplatform Apps with Fuse,"Nowadays there are countless crossplatform tools to write mobile apps for all platforms, why we need yet another? As a vivid crossplatform tool enthusiast Alexey will tell when would you like to choose a crossplatform framework over writing native apps, when would you better take Fuse over Reaxt Native, Xamarin and Apache Cordova and show you a quick start on how to use Fuse and develop you own app in less than 40 minutes.",Beginners,I am an experienced speaker.,No,https://www.youtube.com/playlist?list=FLo0E6iZ96NTGMvVm2Vs5IOA,"Yes, travel and accommodation fees","Latvia, Riga",
+7/10/2017 15:22:31,Alexey Buzdin,alex.buzdin@gmail.com,GDG Riga,Organizer,"Alexey is a passionate developer and trainer that loves to engage people into conversations about IT and tech. He is an organizer of Google Developers Group Riga (http://GDGRiga.lv), Java User Group Latvia (http://JUG.lv), Mobile Developers Latvia, annual Riga Dev Day conference (http://rigadevday.lv/) and a frequent speaker at international conferences.","http://lanyrd.com/profile/alexeybuzdin/
+https://twitter.com/AlexeyBuzdin
+https://www.linkedin.com/in/alexeybuzdin
+https://speakerdeck.com/larchaon
+https://github.com/AlexeyBuzdin/
+",Talk (~40 mins on Saturday),IT,Keynote: Present and Future of IT,"I can do a Keynote about Past, Present and Future of IT and Google Tech and cover topics about Mobile, Education, Google Tech, Google Initiatives, Getting Started in IT, Internet of Things, VR/AR, Machine Learning, etc",IT muggles,Keynote speaker is my middle name.,No,https://www.youtube.com/playlist?list=FLo0E6iZ96NTGMvVm2Vs5IOA,"Yes, travel and accommodation fees","Latvia, Riga",
+7/19/2017 12:14:18,Aliaksandr Zhukovich,zhukovich.a@gmail.com,TomTom,Senior Android Engineer,"My name is Alex. I'm a software enthusiast with passion for technologies. I started from Web development and last few years I'm working on Android projects. I have a passion for well written and tested software products. I like to share knowledge with articles, meetups and conferences. Last few months I'm additionally working on education project about Android testing. ","https://www.linkedin.com/in/aliaksandr-zhukovich-b0578a76/, https://twitter.com/Alex_Zhukovich",Talk (~40 mins on Saturday),"Android, Room",Let us play in Room with Kotlin,"Each application uses different data sources and one of them is a database on devices. During last Google I/O, new solution was presented, which is called Room. It can help you to ease you way while working with SQLite databases on Android. In this talk we will discuss  how to use it efficiently, migrate to the Room library, test it and the way we can work with it using Kotlin. ",Intermediates,"I have some experience, but I would appreciate some help with improving my skills.",No,https://speakerdeck.com/alexzhukovich,"No, I got it",Poland,
+7/19/2017 21:42:17,Alpesh H.Patel,alpesh@peshmode.com,Peshmode Ltd ,Founder ,I am an award winning Entrepreneur founder of the first African mobile device brand and the first black emoticons . I know how to commercialize tech business models and my experience and learnings can help developers create viable business models and go to market strategies ,"FB : iampeshmode , twitter@mialpesh 
+",Talk (~40 mins on Saturday),"Sales skills , business development , go to market strategies for tech models , the power of emerging markets ",Building something from nothing ,I speak about my experience in building tech brands in tough markets like Africa. I speak about how to commercialize your services with little or no funding . I speak about creating value . My website www.peshmode.com has all my references . I am also an author of the book TESTED which is an entrepreneurs journey across 4 continents ,Everyone above and beyond,I am an experienced speaker.,No,My videos are on www.peshmode.com and also on my YouTube channel under Alpesh Patel and also on Vimeo under Mi Fone ,"Yes, travel and accommodation fees",London ,No 
+6/12/2017 18:38:21,Alvin Ourrad,alvin.ourrad@bbc.co.uk,BBC,Software engineer,"Alvin is a web and game developer working on interactive graphics for BBC news. 
+A lover of open-source, always looking to push the boundaries of the browsers when it comes to creativity and interactivity.
+Especially into programming when it comes to journalism, 3D and all things data-driven.
+
+I've worked on some award-winning HTML5 games and I have been a core contributor to the Phaser game framework as well as Pixi.js, the fast and versatile 2D rendering engine.
+
+Accolades include FWA mobile, Lovie Awards, finalist for Broadcast Digital and Tiga awards, as well as a BAFTA nomination.","Portfolio: http://alvin.me.uk
+Portfolio: http://www.alvin.me.uk
+Twitter: https://twitter.com/alvinsight
+Github: https://github.com/alvinsight",Workshop (~2 hours on Sunday),The Web as a creative platform,Introduction to JavaScript Game Development,"We all love a good game, don’t we? I’ve got some good news for you, making games is almost as fun as playing them, and you can do it in JavaScript.
+
+You will learn the components of game development, and will walk out with a responsive prototype. 
+And of course we won’t forget to add some juice! As with any good game, the right amount of particles, cameras shakes and other goodies will be added.
+
+Game development is a very versatile skill that can also act as a gateway to creative coding, and with the advent of VR, an understanding of its principles and challenges is more relevant than ever.",Intermediates,I am an experienced speaker.,No,"I have been running workshops in conferences and meetup groups occasionally for years. These have always received good feedback and sometimes inspired people to expand the project they started during the session.
+I've also done some informal in-house training sessions for other colleagues at the BBC.
+
+References: 
+- Alastair Lockie, Async.js Brighton organiser, alastair.lockie@gmail.com","Yes, travel and accommodation fees","London, UK",I don't have a co-speaker
+5/31/2017 15:14:51,AMahdy Abdelaziz,amahdy7@gmail.com,Vaadin,Developer Advocate,"International technical speaker, Google developer expert (GDE), trainer and developer advocate. Passionate about Web and Mobile apps development, including PWA, offline-first design, in-browser database, and cross platform tools. Also interested in Android internals such as building custom ROMs and customize AOSP for embedded devices. www.amahdy.net","https://github.com/amahdy
+@amahdy7
+https://google.com/+AMahdyAbdElAziz
+https://linkedin.com/in/amahdyabdelaziz
+",Talk (~40 mins on Saturday),"Web Apps, PWA","The Java, the Javascript, and the future","Sometimes we are not sure if using a specific tool is a good decision or not. How many framework.js are out there right now? Is JS a replacement for Java? What will become standard and what is just a hype?
+
+PWA sounds like a new framework, or a tool to create some sort of web apps. Many developers link it to JavaScript, and that is only achievable with one of those new framework.js out there.
+
+I’ve been wondering about the truth of this previous statement, can we create a PWA in, let’s say, pure Java? I did some research and I’m going to present my findings.
+
+In this presentation I will demonstrate how we can actually build modern web applications that qualify as ""Progressive Web Apps"".
+
+I will start by dismantling an existing PWA, and rebuild the pieces into an existing Java application. And test the results throughout the process.",Everyone above and beyond,Keynote speaker is my middle name.,No,"I spoke in many previous conferences such as:
+Devoxx BE and Devoxx UK, many Voxxed conferences, JavaOne, DevFest, ...etc.
+Some recorded talks are available here: https://www.youtube.com/amahdyabdelaziz",I'm a GDE (so Google can probably cover that),"Turku, Finland",
+5/31/2017 15:17:02,AMahdy Abdelaziz,amahdy7@gmail.com,Vaadin,Developer Advocate,"International technical speaker, Google developer expert (GDE), trainer and developer advocate. Passionate about Web and Mobile apps development, including PWA, offline-first design, in-browser database, and cross platform tools. Also interested in Android internals such as building custom ROMs and customize AOSP for embedded devices. www.amahdy.net","https://github.com/amahdy
+@amahdy7
+https://google.com/+AMahdyAbdElAziz
+https://linkedin.com/in/amahdyabdelaziz",Talk (~40 mins on Saturday),"Web Apps, WebComponents",Offline-first apps with WebComponents,"We will explore how to boost the usability of web and mobile-web apps by implementing offline-first functionalities, it's the only way to guarantee 100% always on user experience. Low signal or no connectivity should no longer be a blocker for the user, we will discuss the available solutions for caching, in-browser database, and data replication. We will also take a look at how WC help solving those issues out of the box.
+
+There will be a live coding demo to see how it's simple to manipulate a large data, completely offline.",Everyone above and beyond,Keynote speaker is my middle name.,No,"I have speaking experience in many conferences such as: 
+Devoxx BE and Devoxx UK, many Voxxed conferences, OSCON, JavaOne, DevFest, ...etc.
+Some recorded talks are available here: https://www.youtube.com/amahdyabdelaziz
+",I'm a GDE (so Google can probably cover that),"Turku, Finland, Earth",
+7/22/2017 3:31:18,Amy Poynton,amy.poynton@bigpond.com,Jaen Corp,Managing Director,"I have a long, and mostly traditional, business career in banking, technology (IBM) and consulting. Through all the diversity of these roles, developing high performing teams and building mentoring capabilities have been my strength and what I continue enjoy in my work. ","https://www.linkedin.com/in/poyntonamy/
+https://amypoynton.wordpress.com/
+https://twitter.com/poyntonamy?lang=en
+",Workshop (~2 hours on Sunday),"Soft skills: building mentorship capability for individuals, leaders and teams","Up,Down and Around: How to mentor leaders, team members and groups","Mentoring is often seen as 'top down' where an experience person gives advice to a less experienced person - but mentoring is capable of so much more if we consider multiple perspectives. Building mentoring capability means that a less experienced developer can mentor an experienced executive on the rapidly changing digital landscape, or a group of new coders can come together as a 'mentor group/team' to advise and support each other in their career growth. Possibilities are endless - but it starts with learning the ropes of what mentoring is (and isn't) and how a mentoring culture can build a great team and work place. ",Everyone above and beyond,I am an experienced speaker.,No,"Most recently, I spoke at SSON Week (Sydney Australia) at both a two hour workshop and a keynote presentation. My other speaking engagements are listed in my LinkedIN profile. 
+I  think the topic I have suggested is best suited to a workshop or presentation. ","Yes, only accommodation",Australia ,No
+6/8/2017 14:32:56,Anastasia Lopez,anastasia.lopez89@gmail.com,Movivo,Android Developer,"Anastasia Lopez is a very passionate Software Engineer, working @ Movivo as an Android developer. She like cupcakes, chocolate, and all types of sweets, which is probably what led her to the Android world.",https://twitter.com/AnastasiaLopezD,Talk (~40 mins on Saturday),Soft skill,Authentic Developers,In this talk I want to explore how a society based on shame has impacted us as developers when we are constantly being vulnerable in our work. I want to give every Android developer the confidence and tools to stop the shaming behavior we unconsciously do. ,Everyone above and beyond,"I have some experience, but I would appreciate some help with improving my skills.",No,https://skillsmatter.com/skillscasts/9315-be-together-not-the-same,"Yes, travel and accommodation fees",London,
+8/1/2017 0:06:34,Anastasia Lopez,anastasia.lopez89@gmail.com,Movivo,Android developer ,"Anastasia is a passionate Android developer working at Movivo. She likes chocolate, cupcakes and all types of sweets, which is probably what led her to the Android world",Twitter: @AnastasiaLopezD ,Talk (~40 mins on Saturday),Hiring and interviewing ,Hire hire pants on fire,"As a candidate, interviewing for a new job can be quite stressful and time consuming. It feels like you are being put through an exam. Often, we forget we are also evaluating the company we are interviewing with, especially when we start interviewing for the first time, and it is hard to know what to look for.
+
+On the other hand, interviewing candidates for a position can be stressful too. You want to find the perfect person to join your team, but there are many factors that feel out of our hands (e.g. rain can affect the mood of the candidate and the person interviewing and impact the result). We need to effectively control the factors that we can.
+
+With this talk we want to focus on the whole process of finding the right people to work with, from the job advert to the offer. And we want to do it from both points of view, as the company and as the candidate.
+
+We want to show candidates behind the scenes of the interviewing process, to make it feel less intimidating. We want to teach them how to choose a job and a company that fits with them. We want to give some tips on how to prepare for interviews, and the sort of exercises they might encounter.
+
+We also want to help companies improve their hiring process. There is no solution that works for everyone, but there are patterns everyone can follow to do better. We want to show them how to reach candidates, make sure qualified candidates apply, show them how to deal with the unavoidable biases they will face, help them understand the pros and cons of different types of  exercises, and finally, help them find the perfect new hire for their team.
+
+Hiring and interviewing is not easy, and there is no easy solution to it. But we hope that with this talk we would make it a little bit better for everyone involved.",Everyone above and beyond,"I have some experience, but I would appreciate some help with improving my skills.",Yes,https://skillsmatter.com/skillscasts/9315-be-together-not-the-same,"Yes, travel and accommodation fees",London,"Vivien Barousse 
+Email: barousse.vivien@gmail.com 
+Twitter: @VivienBarousse
+Bio: Vivien is a Ruby Developer, tech lead and manager currently working at Hypesong. Before that he used to work at Songkick. "
+6/15/2017 14:22:11,Anjuan Simmons,anjuan@AnjuanSimmons.com,Questback,Technical Program Manager,"Anjuan operates at the intersection of business and technology by relentlessly focusing on delivering delight to customers while effectively using engineering resources. He’s currently a Technical Program Manager at Questback. When leading projects, he prefers Agile practices but will choose the right approach for the conditions on the ground. Anjuan works primarily in web application development and contributes to open source projects as often as possible.","http://www.AnjuanSimmons.com
+http://www.twitter.com/anjuan
+http://www.linkedin.com/in/anjuan",Talk (~40 mins on Saturday),Soft Skills,Leadership Lessons from the Agile Manifesto,"Whether you’re a Tech Lead, Engineering Manager, or Project Manager for an engineering team, you probably weren’t handed a leadership instruction manual when you were given your first team to lead. Even experienced technical leaders usually operate from a set of instincts and the hard lessons learned from painful mistakes. However, leadership is a skill that you can learn and develop if you know where to look. You don't have to be a “born leader”, but you do need a set of principles to guide the leader within you. This session will teach you how to apply the principles in the Manifesto for Agile Software Development to become a leader equipped with a framework for making decisions.",Intermediates,I am an experienced speaker.,No,"This link on my website has my talks including slides, videos, and testimonials:  http://www.anjuansimmons.com/my-talks","Yes, travel and accommodation fees","Houston, TX USA",
+6/15/2017 14:24:22,Anjuan Simmons,anjuan@AnjuanSimmons.com,Questback,Technical Program Manager,"Anjuan operates at the intersection of business and technology by relentlessly focusing on delivering delight to customers while effectively using engineering resources. He’s currently a Technical Program Manager at Questback. When leading projects, he prefers Agile practices but will choose the right approach for the conditions on the ground. Anjuan works primarily in web application development and contributes to open source projects as often as possible.","http://www.AnjuanSimmons.com
+http://www.twitter.com/anjuan
+http://www.linkedin.com/in/anjuan",Talk (~40 mins on Saturday),Soft Skills,Lending Privilege,"Diversity and inclusion have become hot topics in technology, but you may not know how you can make a difference. This talk will help you understand that, no matter your background, you have privilege and can lend it to marginalized groups in tech. ",Beginners,I am an experienced speaker.,No,"This page lists slides, videos, and testimonials for this talk:  http://www.anjuansimmons.com/my-talks/lendingprivilege","Yes, travel and accommodation fees","Houston, TX USA",
+6/17/2017 19:42:46,Anjuan Simmons,anjuan@AnjuanSimmons.com,Questback,Technical Program Manager,"Anjuan operates at the intersection of business and technology by relentlessly focusing on delivering delight to customers while effectively using engineering resources. He’s currently a Technical Program Manager at Questback. When leading projects, he prefers Agile practices but will choose the right approach for the conditions on the ground. ","Http://www.AnjuanSimmons.com
+Http://www.twitter.com
+Http://www.linkedin.com/in/anjuan",Talk (~40 mins on Saturday),"Agile, soft skills, technical leadership ",Leadership Lessons from the Agile Manifesto,"Whether you’re a Tech Lead, Engineering Manager, or Project Manager for a development team, you probably didn’t get an instruction manual when you were given your first team to lead. Even experienced leaders usually operate from a set of instincts and lessons from difficult experiences. However, leadership is a skill that you can learn if you know where to look. You don't have to be born a leader, but you do need a set of principles to guide the leader within you. This session will show you how to apply the principles in the Agile Manifesto to transform yourself into a better leader.",Intermediates,I am an experienced speaker.,No,"This link lists my talks including slides, videos, and testimonials:
+
+http://www.anjuansimmons.com/my-talks","Yes, travel and accommodation fees","Houston, TX USA",
+7/31/2017 19:53:35,Britt Barak,britt.barak@gmail.com,Android Academy,"Co-Leader, Android Developer, Speaker, Mentor","
+Born and raised in Israel, the “Startup Nation”, Britt has started and lead the mobile teams on various startup companies, currently leading a stealth mode startup. 
+
+Passionate about Android, she is co-leading Android Academy TLV which is one of the largest and most active Android communities out there. 
+She is a public speaker, a mentor at Google Campus TLV, and a blogger about Android development.
+Britt is also Women Techmakers Israel community lead and act to promote diversity in tech.
+
+","www.facebook.com/britt.barak
+https://medium.com/@britt.barak
+@BrittBarak
+https://www.linkedin.com/in/brittbarak",Talk (~40 mins on Saturday),Android,From view to pixel,"We write code, we run it on the device, we can see it and touch it and play around with it.. But how do those line of code actually become something we can see? 
+Isn’t it magic?  - not really :) 
+
+This talk will take a peek under the hood and explain how does the system work, how does it draw the views on screen?
+Ever asked yourselves why is the view class you wrote not showing on the screen? Or why does it take so long until the layout is drawn? Why isn’t your popup displaying at the correct position? Why is your animation junky? 
+
+We’ll answer these questions and understand how to profile and improve your app’s drawing performance- for the smoothest user experience possible.
+",Experts,I am an experienced speaker.,No,"I talk regularly at Android Academy / GDG conferences (200 attendees minimum) and other bigger events such as Droidcon London, DroidCon TLV, devFest Ukraine, mainly about Android development. Gave a talks for all levels- from beginners (at our Fundamentals course) to very advanced developers (for example on performance and architecture topics). 
+
+Links to **few** lectures:  
+
+Fundamentals:
+For example: Loaders & adapters:
+https://docs.google.com/presentation/d/1blYxP_QZXyq577Y6_E8rQHpy4ymNyUjdTD1eJ65yOqg/edit?usp=sharing
+
+Performance:
+For example: Layout performance 
+https://docs.google.com/presentation/d/1hkxAM5vKdBCWlpIHRSwqShRRah3R3rq5_eT3QrOVQPE/edit?usp=sharing
+
+Android UI/UX (part of few sessions and workshop for developers and designers together):
+https://drive.google.com/open?id=1gJc_Guvb0aLQVSlALzjLdJLK36grhc1EeEIhhRiG4lg
+
+Firebase:
+For example: Database & architecture
+https://docs.google.com/presentation/d/1gEwcTVLnh3nGkTw_H4mPb1e-iGRtZylU4AhOshUiId0/edit#slide=id.g2204c17303_0_60
+
+Architecture best practices
+https://docs.google.com/presentation/d/1zUqf91PXOQ3jcqt8PXnD2Fk9-Sz141nYOSmT_8wTqNc/edit?usp=sharing 
+
+
+Also, some of my blog posts can be found here:
+https://medium.com/@britt.barak
+","Yes, travel and accommodation fees",Israel,
+7/31/2017 19:58:17,Britt Barak,britt.barak@gmail.com,Android Academy,"Co-Leader, Android Expert, Speaker, Mentor","Born and raised in Israel, the “Startup Nation”, Britt has started and lead the mobile teams on various startup companies, currently leading a stealth mode startup. 
+
+Passionate about Android, she is co-leading Android Academy TLV which is one of the largest and most active Android communities out there. 
+She is a public speaker, a mentor at Google Campus TLV, and a blogger about Android development.
+Britt is also Women Techmakers Israel community lead and act to promote diversity in tech.
+
+","www.facebook.com/britt.barak
+https://medium.com/@britt.barak
+@BrittBarak
+https://www.linkedin.com/in/brittbarak
+",Talk (~40 mins on Saturday),Android,When your app is asleep,"Amazing UX, delighting UI, wonderful performance.. You already know what to do in order to make users love your app when using it. But as app session lasts around 5 minutes, there’s a large portion of the day where your app is not being used. When your app is sound asleep what can you do to remind your users that your app is the best? 
+This talk will explore how to make your app pop and shine, even when is not on the foreground, and increase retention dramatically! Brand new Android O features, notifications, shortcuts, animated launcher icons.. Your app won’t be sleeping for long ;) 
+",Intermediates,I am an experienced speaker.,No,"
+(this talk is scheduled for devFest Ukraine and droidCon London, other talks, I forgot to mention, are scheduled for Android Summit and other conferences)
+
+
+I talk regularly at Android Academy / GDG conferences (200 attendees minimum) and other bigger events such as Android Summit, Droidcon London, DroidCon TLV, devFest Ukraine, mainly about Android development. Gave a talks for all levels- from beginners (at our Fundamentals course) to very advanced developers (for example on performance and architecture topics). 
+
+Links to **few** lectures:  
+
+Fundamentals:
+For example: Loaders & adapters:
+https://docs.google.com/presentation/d/1blYxP_QZXyq577Y6_E8rQHpy4ymNyUjdTD1eJ65yOqg/edit?usp=sharing
+
+Performance:
+For example: Layout performance 
+https://docs.google.com/presentation/d/1hkxAM5vKdBCWlpIHRSwqShRRah3R3rq5_eT3QrOVQPE/edit?usp=sharing
+
+Android UI/UX (part of few sessions and workshop for developers and designers together):
+https://drive.google.com/open?id=1gJc_Guvb0aLQVSlALzjLdJLK36grhc1EeEIhhRiG4lg
+
+Firebase:
+For example: Database & architecture
+https://docs.google.com/presentation/d/1gEwcTVLnh3nGkTw_H4mPb1e-iGRtZylU4AhOshUiId0/edit#slide=id.g2204c17303_0_60
+
+Architecture best practices
+https://docs.google.com/presentation/d/1zUqf91PXOQ3jcqt8PXnD2Fk9-Sz141nYOSmT_8wTqNc/edit?usp=sharing 
+
+
+Also, some of my blog posts can be found here:
+https://medium.com/@britt.barak
+","Yes, travel and accommodation fees",Israel,
+7/25/2017 17:59:04,Chris Ozog,hello@codesushi.co,Codesushi LLC,CTO,"With over ten years of experience as a backend developer and a passion for Symfony, I can confidently say that I know my way around PHP-based, Object-Oriented Programming. For startup clients and established brands alike, I enjoy developing both web and mobile solutions.
+I always follow best practices like PSR-1 and PSR-2, and have a strong knowledge of Git workflows, continuous integration, and continuous delivery. In my day-to-day, I also enjoy taking on simple frontend features using, TWIG, Twitter Bootstrap 3, LESS/CSS, HTML5 and JS/jQuery.
+When it comes to starting new projects, I differentiate myself by my emphasis on clear communication, something I believe is critical to building long-lasting working relationships.","http://codesushi.co/hello-i-am-chris-ozog-codesushi-cto/ , https://www.linkedin.com/in/krzysztofozog/",Talk (~40 mins on Saturday),"React, PHP",Why should you choose PHP as backend for your next ReactJS app?,"The idea of having the same language on both backend and frontend is very encouraging. But there is a number of reasons why backend of the React application (in my opinion) is better when it’s developed in PHP. 
+
+In this talk I’ll speak about:
+- When it is better to choose PHP over NodeJS
+- What are the best PHP frameworks to work with React
+- What are some overlooked features of PHP that makes it better (in some cases) than JS
+- Reactifying old monsters (some ideas how to work with Wordpress and Drupal in React context)
+",Experts,Keynote speaker is my middle name.,No,"https://www.youtube.com/watch?v=U1LZTuFGzpw&list=PLucnP65gaxocpJUt8RlQYTaBywJk8DP9r , https://www.slideshare.net/KrzysztofOg/presentations","Yes, travel and accommodation fees","Krakow, Poland",
+8/1/2017 2:05:10,Clarissa Peterson,clarissajoy@gmail.com,Clarissa Peterson,UX Designer,"Clarissa Peterson is a UX and digital strategy consultant based in Calgary, Canada. She frequently speaks at tech and design conferences on topics such as responsive design, mobile strategy, and user experience. She also teaches in the web developer fast track program at the Southern Alberta Institute of Technology (SAIT). Clarissa is the author of Learning Responsive Web Design: A Beginner's Guide (O'Reilly Media). ","http://www.clarissapeterson.com
+https://www.linkedin.com/in/clarissapeterson/ 
+https://twitter.com/clarissa ",Talk (~40 mins on Saturday),UX,Designing for Your Users: How to Create a Better User Experience,"As a developer, you usually have detailed designs, wireframes, mockups, and other documents by the time you start working on a website. But even with that start, you often have to make decisions that will affect the usability of the finished site, such as choosing appropriate input types, maximizing performance, and including accessibility features. Learn to think like a user and uncover usability problems that might not be apparent at first glance. Hear some tips make your site more usable and accessible. User experience isn't just for designers to think about: everyone who works on a website has the opportunity to make the user experience better. Even little changes can make a big difference.",Everyone above and beyond,I am an experienced speaker.,No,http://www.clarissapeterson.com/speaking/ ,"Yes, travel and accommodation fees","Calgary, AB, Canada",
+6/25/2017 20:07:31,Crystal Yan,yan.crystal.c@gmail.com,FiscalNote,Product Manager & Design Lead,"Crystal Yan is a product and design leader with international experience in emerging markets, committed to transforming organizations to be more customer centric, and with experience using behavioral design and artificial intelligence to create meaningful user experiences.
+
+Currently, Crystal is a freelance product consultant and experience researcher/designer for clients in the technology, nonprofit, healthcare, education and travel industries. Clients include MyHealthEd's Real Talk, a storytelling-driven health education app for teens, and Rise, an international grassroots movement to pass civil rights legislation for survivors of sexual assault in the US, Canada, and Japan. Crystal also is a Product Manager and Design Lead at FiscalNote, an enterprise SaaS startup transforming how organizations manage their legal risk and lobbying efforts. Crystal holds a degree in Economics from Amherst College and has worked in the US, India, China, and Cambodia.","http://crystalcyan.github.io/
+https://medium.com/@crystalcy
+https://www.linkedin.com/in/crystalcyan
+https://twitter.com/crystalcy",Talk (~40 mins on Saturday),UX,Behind the AI Curtain: Designing for User Trust in Data Science,"When startups first launch, they can make the news with application of cutting edge AI - but convincing users to trust the AI is often another story. There's often also no process for integrating future AI development into product roadmaps. This session covers three key principles for how design and data science teams can work together better to build greater trust among users, and a case study to illustrate those principles in practice.",IT muggles,I am an experienced speaker.,Yes,Previous speaking engagements: http://crystalcyan.github.io/about.html,"Yes, travel and accommodation fees","Washington, DC",
+6/27/2017 1:23:20,Crystal Yan,yan.crystal.c@gmail.com,FiscalNote,Product Manager & Design Lead,"Crystal Yan is a product and design leader with international experience in emerging markets, committed to transforming organizations to be more customer centric, and with experience using behavioral design and artificial intelligence to create meaningful user experiences.
+
+Currently, Crystal is a freelance product consultant and experience researcher/designer for clients in the technology, nonprofit, healthcare, education and travel industries. Clients include MyHealthEd's Real Talk, a storytelling-driven health education app for teens, and Rise, an international grassroots movement to pass civil rights legislation for survivors of sexual assault in the US, Canada, and Japan. Crystal also is a Product Manager and Design Lead at FiscalNote, an enterprise SaaS startup transforming how organizations manage their legal risk and lobbying efforts. Crystal holds a degree in Economics from Amherst College and has worked in the US, India, China, and Cambodia.","http://crystalcyan.github.io
+http://linkedin.com/in/crystalcyan
+https://twitter.com/crystalcy
+https://medium.com/@crystalcy",Talk (~40 mins on Saturday),UX,"Bias, Uncovered","One of the most powerful things we can do as people who great products is to shape the behavior of the people who use our products. To nudge people to make decisions that will make their jobs easier, live healthier, connect with their friends more often. But in order to this well, we must not only help people understand their own biases, but also understand our own.
+
+This interactive, multimedia workshop will challenge you to uncover the cognitive biases we might not realize we encounter every day, and to unpack what understanding them might mean for the behaviors we design for every day. In particular, we'll learn about a few examples of three particular cognitive biases in the real world: in restaurants, movies, and yes, digital products as well. Then, we'll reflect on how these may be relevant to our own user experience research and design processes, and finally, we'll work through a framework to integrate these cognitive biases into our UX design process so that we can design for positive behavioral change.",IT muggles,I am an experienced speaker.,No,"Past speaking experiences: http://crystalcyan.github.io/about.html
+Videos of a talk: https://www.youtube.com/watch?v=IKVUCMFBL7Q&t=2s (part 1), https://www.youtube.com/watch?v=_BWRFIxhdSU&t=7s (part 2), https://www.youtube.com/watch?v=AMLTWaS6nJM&t=1s (part 3)
+Slides: https://speakerdeck.com/crystalcyan","Yes, travel and accommodation fees","Washington, DC",
+6/27/2017 1:49:08,Crystal Yan,yan.crystal.c@gmail.com,FiscalNote,Product Manager & Design Lead,"Crystal Yan is a product and design leader with international experience in emerging markets, committed to transforming organizations to be more customer centric, and with experience using behavioral design and artificial intelligence to create meaningful user experiences.
+
+Currently, Crystal is a freelance product consultant and experience researcher/designer for clients in the technology, nonprofit, healthcare, education and travel industries. Clients include MyHealthEd's Real Talk, a storytelling-driven health education app for teens, and Rise, an international grassroots movement to pass civil rights legislation for survivors of sexual assault in the US, Canada, and Japan. Crystal also is a Product Manager and Design Lead at FiscalNote, an enterprise SaaS startup transforming how organizations manage their legal risk and lobbying efforts. Crystal holds a degree in Economics from Amherst College and has worked in the US, India, China, and Cambodia.","http://crystalcyan.github.io/
+https://twitter.com/crystalcy
+https://www.linkedin.com/in/crystalcyan
+https://medium.com/@crystalcy",Workshop (~2 hours on Sunday),Soft skills,Applying Design Thinking & Product Strategy to Your Portfolio,"Whether you're getting started as an indie developer or looking to make a transition to a new job, your portfolio says a lot about you. In this interactive workshop, a hiring manager will cover:
+1. The key steps of the design thinking process
+2. Three product management and product strategy principles
+3. How to craft a portfolio that will effectively showcase your skills",IT muggles,I am an experienced speaker.,Yes,"Speaking engagements: http://crystalcyan.github.io/about.html
+Slides: https://speakerdeck.com/crystalcyan
+Video: https://www.youtube.com/watch?v=IKVUCMFBL7Q&t (part 1), https://www.youtube.com/watch?v=_BWRFIxhdSU&t (part 2), https://www.youtube.com/watch?v=AMLTWaS6nJM&t (part 3)","Yes, travel and accommodation fees","Washington, DC",
+6/8/2017 22:31:27,Dheeraj,dheerajjoshi1991@gmail.com,Wingify,Software Engineer (Security),"Dheeraj is a Front-end Artisan and the InfoSec guy at Wingify. He is quite adept at writing JavaScript, an open source lover, and web security enthusiast. When he is not writing code, he spends time finding and reporting security vulnerabilities in web applications.","https://djadmin.in
+https://twitter.com/dheerajhere
+https://github.com/djadmin
+https://medium.com/@dheerajhere",Talk (~40 mins on Saturday),Security,Content Security Policy to the Rescue,"Developing Web Application with security in mind is very much important in today's world with the increase in online attacks and frauds. And when we talk about front-end security, Cross-site scripting (XSS) is the first vulnerability that comes to everyone’s mind.
+
+In this talk, I'll speak about mitigating XSS attacks with Content Security Policy. It also covers tales of XSS attacks, what makes them vulnerable and how it could have been prevented using CSP. Followed by a live demonstration of a vulnerable web application.
+
+We will be exploring Why CSP is cool and how to use it effectively in the real world applications.",Intermediates,I am an experienced speaker.,No,"My speaking credentials include:
+
+1) JSChannel 2016, Bangalore, India - https://www.youtube.com/watch?v=XaHkHBtth-U
+
+2) Node.js Conference 2016 - Italy - http://nodejsconf.it/talk/lets-talk-security/
+
+3) London Ajax Meetup, London, UK - https://skillsmatter.com/skillscasts/9166-london-ajax-user-group-november-meetup
+
+4) SeleniumConf London, UK - https://www.youtube.com/watch?v=csE5tp94wfw
+
+Slides - https://speakerdeck.com/djadmin/
+","Yes, travel and accommodation fees",Delhi (India),No
+6/8/2017 22:31:32,Dheeraj Joshi,dheerajjoshi1991@gmail.com,Wingify,Software Engineer (Security),"Dheeraj is a Front-end Artisan and the InfoSec guy at Wingify. He is quite adept at writing JavaScript, an open source lover, and web security enthusiast. When he is not writing code, he spends time finding and reporting security vulnerabilities in web applications.","https://djadmin.in
+https://twitter.com/dheerajhere
+https://github.com/djadmin
+https://medium.com/@dheerajhere",Talk (~40 mins on Saturday),Security,Everything you need to know about Web Security,"Security is important but not everyone cares about it until something bad happens. I'm here to share my knowledge and experience and help people learn to focus more on security.
+In this talk, I’ll speak about HTTP Security Headers, OWASP & Best Practices for securing Web Applications.
+
+This talks covers the top overlooked security threats and helps you in writing secure code. Demonstration of a vulnerable Web Application with a step by step discussion of the security issues, their impacts, and how to identify & defend against them. I’ll also talk about some of the interesting vulnerabilities in popular applications.
+
+At the end of the talk, one should be able to identify common security vulnerabilities, write secure code, and help in making the web more secure.
+
+Key Takeaways:
+
+1) Security Headers
+2) OWASP Top 10
+3) Enforcing HTTPS
+4) Other Best Practices",Intermediates,I am an experienced speaker.,No,"My speaking credentials include:
+
+1) JSChannel 2016, Bangalore, India - https://www.youtube.com/watch?v=XaHkHBtth-U
+
+2) Node.js Conference 2016 - Italy - http://nodejsconf.it/talk/lets-talk-security/
+
+3) London Ajax Meetup, London, UK - https://skillsmatter.com/skillscasts/9166-london-ajax-user-group-november-meetup
+
+4) SeleniumConf London, UK - https://www.youtube.com/watch?v=csE5tp94wfw
+
+Slides - https://speakerdeck.com/djadmin/
+","Yes, travel and accommodation fees",Delhi (India),No
+6/29/2017 0:43:51,Dustin Whittle,dustin.whittle@uber.com,Uber,Developer Advocate,Dustin Whittle is a Developer Advocate at Uber where he spends his days helping developers build moving experiences using the Uber developer platform. Find out more at dustinwhittle.com or follow him @dustinwhittle.,"https://dustinwhittle.com
+https://*.com/dustinwhittle",Talk (~40 mins on Saturday),APIs/Developer Platforms,Building Platforms for Developers,"Join this session for a retrospective on how Uber built and launched the Uber Developer Platform. Find out how Uber designed, implemented, and adapted its API to be successful for third-party developers to integrate with the Uber experience. We will dive into what went amazing, what we would have done differently, and how we moved at Uber speed to let builders build. ",Intermediates,I am an experienced speaker.,No,"https://www.youtube.com/results?search_query=dustin+whittle
+https://speakerdeck.com/dustinwhittle
+http://lanyrd.com/profile/dustinwhittle/","No, I got it","San Francisco, California",No
+6/12/2017 13:31:51,Elio Qoshi,eqoshi@mozilla.com,Mozilla,Designer,"Elio Qoshi is founder of Open Source Design startup Ura which helps open source projects improve their visual design and User Experience. He works as a Designer for Mozilla and volunteers his time as a Mozilla Tech Speaker. Furthermore, he is a Fedora Ambassador, Tor UX Designer and Board Member at Open Labs Albania. He writes for SitePoint about topics he cares about, usually Free Open Source, Design &  Community. Elio is one of the organizers behind Open Source Conference Albania (OSCAL) which started back in 2014. He also contributes to the Free Software Foundation Europe, Wikimedia, Glucosio and GalliumOS. He loves cycling and playing video games in his free time.","elioqoshi.me
+github.com/elioqoshi
+dribbble.com/elioqoshi
+twitter.com/elioqoshi
+facebook.com/elioqoshi
+linkedin.com/in/elioqoshi/",Talk (~40 mins on Saturday),Design & Workflow,Improving collaboration between designers and developers,"It's quite hard for designers to get involved in open source sometimes. Luckily, this has changed in the past few years but there is still a lot to improve upon. Let's see what we can do for designers and developers to be on the same page, starting from basic introductions to GitHub, mailing lists and open workflows. We will have a look at some use cases in Mozilla and Open Source Design for inspiration.",Everyone above and beyond,I am an experienced speaker.,No,"My speaking page on my blog:
+https://elioqoshi.me/speaking/
+
+My trip diary (conferences and their reports I have been to):
+https://elioqoshi.me/speaking/trip-diary/","Mozilla can cover most of my costs, but I'd appreciate if you can cover accommodation, so I can stay where most other speakers are. Let me know what your possibilites are and I might be able to adapt.","Tirana, Albania",-
+7/31/2017 11:07:35,Elissa Shevinsky,Elissabiz@gmail.com,LADYBOSS LLC ,"Serial entrepreneur & author. (I was CEO / CTO, am currently an advisor to several startups.)","Serial entrepreneur & author. Building security startups since 2013 (Founder and CEO of Glimpse, Head of Product at Brave.) Building successful startups since 1999 (Early Employee at Everyday Health - IPO in 2014, Early at Geekcorps, acquired in 1999.) Editor of ""Lean Out."" ","https://en.wikipedia.org/wiki/Elissa_Shevinsky
+https://www.linkedin.com/in/elissashevinsky
+https://twitter.com/ElissaBeth
+",Workshop (~2 hours on Sunday),Information Security ,"Securing Your company's data: encryption, deletion and other best practices.","If your company is storing customer information, then it's a safe bet that some hacker will (eventually) try to steal it. What are the best practices for protecting customer information, as well as our own internal files and intellectual property?  Using well known data breaches as examples, as well as demos of the best available development tools, we'll examine how we can improve security at our own organizations. 
+
+This talk uses demos and real world examples to illustrate the following best practices for information security:
+ 
+- Minimizing Data Collection.
+- Best and worst ways to encrypt customer and internal data. 
+- Deleting data (and avoiding complications.)
+- Identity access management.
+- Hiring and empowering a CSO / Security Team.
+- Pen testing and bug bounty programs.
+",Intermediates,I am an experienced speaker.,No,"I've spoken at numerous security conferences, including DefCon, HOPE, ShmooCon and O'Reilly Solid. Here is a playlist: https://www.youtube.com/playlist?list=PL3P9Ta-enqYguKvjQJd4wbQn3sDwGbuqA","Yes, I need some cost coverage but am looking for ways to help fund the trip or keep the costs minimal.  ",I will be traveling from the USA (JFK) but may only need a one way trip.  ,
+6/2/2017 17:43:16,Faisal Abid,faisal.abid@gmail.com,Zoom.ai,Senior Engineer,"Faisal is a Google Developer Expert, Entrepreneur and Engineer. He is a programming language enthusiast and loves solving software engineering challenges across the stack.
+
+During the days, you can find Faisal developing mobile applications either on iOS/Android, or writing backends in Dart or Node.js",https://www.twitter.com/FaisalAbid,Talk (~40 mins on Saturday),"Dart, Flutter, Android",Flutter for Android Developers,"Learn how to take your Android development skills and apply them to Flutter, a cross platform native mobile development framework from Google.
+
+We will go over how to build a Flutter app, and how to apply the concepts you know such as Activities, Intents, Lifecycle, Layouts, and many more and translate those over to Flutter so you can be a Flutter pro in no time!",Beginners,I am an experienced speaker.,No,"https://www.youtube.com/watch?v=NHsmiY0rFS8
+https://www.youtube.com/watch?v=b0b5FtnB3vE
+https://www.youtube.com/watch?v=S2598bkySRA
+https://speakerdeck.com/faisalabid/introduction-to-google-flutter
+https://speakerdeck.com/faisalabid/angular-2-dot-0-dart
+https://speakerdeck.com/faisalabid/android-chat-app-in-25-minutes
+https://speakerdeck.com/faisalabid/moving-from-node-dot-js-to-dart
+https://speakerdeck.com/faisalabid/dart-and-polymer-oscon-2014
+https://speakerdeck.com/faisalabid/adventures-in-node-dot-js-oscon-2013",I'm a GDE (so Google can probably cover that),"Toronto, Canada",
+7/18/2017 13:58:25,Fernando Mendes,fjrib.mendes@gmail.com,Subvisual,Software Developer,"I'm a software developer from Braga, Portugal, fresh out of university and currently doing IoT and distributed systems. I mostly do a lot of open source and contribute openly to the community: I was the vice-president of a student group related to open source (CeSIUM), I am currently the Champion of the local CoderDojo and I'm creating a local volunteering movement to help non-profits and people in need through tech. I have been a speaker at local meetups and gave several talks in the local university. I also graduated top of my class at University of Minho having received multiple local and national awards for academic performance.","https://github.com/fribmendes
+https://twitter.com/fribmendes
+https://www.linkedin.com/in/fribmendes/",Talk (~40 mins on Saturday),IoT,Distributed Smart Offices and How to Build Them,"I spent the last year working on a distributed smart office framework using Elixir, from the server to the P2P network, running on Beaglebones and Raspberries. Our office collects and shares environmental data and allows you to add your own DIY nodes to do pretty much whatever you want. In this talk, I'll cover how I tackled the project and walk you through the thought process of creating it. I start by defining how the sensors will work, how to connect them (and what do we even want to connect). I'll go through eventual consistency and how I achieved it using mechanisms like vector clocks and CRDTs in gossip-based protocols like HyParView or PlumTrees. We will go through common pitfalls when building a system as complex as this one. The final part will be on adding custom DIY nodes to do cool things like annoyingly tag someone on Slack every time the bell rings.",Intermediates,I am an experienced speaker.,No,"This talk was over a year ago at Pixels Camp, a portuguese tech conference: https://www.youtube.com/watch?v=i05DjYt5ovk",I don't know yet,Portugal,
+6/7/2017 1:17:52,George Mandis,george@mand.is,Snaptortoise,Founder & Lead Developer,"George Mandis is a freelance web developer, consultant, frequent traveler and occasional educator based primarily out of Portland, Oregon. He’s worked with startups, professional sports teams, small businesses and individuals but excels at helping people find elegant solutions for their projects. He spent a year living as a digital nomad, inadvertently cheated at a marathon in North Korea and writes frequently on technology and travel on his website.
+","https://george.mand.is/
+https://twitter.com/georgemandis
+https://github.com/georgemandis/",Talk (~40 mins on Saturday),"JavaScript, creativity,","Tiny Computers, JavaScript and MIDI","We're living the halcyon days of tiny computers and JavaScript, but MIDI is a technology that's been around for much longer. In this talk we'll explore why it's implementation and prevalence in hardware makes for a uniquely intriguing and accessible platform for creative coding.
+",Intermediates,"I have some experience, but I would appreciate some help with improving my skills.",No,"I recently spoke at HolyJS in St. Petersburg. There should be video soon, I hope. You can watch me speak at Ignite Portland 13 here on a totally non-technical topic: https://www.youtube.com/watch?list=PLfwE4lxvXUNnhYfrmwcx1i8LJM0DHWIH9&v=T2QC43jwPyM
+
+I can likely provide references from HolyJS if desired. I also have speaking engagements setup for 5 additional conferences this year.
+
+","Yes, travel and accommodation fees","Portland, Oregon USA",
+7/26/2017 3:46:32,Gerard Sans,gerard.sans@gmail.com,AngularZone,Google Developer Expert,"Gerard is very excited about the future of the Web and JavaScript. Always happy Computer Science Engineer and humble Google Developer Expert. He loves to share his learnings by giving talks, trainings and writing about cool technologies. He loves running AngularZone and GraphQL London, mentoring students and giving back to the community.","https://twitter.com/gerardsans
+http://lanyrd.com/profile/gerardsans
+https://medium.com/@gerard.sans
+https://github.com/gsans",Talk (~40 mins on Saturday),"Web, Frontend Frameworks",What's new in Angular 5?,Awesome! The first Angular 5 beta is out already and the deadline for the final release is planned for September 18th. In this talk we are going to explore some of these new features and how to take advantage of them while going through some demos and easy to follow code snippets.,Intermediates,I am an experienced speaker.,Yes,"https://www.youtube.com/watch?v=VYpJ9pfugM8
+https://www.youtube.com/watch?v=vMD5lFt6P80
+http://lanyrd.com/profile/gerardsans
+https://slides.com/gerardsans",I'm a GDE (so Google can probably cover that),London,No
+6/21/2017 10:05:01,Gonçalo Morais,gnclmorais@gmail.com,BridgeU,Front-end Developer,"I’m a Portuguese computer engineer turned front-end developer, currently living in London. I’m also a Recurse Center alumnus, a digital nomad wannabe, and sometimes I dream about being a designer. ","https://github.com/gnclmorais
+https://twitter.com/gnclmorais",Talk (~40 mins on Saturday),Agile,From nothing to Agile,"This talk will guide users through the process my company went through when I joined, where we went from no product development process to an efficient Agile-like flow. I’ll talk about the highlights, the shortcomings, and why you should BE agile, not DO Agile.",Everyone above and beyond,"I have some experience, but I would appreciate some help with improving my skills.",No,https://www.youtube.com/watch?v=Qyh_QcgotUY&hd=1,"Yes, only travel",London,
+6/7/2017 19:11:13,Hillary Prather,hillary.a.prather@gmail.com,"TUNE, Inc.",Server-side Software Engineer,"I am a server-side software engineer, currently writing and updating TUNE’s advertising analytics tracking platform. I'm passionate about architecting clean and simple software systems, while tenaciously trying to bring more empathy to the tech world. A fervent education advocate, I partner with tech education and diversity initiatives like TUNE Cares, Washington State Opportunities Scholarship, and IGNITE Worldwide. 
+I am a world traveller, an avid (though amateur) cook and baker, and a weird workout enthusiast.","https://www.linkedin.com/in/hillary-prather/
+https://github.com/hillaryp
+https://www.papercall.io/speakers/hillaryp
+https://www.instagram.com/hillaryprather/",Talk (~40 mins on Saturday),Software Development best practices,Legacy Code: Tips for Newbies and Beyond,"Do you cower at the phrase “spaghetti code”? Do you avoid making changes to old, rusty technical systems in fear of them breaking in unexpected ways? Do you find yourself uttering or hearing the words, “just don’t touch it, it’s been working so far…”?
+
+Technical systems should be adaptable to fit new needs and requirements, but some legacy code systems go untouched for too long, and end up as scary black boxes. During this session, I will talk about what legacy code is, and why it’s important that we as developers take time to truly understand existing systems instead of avoiding them. I will go over strategies that anyone can use to gain valuable insight into even the hairiest legacy code or open source project. We will discuss a variety of tools and helpful visualizations to organize and simplify complex systems. Throughout the session, we will keep in mind how struggling to understand and debug legacy code can make us better, more empathetic developers.",Beginners,I am an experienced speaker.,No,"I have not yet spoken at a technical conference, and I welcome the opportunity! 
+I have, however, been a spokesperson for several TUNE-led initiatives focussed on supporting our local community and women in technology (For example: https://www.youtube.com/watch?v=Q04IDEaXsmM&feature=youtu.be at 0:27, 0:46, and 2:15).","Yes, travel and accommodation fees","Seattle, Washington",
+6/7/2017 19:14:07,Hillary Prather,hillary.a.prather@gmail.com,"TUNE, Inc.",Server-side Software Engineer,"I am a server-side software engineer, currently writing and updating TUNE’s advertising analytics tracking platform. I'm passionate about architecting clean and simple software systems, while tenaciously trying to bring more empathy to the tech world. A fervent education advocate, I partner with tech education and diversity initiatives like TUNE Cares, Washington State Opportunities Scholarship, and IGNITE Worldwide. 
+I am a world traveller, an avid (though amateur) cook and baker, and a weird workout enthusiast.","https://www.linkedin.com/in/hillary-prather/
+https://github.com/hillaryp
+https://www.instagram.com/hillaryprather/",Talk (~40 mins on Saturday),Soft skills,How is Pole Dancing like Learning to Program?,"When learning to become an excellent software developer, we can often find our heads spinning. We can feel like we’re left hanging, without much support. Getting a good grip can feel challenging, and sometimes we just won’t have the flexibility we need and will have to improvise.
+
+Join me as I use pole dancing as a lens in which to view my journey into the world of software development, and the things I’ve learned. During this interactive talk, we’ll work on developing some essential mindsets, strategies, and soft skills that will help you stand (or invert) on your own as an exceptional engineer.",Beginners,I am an experienced speaker.,No,"I have not yet spoken at a technical conference, and I welcome the opportunity! I have, however, been a spokesperson for several TUNE-led initiatives focussed on supporting our local community and women in technology (For example: https://www.youtube.com/watch?v=Q04IDEaXsmM&feature=youtu.be at 0:27, 0:46, and 2:15).","Yes, travel and accommodation fees","Seattle, Washington",
+5/29/2017 8:56:49,Honza Slavík,honza@ovax.cz,Ovax Group,Business Designer & Jedi Knight,"I love running, triathlons, history, movie, music. Absolutely insane. Everyone loves me, except the people who not. ","https://www.facebook.com/honza.slavik.ovax
+https://twitter.com/honza_slavik
+https://www.linkedin.com/in/honzaslavik/
+http://honzaslavik.com",Talk (~40 mins on Saturday),Business design,Business design. Another buzzword or no?,"Byznys design. Co to je a čemu je to dobré nejen pro geeky, ale i další mudly. ",Everyone above and beyond,Keynote speaker is my middle name.,No,https://slideslive.com/38899207/projektovi-zombici One of top views from last DF. ;) ,Only free alcohol. :D,Košíře. :D,
+7/31/2017 15:06:17,Hugo Visser,hugo@littlerobots.nl,Little Robots,Main Robot,"I'm a long time software developer and Android developer since 2009, Google Developer Expert for Android, organiser of GDG The Dutch Android User group and international speaker. Creator of various open source tools like Cupboard, android-apt and rxlint.","twitter.com/botteaap
+www.littlerobots.nl",Talk (~40 mins on Saturday),Android,Room: the blessed Object Mapper,"At I/O this year, the Room persistence library was introduced as part of the Architecture Components effort. In this talk we'll look at what Room has to offer, why and when you should use it and how it compares to existing solutions. We'll also take a look at how Room works under the covers and how it integrates with other Architecture components and RxJava.",Beginners,I am an experienced speaker.,No,"https://www.youtube.com/watch?v=RJDafgem2MM
+https://news.realm.io/news/mobilization-hugo-visser-rxjava-for-rest-of-us/
+Conferences this year: Droidcon Bangkok, Droidcon Turin, Appdevcon, Chicago Roboto",I'm a GDE (so Google can probably cover that),"Amsterdam, NL",
+5/29/2017 10:45:17,Ing. Jan Kaláb,kalab@master.cz,MasterAPP,Senior Android Developer,Android developer and teacher since cupcake; gamer; geocacher; father,https://twitter.com/Pitlik,Talk (~40 mins on Saturday),Android,Developing music app for Android Auto,Jak udělat hudební appku pro Android Auto? Jak to celé funguje? Na co si dát pozor? To vše si předvedeme na praktickém příkladu z aplikace Relaxuj potmě.,Experts,I am an experienced speaker.,No,"Regular OpenAlt speaker: https://www.youtube.com/watch?v=tASd_nYg1d0 https://www.youtube.com/watch?v=qOaIMXWvVuU https://www.youtube.com/watch?v=MYScqlmDOyA https://www.youtube.com/watch?v=kjugAZS3MEY https://www.youtube.com/watch?v=uWiXDumtQuQ https://www.youtube.com/watch?v=BLcAKGk3Y2g
+And I also teach Android",I don't know yet,Brno,
+6/20/2017 20:51:05,Ipsha Bhidonia,ipsha21@gmail.com,Mozilla Tech Speaker,Tech Speaker,"Ipsha is a software engineer at Gemalto by profession, a Mozilla tech speaker by heart, and an advocate for a free and open web by passion. She likes traveling to new places and meeting people with different perspectives of the world. Fascinated by psychology and astronomy, she looks up to people who dare to think beyond the realms of what seems possible.","https://ipsha218.wordpress.com/
+https://twitter.com/ipsha21",Talk (~40 mins on Saturday),API,Service workers and their role in PWAs,"Service Workers, without a doubt, have been the new cool in the Javascript community in recent years. In this session we dive into what’s in store beyond providing the offline experience, push and background sync features. This talk examines how Service Workers fill the gap between web and native, and how they give better performance and user experiences.
+",Intermediates,I am an experienced speaker.,Yes,First talk experience at PyCon France: https://ipsha218.wordpress.com/2016/10/23/my-experience-at-pyconfr-2016/,"Yes, travel and accommodation fees","New Delhi, India",
+6/20/2017 20:55:08,Ipsha Bhidonia,ipsha21@gmail.com,Gemalto/Mozilla Tech Speaker,Software Engineer/Tech Speaker,"Ipsha is a software engineer at Gemalto by profession, a Mozilla tech speaker by heart, and an advocate for a free and open web by passion. She likes traveling to new places and meeting people with different perspectives of the world. Fascinated by psychology and astronomy, she looks up to people who dare to think beyond the realms of what seems possible.","https://ipsha218.wordpress.com/
+https://twitter.com/ipsha21",Talk (~40 mins on Saturday),API,WebRTC – webifying communications,"WebRTC is an emerging technology for communicating over modern browsers that enables a new generation of capabilities. We have historically been dependent on the telecom vendors, but now everyone has the ability to put communication in their apps without going to a communication company. This session involves everything you need to know about webRTC, and how it is changing the fundamental model of communication. ",Intermediates,I am an experienced speaker.,Yes,First talk experience: https://ipsha218.wordpress.com/2016/10/23/my-experience-at-pyconfr-2016/,"Yes, travel and accommodation fees","New Delhi, India",
+6/18/2017 14:47:29,Jakob Holderbaum,jakob@holderbaum.io,ThoughtWorks Germany,Senior Consultant,"I mainly work as a Consultant and Developer at ThoughtWorks to help companies on their way to a more agile and user focused way of developing software and/or hardware. I enjoy being a mentor to others and love to learn through intensive collaboration.
+ 
+Things you hear me saying or doing very often:
+ 
+* Test Automation
+* Pair Programming
+* Test Early Approaches like TDD","https://jakob.io/
+https://twitter.com/hldrbm
+https://github.com/holderbaum
+",Talk (~40 mins on Saturday),security / cloud,Managing Team Secrets Effectively,"Every Team has secrets like e.g. database passwords or 3rd Party API credentials.
+Our pipelines, VMs, and containers are already hardened and secured. But what about the developers? How to store and handle those secrets in a secure and automation friendly fashion?
+
+Any secret that’s ever written to disk or on paper is another attack vector. Not just on production servers or continuous integration, but also in the developer workflow. If your unencrypted laptop gets stolen or your private source code repository appears to be not so private after all, you’d hope your project’s secrets wouldn’t be compromised.
+
+In this hands-on talk I will show the way we approached this challenge in real world projects using a few simple and automation friendly commandline tools.",Intermediates,I am an experienced speaker.,No,"I have no video references that reflect my current level of speaking expertise, last month I gave a talk at I T.A.K.E. unconference in Bukarest. I speak frequently at local meetups and similar gatherings in Germany.","Yes, travel and accommodation fees","Most probably from Cologne, Germany",
+6/18/2017 15:44:35,Jakob Holderbaum,jakob@holderbaum.io,ThoughtWorks Germany,Senior Consultant,Jakob works as a Consultant at ThoughtWorks to help companies on their way to more agility and technological excellence. He focuses on embedded software and has a prime interest in anything related to security.,https://jakob.io/,Workshop (~2 hours on Sunday),security / cloud / IoT,Building your own PKI Infrastructure and staying sane,"Securing the communication between your Smart Devices and the Backend Infrastructure can be a tough endeavor, nevertheless, it is of prime importance.
+
+Mutual TLS is a good candidate for securing such communication. It provides proven encryption and individual devices can be identified and thus authenticated based on their certificates.
+
+But handling a Private Key Infrastructure is not exactly known as a pleasant and simple task. Intimidating CLI tools like OpenSSL and a metric ton of documentation around all that can be more than overwhelming, even to the point of deciding: let's go for no security at all, that's simpler for sure.
+
+This workshop will remove the cloak of complexity around Mutual TLS and present an understandable approach to building and maintaining your own PKI (in the cloud or on-premise) using Vault and some applied Ruby skills.
+
+We will tackle common tasks like issuing and signing client/server certificates or handling and distributing those among clients and servers. Beside that we will shed some light upon common pitfalls around TLS and how to avoid them.",Intermediates,I am an experienced speaker.,No,I have no video references that reflect my current level of experience. I am a regular speaker at conferences and meetups in Germany. Last month I spoke at the I TAKE Unconference in Bukarest.,"Yes, travel and accommodation fees","Cologne, Germany",
+7/19/2017 9:18:52,Jakub Scholz,www@scholzj.com,Deutsche Börse Group,Architect,"I work as an architect with ""hands-on approach"". With my colleagues we work on development of new cloud native application within the Risk IT area of Deutsche Börse Group. I have also experience with building enterprise messaging infrastructure and APIs using AMQP protocol. I'm open source fan and contributor and member of Apache Qpid PMC.","https://twitter.com/scholzj
+https://github.com/scholzj
+http://blog.effectivemessaging.com/",Talk (~40 mins on Saturday),"Cloud, Kubernetes, Amazon AWS",Using open source Kubernetes in enterprise environment,With every new release Kubernetes becomes better and more usable. Not only during runtime but also the tooling for setting up new clusters is getting better and better. But what happens when you try to use open source Kubernetes in enterprise environment? What might be the problems and obstacles? This talk summarises our experience with setting up and using Kubernetes on top of Amazon AWS in Deutsche Börse - one of the largest financial exchange organisations worldwide. It will cover some of the main requirements and how we fulfilled them.,Intermediates,I am an experienced speaker.,No,"DevConf.cz: https://www.youtube.com/watch?v=xNRt_71_4Dc&t=1028s&list=PLvGruFjS4ecX0PmpvMMxxRz_nxifpMGfs&index=1
+Deutsche Börse Product and Technology conference 2017: https://youtu.be/orDClkc1j_g","No, I got it","Prague, Czech Republic","Michal Zerola, Senior Developer, Deutsche Börse Group"
+7/31/2017 15:43:00,Jan Čislinský,jan.cislinsky@etnetera.cz,Etnetera,Lead iOS Developer,"Velmi rád programuji aplikace ve Swiftu. Baví mě pracovat na projektech, které dávají smysl a přinášejí hodnotu jak klientům, tak uživatelům.","https://www.linkedin.com/in/jcislinsky/
+http://apple.co/2jsfavB",Talk (~40 mins on Saturday),"iOS, Swift",Použití MVVM a FlowCoordinátorů v mobilní aplikaci Fortuna,"Povídání o tom, jak jsme přepisovali celou mobilní aplikaci Fortuna z MVC na MVVM s FlowCoordinátory. Co jsme se naučili a k čemu jsme postupně dospěli, co nám to přineslo a proč jsme se pro to rozhodli.",Intermediates,"I have some experience, but I would appreciate some help with improving my skills.",No,První prezentace tohoto typu.,"No, I got it",Opravdu musí být tahle otázka povinná?,
+7/31/2017 15:45:18,Jan Čislinský,jan.cislinsky@etnetera.cz,Etnetera,Lead iOS Developer,—||—,—||—,Talk (~40 mins on Saturday),"iOS, Swift",Jak jsme zvládli stovky změn za sekundu v živé nabídce mobilní aplikace Fortuna,"Ukázka řešení, díky kterému je Live nabídka mobilní aplikace Fortuna plynulá i v době, kdy přicházejí stovky změn za sekundu. Představení evoluce řešení a zhodnocení benefitů a nákladů aktuálního řešení.",Intermediates,"I have some experience, but I would appreciate some help with improving my skills.",No,—||—,"No, I got it",—||—,
+7/31/2017 15:51:52,Jan Čislinský,jan.cislinsky@etnetera.cz,Etnetera,Lead iOS Developer,—||—,—||—,Talk (~40 mins on Saturday),"iOS, Swift",Jak jsme implementovali sportovní statistiky v mobilní aplikaci Fortuna,"Představení řešení layoutu sportovních statistik v mobilní aplikaci Fortuna, které zvládne vykreslit desítky různých kombinací řádků a sloupců. Jak jsme řešení navrhli, aby zvládlo desítky různých sportů a při tom jsme se nezbláznili.",Intermediates,"I have some experience, but I would appreciate some help with improving my skills.",No,—||—,"No, I got it",—||—,
+7/27/2017 16:14:32,Jaroslav Machaň,jmachan@csas.cz,"Česká spořitelna, a.s.",API Godfather,"From an API technical writer, through an API evangelist to the API Godfather. I am a part of a team that knows no borders. The team has decoded my DNA and added our API to it.  Apart from being a proud member of this wonderful team, I am also its speaker on the international stage and its link to the worldwide API community.","@csas_devs, https://www.linkedin.com/in/machanjr/, ",Talk (~40 mins on Saturday),"Open API, encryption",Morfina - The World Unique Homomorphic Encrypted Open API,"Have you ever wondered how to provide sensitive customer data to third parties and still maintain privacy and client’s secret? How to enable partners to mine for wealth and knowledge in client’s data, that we can use to provide better customer experience later? And how to protect client’s data and yet go hand in hand with the trend of Open APIs and Open banking? The solution is simple: Homomorphic encryption. So you know, it is not so easy, but later on :)",Everyone above and beyond,I am an experienced speaker.,No,"https://www.youtube.com/watch?v=LiD0uyzGOK8 - API anthem
+
+https://www.youtube.com/watch?v=KXlCpaZMS7w - APIdays London 2016
+
+https://www.youtube.com/watch?v=ts_DLz9nSt4 - APIStrat Boston 2016
+
+https://www.linkedin.com/pulse/idc-security-summit-prague-2016-jan-sechovec - IDC security summit Prague
+
+","No, I got it","Prague, Antala Staška 32","jsechovec@csas.cz
+
+https://www.linkedin.com/in/jansechovec/
+Trendkeeper, influencer, instant miracles delivery boy.. I write the code to solve interesting problems. My official role:
+Director of Advanced Technologies and Prototypes department @ Ceska sporitelna."
+7/12/2017 4:19:43,Jeanne Trojan,jeanne.trojan@gmail.com,Freelance,Executive Communication Coach,I'm passionate about helping people communicate. One of the areas I've focused on since 2009 is helping IT professionals share their ideas and projects and even communicate with each other in networking situations.,"jeannetrojan.com
+linkedin.com/in/jeannetrojan
+@jmtcz
+@JeanneTrojan",Workshop (~2 hours on Sunday),Soft skills,Networking for Geeks,"One of the hardest things to do in any social situation is to get the courage to introduce yourself and talk to people you don't know. This workshop will help you lose the fear and will give you some practical strategies for networking.
+
+*this workshop would actually be ideal BEFORE DevFest starts as the participants would be able to use what they learned during the conference. There is no limit to how many people can attend (at WebExpo 2013, I had about 50 participants go through the workshop before the Warmup Party). It lasts about an hour and is very active.",Everyone above and beyond,Keynote speaker is my middle name.,No,"TEDx talk - Rejecting Normal, DevFest 2013 FailCon talk, PyCon 2017 Lightning Talk, many others - you can Google my name :)","No, I got it",I'm in Prague,No
+7/25/2017 10:32:06,Jirka Pénzeš,jirkapenzes@gmail.com,TopMonks,Software engineer and decision maker,"Coffeeholic.  Když zrovna neposedává po kavárnách tak vytváří kód či buduje inkubátor ve firmě TopMonk. Jirka je také doktorandem v Pardubicích, kde hledá cestu, jak propojit simulaci a umělou inteligenci. Současně s kamarádem tvoří podcast DevMinutes.cz a mimo jiné organizuje CodingDojo a CodeRetreat, kde se snaží propagovat čistý kód a dobré praktiky psaní kódu. Aktuálně se zaměřuje na AI a hledání vnitřního klidu.",https://twitter.com/jirkapenzes,Talk (~40 mins on Saturday),"Soft skills, clean code",TBD,"Ahoj DevFest týme :) Rád bych nabídl přednášku na DevFest. Aktuálně v tom ještě nemám jasno, co bych chtěl povídat, ale nerad bych propásl příležitost povídat na DevFestu. 
+Mohu nabídnout přednášku na čístý kód a obecně lepší dev flow (git, codereviews, best practices, softskills ...). Celé by to bylo v pojetí, jak se stát lepším programátorem - jenom dev skill nestačí. 
+Případně přednášku na funkcionální programování (clojure).",Everyone above and beyond,Keynote speaker is my middle name.,No,"https://www.youtube.com/watch?v=PhEWBl4MZA8, https://www.youtube.com/watch?v=kLguVMp_UG4","No, I got it",Prague,
+6/7/2017 11:30:43,John Cleary,john@createk.io,Createk,Director & Co-Founder,"John has been building the web and web apps since the very beginning. He is passionate about continuous improvement; improving the skills and techniques he and his team use to build the best, most reliable software they possibly can.","Twitter: @TheRealBifter
+GitHub: https://github.com/jcleary
+LinkedIn: https://www.linkedin.com/in/john-cleary-00a86016/",Talk (~40 mins on Saturday),soft skills,https://www.linkedin.com/in/john-cleary-00a86016/,"You’re a good developer! You work hard. You read blogs and follow twitter to keep informed. And you care about the product you build and the customer you build it for. But something is missing, something is not quite right, but you can’t put your finger on it, can you?
+ 
+Do you feel that occasionally you’re prioritising the wrong stuff? Or that you are focusing too much on small details instead of a bigger picture? Perhaps, just maybe, you’re not being as effective as you know you could be.
+ 
+During this session we’ll be talking about refactoring - but not code refactoring, human refactoring - small incremental changes that will make you just that little bit better, more effective, smarter.
+ 
+We’ll look at what drives us - our values - and use them as a guide to build a framework for lasting change. We’ll discuss the areas that will have the biggest impact on our day-to-day work as well as our long term goals.",Everyone above and beyond,I am an experienced speaker.,No,"https://www.youtube.com/watch?v=r4sjlym_MPs
+https://www.youtube.com/watch?v=A-R2poRFiNc
+","Yes, travel and accommodation fees","Manchester, UK",
+6/7/2017 13:14:12,John Cleary,john@reatek.io,Createk,Director & Co-Founder,"John has been building the web and web apps since the very beginning. He is passionate about continuous improvement; improving the skills and techniques he and his team use to build the best, most reliable software they possibly can.","Twitter: @TheRealBifter
+https://github.com/jcleary
+https://www.linkedin.com/in/john-cleary-00a86016/",Talk (~40 mins on Saturday),testing,Software Defect Engineering - A Parody,"Software Defect Engineering is one of the most important roles in the Software industry; providing the bread-and-butter for the QA team, and laying the groundwork for extended software maintenance contracts which will keep Software Engineers and their kin in employment many years to come.
+
+However, our industry is under threat! Practices are such as Test Driven Development and Continuous Integration threaten to drive out bugs, and in some cases are even tightening the screws on the QA Team. 
+
+During this lecture you will be introduced to the core concepts behind Software Defect Engineering, such as code-review skimming, shallow testing, retro-skipping and ticket-pushing.",Intermediates,I am an experienced speaker.,No,"https://www.youtube.com/watch?v=r4sjlym_MPs
+https://www.youtube.com/watch?v=A-R2poRFiNc","Would prefer travel and accommodation, but as there are two of us, would be happy to talk about splitting costs, sharing room etc","Manchester, UK","Hassan Khalid
+
+Hassan wrote his first piece code at the age of 12 and then took a break for number of years, and now a co-founder of Createk. Has been pretending to write software for over 10 years, with a keen focus to automate everything and blaming others."
+6/7/2017 14:09:15,John Cleary,john@createk.io,Createk,Director & Co-founder,"John has been building the web and web apps since the very beginning. He is passionate about continuous improvement; improving the skills and techniques he and his team use to build the best, most reliable software they possibly can.","Twitter: @TheRealBifter
+https://github.com/jcleary
+https://www.linkedin.com/in/john-cleary-00a86016/
+",Talk (~40 mins on Saturday),soft skills,For The Love of Code,"When I started coding all those years ago I had no idea there would be hoards of other developers waiting to share ideas and pass on the knowledge - all for the love of code. Which is the real reason we’re all here. We all love code. 
+ 
+The talk will revolve around the idea that all software-based communities have so much in common. That we all have a common purpose - to share and promote the thing we love. But we can promote our community without detracting from others. 
+ 
+Using the philosophy of “Think Win-Win” from “The 7 Habits of Highly Effective People”, I will discuss how shift in attitude can means we can all promote our beloved language and promote others too, and still “win”.",Beginners,I am an experienced speaker.,No,"https://www.youtube.com/watch?v=r4sjlym_MPs
+https://www.youtube.com/watch?v=A-R2poRFiNc
+","Yes, travel and accommodation fees","Manchester, UK",
+6/17/2017 14:50:27,Jona Azizaj,jona@azizaj.com,Open Labs Hackerspace,Community Manager,"I am currently pursuing a bachelor degree in Business Informatics, at the University of Tirana. Meanwhile I'm a board member of Open Labs Hackerspace, which promotes free libre open source culture in Albania since 2012, like GNU/Linux, LibreOffice, Mozilla, Wikipedia, OpenStreetMap etc. Furthermore, I am co-organiser of Open Source Conference Albania (OSCAL) and also part of the Fedora Project, being the first Fedora Ambassador in Albania. I'm a TDF member, Nextcloud, Wikipedia contributor and Rails Girls Summer of Code intern.
+
+I’m passionate about philosophy of Open Source, I believe in transparency and cooperation, open and free Internet. I have been working on promoting FLOSS in Albania. Also I’ve been working on different Localization Project to bring everything around Open Source closer to our community.
+
+I’m interested on empowering woman in society because women participation in open technology and culture is very important so we should all pay more attention.
+
+Related to programming languages, I already know C++, Java, HTML, JS and a bit of Python and I’m learning other languages.",https://jona.azizaj.com,Talk (~40 mins on Saturday),#CommunityBuilding #Diversity #WomenInTechnology,Women in Technology,"In 2012 not a lot of people were interested in Open Source in the relatively small city of Tirana, the capital of Albania. Even fewer girls were interested. During our talk we (Kristi and me) will share the story of how we, a small but dedicated group of people, jump started the community in a small country like Albania and what other small cities and countries should avoid during their first steps in developing a community in similar conditions. Most important we will share tips and tricks on how to keep the Open Source spirit alive for a long time after the first enthusiastic steps, with the goal that our shared experience will help other communities to make the first steps or grow even further. Also nowadays we are witnessing that the number of women involved in technical fields, especially development, is really low and we are going to present what as the influence on low participation of women and the steps we should take to fix it.",IT muggles,I am an experienced speaker.,No,https://speakerinnen.org/en/profiles/jona-azizaj,"Yes, travel and accommodation fees","Tirana, Albania","Kristi Progri is the Chairwoman of Open Labs Hackerspace, a community in Tirana, Albania dedicated to everything Free & Open Source. She is currently a Mozilla Tech Speaker and Intern as part of the Outreachy program which aims to offer opportunities to underrepresented groups in Open Source communities. As part of the organizer team, Kristi has helped shape the OSCAL conference throughout the past years and continues to do so. She has finished her studies in International Affairs & Diplomacy and advocates for the importance of decentralized technology in today’s age. Furthermore, she is also an author on SitePoint."
+6/8/2017 23:30:58,Juan Delgado,jd@juandelgado.es,ustwo,QA,"I work at ustwo London as a software developer, currently focused on QA and testing duties.
+ 
+I help kick off projects, a second pair of eyes, someone with the time to bounce ideas off. I help looking at the rule book and apply it to real life projects, but also updating it so we keep improving how we work. I write automation code and I also investigate, poke and click around to provide developers with feedback about their work.
+ 
+I help keeping ustwo a place where clients come to define, build and take products to market.","https://twitter.com/wadus
+http://juandelgado.es",Talk (~40 mins on Saturday),Software Development,Product vs Craft,"Product vs Craft is a talk about how shifting the focus from craft to product has affected ustwo. Our delivery teams are required everyday to make trade offs between what would the best technical solution and the one that is right for the product they are delivering.
+ 
+Ultimately, we get paid to solve business and user problems, not to be perfectionists.
+ 
+Should the product vision affect your development practices? Could you be delivering perfectly valid, beautiful code that solves the wrong problem? When talking about code, how do you define ""quality"", what makes it good or bad?
+ 
+At ustwo we work with all sorts clients, from startups to multinationals, giving us an amazing opportunity to see these issues from a variety of different angles. We like to share our experience but also hear everyone else's!",Everyone above and beyond,I am an experienced speaker.,No,"You can read a bit more about the topic and there's also a link to the recording of this talk that I did last year at NCrafts Paris:
+
+https://ustwo.com/blog/product-vs-craft","Yes, travel and accommodation fees",Madrid / Spain,
+5/29/2017 5:44:22,Juarez Filho,juarezpaf@gmail.com,Caravana Web,Firebase Google Developer Expert,"Passionate about traveling and also to share his adventures with Web Technologies and Firebase. As a Google Developer Expert he’s helping communities all over the world to learn, discover and have fun.","@juarezpaf, linkedin.com/in/juarezpaf, github.com/juarezpaf",Talk (~40 mins on Saturday),Firebase,Let Firebase help you to build better Front-end apps,"What is the first thing that comes to your mind when you are starting to develop your product? You need to think about all sort of features. How you are going to grow your app. Engage your audience and make money in the process, right? 
+What if you could choose a platform to build your app with confidence, without the need of managing infrastructure, trusted by companies like The New York Times, The Economist, Shazam and much more. Firebase gives you the tools and infrastructure you need to build better apps and grow businesses. Join this talk and learn how to overcome the challenges of build extraordinary front-end apps using Firebase.",Everyone above and beyond,I am an experienced speaker.,,"I have passion to share my adventures with technologies and help developers to achieve their dreams launching products.
+Firebase Adventures - Real time platform for your apps https://www.youtube.com/watch?v=uz4vA21lqoE
+Progressive Web Apps with Firebase https://goo.gl/On6jxy
+How to create a Startup with Angular 2 and Firebase https://goo.gl/bMXhfc
+Deep engagement: Web Push Notifications https://goo.gl/rMZdtJ
+Firebase Adventures #firebasedevsummit https://goo.gl/ZQkctL
+Having Fun with Progressive Web Apps https://goo.gl/H9AxSd",I'm a GDE (so Google can probably cover that),"Dublin, Ireland ",
+7/7/2017 7:31:52,Kasper Lund,kasperl@google.com,Google,Engineering lead for Dart,"I am a software engineer at Google working on the design and implementation of programming languages. I have been designing and implementing virtual machines and runtime systems for too long and efficient interpretation, dynamic compilation, and adaptive optimizations are my kind of things.",https://plus.google.com/+KasperLund,Talk (~40 mins on Saturday),Dart,Flutter: The best way to build for mobile?,"Want a more productive way to build for mobile? Flutter is an SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single code-base. Flutter delivers a great developer experience in part because it is based on Dart, which allows you to build your cross-platform mobile apps in an approachable and analyzable language with sub-second edit-and-continue support baked in. Come see what makes Flutter special and learn how you can become a more productive mobile developer. ",Intermediates,I am an experienced speaker.,No,"https://www.youtube.com/watch?v=FqsU3TbUw_s
+https://www.youtube.com/watch?v=GwBb_nqQLuc
+https://www.youtube.com/watch?v=PYUoqcTrskU
+https://www.youtube.com/watch?v=t4IUhsuhnXw","No, I got it",Denmark,
+6/27/2017 21:00:48,Katrin Freihofner,katrin.freihofner@gmail.com,Dynatrace,Web developer & UX expert,"I'm both, a frontend developer and a UX designer at Dynatrace in Austria. Besides my work for our Saas products, I’m working on a variety of very successful web projects: dynatrace.com, dynatrace perform (https://www.dynatrace.com/perform/), our jobs page (http://jobs.dynatrace.at/)...And I’m passionate about spending my dev time to support the groundhog (http://groundhog.dynalabs.io/), a CSS component library for our web entities. My latest project is #devone (https://devone.at/), our own developer and ops conference, which recently happened.
+
+Besides that, I love meeting new people, being outdoors (mountainbiking, hiking) and baking Apfelstrudel for my lovely team colleagues.
+","freihofner.at, https://twitter.com/Ka_TriN_F",Talk (~40 mins on Saturday),Soft skills,if (developer && designer),Developers and Designers approach projects from two very different angles. As both - a web frontend developer and a designer - I want to share my experiences about daily challenges and how you can master them.,Everyone above and beyond,"I have some experience, but I would appreciate some help with improving my skills.",No,"http://freihofner.at/2017-angular-meetup.pdf
+from: https://www.meetup.com/Angular-Vienna/events/239381695/
+
+I got very good feedback on this talk. Attendees were very interested to discuss this topic as it affects us in our work on a daily basis.","Yes, travel and accommodation fees","Linz, Austria",
+7/27/2017 8:55:19,Lenka Kurová,kurova@master.cz,"MasterAPP (Master Internet, s.r.o.)",HR Business Partner,"Hello, my name is Lenka and I am taking care of HR marketing and IT events in Master Internet, s.r.o. We develop mobile application on all platforms (iOS, Android, Windows) and we also use various devices and additional HW. We also operate data centers in Prague and Brno and have 19 years of experience in this field. We have our own cloud platforms and use the latest technologies.
+
+We definitely have employees willing to become speakers in this event, e.g.: 
+Michal König (SW development manager) - IoT, mobile apps
+Martin Žídek (Technical Director) - Cloud and similar topics (security, Kubernetes, Openstack...)
+or anyone else from our mobile apps division (some senior SW developers) or data centers department (senior administrators).
+
+I hope you find my message interesting and we will provide some speaker(s) from our company.","https://www.master.cz/
+https://www.masterapp.cz/",Talk (~40 mins on Saturday),"mobile apps, scrum, cloud, security, IoT...",upon agreement,already written above,Everyone above and beyond,I am an experienced speaker.,No,https://www.youtube.com/watch?v=VuqPIW-BDeo&index=6&list=PLlTxFw5y5UZusM1lQWXcUthuXJ7t-puZO,I don't know yet,Brno,
+7/31/2017 6:31:52,Lia James,lia@liajames.com,Orenda Agency,Personal Branding & Tech Talent Development Consultant,"Lia James is a personal branding and talent development consultant who helps companies and technical folks reach their full potential. Her experience in branding, business development, and people management informs her 10 years of training professionals on thought leadership and career advancement. Think Product Manager, but for your career and the health of your team culture.
+
+Lia has worked with professionals from diverse backgrounds at various stages in their careers from junior level to leadership, within many well-known and sought out companies in the tech, legal, education, and finance industries such as SpaceX, Thoughtworks, AllState, LinkedIn, KPMG, and more. She has spent the last three years working with bootcamps to develop curricula around professional development specific to career changers entering the tech industry from non-technical backgrounds.
+
+Now focusing her extensive experience in advising individual career growth and its impact on team dynamics, Lia has found her secret sauce: a mix of empathy, patience, and inherent knack for connecting with people from all walks of life.",https://www.linkedin.com/in/liajames/ https://twitter.com/Lia_James,Talk (~40 mins on Saturday),Soft Skills,You’re doing it wrong. Connecting with developers when you aren’t technical,"Coding bootcamps are facing a problem. Career placement has become increasingly more difficult, and finding jobs quickly after graduation has become harder. With two large bootcamps closing and thousands of new job seekers, how do we improve the access to these careers. We’ll dig into best practices for setting students up for employment success, professional development curriculum that has proven results, and reduce the pain of the job search process for students and staff. This talk is for: technical folks interested in advancing their careers and bootcamp teams iterating their processes to improve student outcomes.",Everyone above and beyond,"I have some experience, but I would appreciate some help with improving my skills.",Yes,"Denver Startup Week, https://vimeo.com/217240303/3fd0d68824, https://vimeo.com/164458656/e5b4142033, https://vimeo.com/164458726/2216423b00, https://www.facebook.com/turingschool/videos/865822120248098/, Feedback under recommendations: https://www.linkedin.com/in/liajames/","Yes, travel and accommodation fees","Denver, CO, USA",N/A
+6/27/2017 5:10:03,Lilly Ryan,lilly@attacus.net,ThoughtWorks,Senior Software and Systems Engineer,"Lilly is a software and systems engineer from Australia. She spends her days building and breaking corporate identity systems.
+
+Following a stint as an academic specialising in the surveillance mechanisms of medieval Europe, she has spent more recent years teaching practical tech privacy to the public, giving talks on the history and ethics of technology, and camouflaging herself in libraries.",Twitter: @attacus_au,Talk (~40 mins on Saturday),"Security, testing",When bugs bite – why neglecting your edge cases can kill,"Two people died because of a Unicode support error. Another died because of a camera’s inability to distinguish colours from one another, and yet another died because of bad GPS data. Many thousands more deaths could have been prevented by a single variable, if the developers had thought to include it.
+
+As software developers, our skills and ideas are increasingly crucial for keeping the world running. We don’t have time to test for, find, and fix all of the bugs. Most bugs are annoying, some bugs allow for sneaky behaviour, but the most innocuous of edge cases can sometimes lead to an actual loss of life.
+
+No software ever holds up to contact with reality, but in this talk, Lilly Ryan shows you some of the more extreme consequences of tech debt, and offers guidelines on how your team can more easily identify assumptions and eliminate edge case behaviour when developing software. That boring task hiding in your backlog might just save a life.",Beginners,I am an experienced speaker.,No,https://attacus.net/talks,"Yes, travel and accommodation fees",Australia,
+6/27/2017 5:11:45,Lilly Ryan,lilly@attacus.net,ThoughtWorks,Senior Software and Systems Engineer,"Lilly is a software and systems engineer from Australia. She spends her days building and breaking corporate identity systems.
+
+Following a stint as an academic specialising in the surveillance mechanisms of medieval Europe, she has spent more recent years teaching practical tech privacy to the public, giving talks on the history and ethics of technology, and camouflaging herself in libraries.",Twitter: @attacus_au,Talk (~40 mins on Saturday),"Security, development",Scientific hooliganism: what we can learn from the first hack in history,"In 1903, Guglielmo Marconi prepared to unveil his world-first, long-distance wireless communication technology to the Royal Institution in London. He was looking forward to roaring success, scientific acclaim, and a string of wealthy new customers - but he didn’t count upon falling victim to the first hack in history.
+
+This is a tale of business secrets, flame wars, stage magic, and magnificent sideburns, direct from the records of Edwardian England.
+
+The talk highlights several of the lessons that the FLOSS and information security communities can still learn from the fateful events of 1903. Marconi’s tale is a master class in the necessity of open source technology, as well as being a delightful introduction to the art of vulnerability reporting.",Beginners,I am an experienced speaker.,No,https://attacus.net/talks,"Yes, travel and accommodation fees",Australia,
+6/27/2017 5:13:29,Lilly Ryan,lilly@attacus.net,ThoughtWorks,Senior Software and Systems Engineer,"Lilly is a software and systems engineer from Australia. She spends her days building and breaking corporate identity systems.
+
+Following a stint as an academic specialising in the surveillance mechanisms of medieval Europe, she has spent more recent years teaching practical tech privacy to the public, giving talks on the history and ethics of technology, and camouflaging herself in libraries.",Twitter: @attacus_au,Talk (~40 mins on Saturday),"Security, future, ethics, development, big data",Rage Against the Ghost in the Machine,"People have been using technology to try to contact ghosts for over a hundred years. From ouija boards to EVP to the not-quite-unbelievable creepypasta you stumble across on a forum at 3am, the spirits of the dead are ever present in our imaginations and (maybe?) our servers.
+
+Very soon, you could deliberately leave a ghost of your own! Research facilities are currently working to make our sci-fi dreams a reality, and let us live on digitally after our deaths. Trailing information in our wake every time we touch the Internet, it becomes increasingly possible to create a digital presence that will use these (and future) data points to respond and react to events after our deaths much as we might have in life.
+
+But, as we grow ever-closer to building this reality, how should we think about our ghosts? Are they technically ‘us’? Are they subject to the law? Could a hacker spin up a doppelgänger to plague you in life?
+
+To explore the answers to these questions and more, light some candles, and follow Lilly into the beyond.",Beginners,I am an experienced speaker.,No,https://attacus.net/talks,"Yes, travel and accommodation fees",Australia,
+7/19/2017 17:03:40,Marcus Finley,marcus@fin-digital.com,Fin-Digital,Digital Director,"CEO and Founder of FIN Digital, a full service digital application and innovation development firm. Marcus graduated from Florida State University where he majored in Mechanical Engineering and Public Administration. Marcus is a certified Scrum Master with expert knowledge of a number programming languages, user experience design and web/mobile application development. Marcus has managed over $3 million dollars of contracted technology development and strategy projects for with an average project budget of $200,000. In his professional roles he has provided technology strategies and user experiences to achieve client’s goals. He has help developed UX practices, lead a number of UX workshops with clients and guided companies with emerging needs of validating applications. He co-founded a Meetup called Color of Tech to bring together a diverse group of technology professionals to network and thrive.","Twitter: Marcusafinley
+https://www.linkedin.com/in/marcus-finley-93040a16
+Wbsite: http://www.fin-digital.com/
+",Talk (~40 mins on Saturday),Product Developement,How Unconscious Bias Affects Product Development & User Experience Design,"User experience design is one approach to addressing the issues of unconscious bias often found in today’s technology. Unconscious bias is an often overlooked and undervalued aspect of UX design since the little details seem to be so minor to us, however these minor details can have large and lasting impacts. Designing a user experience without paying attention to unconscious biases is leaving out small changes that, in turn, alienate large demographics of people and shrink your client base. On the other hand, making these small changes could be just the kickstart your product needs to expand and catch on within other demographics. This presentation will detail how to identify and overcome unconscious bias in order to achieve the maximum client or consumer base possible. ",Intermediates,I am an experienced speaker.,No,"General Assembly (Instructor), Washington DC, Present DCWW Conference, Washington DC, 2014 Harlem Business Alliance Workshop ""Creating a Mobile Strategy"", New York, 2014 Congressional Black Chamber Conference, Washington DC, 2014 Harlem Social Media Week ""Going Mobile"", New York, 2014 Howard University iCode Institute (Instructor), Washington DC 2014 Mobile User Experience Workshop, Washington DC, 2014","Yes, travel and accommodation fees",Washington D.C.,
+5/29/2017 11:28:45,Martin Lonský,martin.lonsky@aputime.com,"MyAppIn, s. r. o.",CEO,"Speaker, dreamer, developer and analyst",https://cz.linkedin.com/in/martin-lonsk%C3%BD-91b91a82,Workshop (~2 hours on Sunday),Angular4,Angular4 in Action,Write complex applications in Angular. Think of reusable services and low level versus high level logic.,Everyone above and beyond,I am an experienced speaker.,No,"PHP<Live> on Youtube, JobsDev, Czechitas, RailsGirls, ImpactHub mashup on SlidesLive, YouTube ApuTime, ...","Yes, only travel","Ostrava, CZ",no
+6/1/2017 20:29:36,Matt Stewart,hello@mattstewart.ca,Centre for Arts & Technology,Executive Success Coach,"
+
+Matt Stewart is a no bullshit activator of potential. His No Excuses, Now What approach has been fostered & developed over the past 20+ years from coaching, collaborating and advising Senior Leaders across North America. In 2015 he said F U to Cancer and forged his own path and launched his proprietary no-holds-barred success coaching system. His foundational philosophy is boldly simple: move past the excuse —> laser focus on the next steps and you can accomplish a shit-tonne. The most important thing a leader, boss, manager or ANYONE can do is ask yourself “How Am I Framing This?”. How You Frame anything in life will impact the specific macro & micro-actions you take and will impact the tribes you choose to let into your life.
+
+Matt’s approach is not some sit-around-a-campfire-hug-a tree-and-kiss-puppies kind of approach. It is based in the thought process that – no one owes you anything! This pragmatic whiskey-on-the-rocks approach has served Matt well during his years in Healthcare, the Vancouver 2010 Winter Olympics, Finance and now as a Success Coach in post-secondary. Before venturing into the mountains of the Interior of BC – Matt also facilitated leadership training for the Toronto2015 Pan Am Games and taught in Tokyo Japan.
+
+Remember —> Accept No Excuses and only ask Now What.
+","www.mattstewart.ca
+https://www.linkedin.com/in/beardedleader/",Talk (~40 mins on Saturday),Soft Skills,Stop Calling (them) Millennials or Gen Z! - Bringing Executive Coaches to Tech College Students,"Let's stop labeling the next generation with words like Millennial and Zs. Instead focus and think of them as people; by coaching to develop their non-cognitive skills (aka soft skills.)
+How much would your team/company be impacted if you hired graduates with strong interpersonal skills?
+Could we do a better job preparing students for the soft skills gap of working in the real world? I argue we can and should.
+The next generation doesn't want to be taught or told -> Could they be guided and coached towards their professional development?
+What if your new hire understood how to give and receive behaviour based feedback?
+What if your new hire was self aware of their conflict resolution style and could quickly and easily navigate thru various conflict resolution models? Then why not bring executive coaches into post secondary schools?
+",Everyone above and beyond,Keynote speaker is my middle name.,No,"https://youtu.be/ZjZHVBGLs00
+Joomla!2016 World Conference
+TEDxFurmanU 2017
+Social Media Camp 2016","Yes, travel and accommodation fees",Kelowna BC Canada,
+7/20/2017 16:25:56,Mete Atamel,atamel@google.com,Google,Developer Advocate,"I'm a Developer Advocate at Google, currently focused on helping developers with Google Cloud Platform. As a long-time Java and a recent C# developer, I like to compare the two ecosystems. Prior to Google, I worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from Cyprus, I currently live in Greenwich, not too far away from the prime meridian.
+","https://twitter.com/meteatamel
+https://www.linkedin.com/in/meteatamel
+https://plus.google.com/+MeteAtamel
+https://meteatamel.wordpress.com
+https://github.com/meteatamel",Talk (~40 mins on Saturday),Cloud,"Containers, Kubernetes and Google Cloud","Creating a single microservice is a well understood problem. Creating a cluster of load-balanced microservices that are resilient and self-healing is not so easy. Managing that cluster with rollouts and rollbacks, scaling individual services on demand, securely sharing secrets and configuration among services is even harder. Kubernetes, an open-source container management system, can help with this. In this talk, we will start with a simple microservice, containerize it using Docker, and scale it to a cluster of resilient microservices managed by Kubernetes. Along the way, we will learn what makes Kubernetes a great system for automating deployment, operations, and scaling of containerized applications.",Beginners,I am an experienced speaker.,No,You can search my name on YouTube and will find plenty of my talks,"No, I got it",London,
+7/20/2017 16:28:33,Mete Atamel,atamel@google.com,Google,Developer Advocate,"I'm a Developer Advocate at Google, currently focused on helping developers with Google Cloud Platform. As a long-time Java and a recent C# developer, I like to compare the two ecosystems. Prior to Google, I worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from Cyprus, I currently live in Greenwich, not too far away from the prime meridian.","https://twitter.com/meteatamel
+https://www.linkedin.com/in/meteatamel
+https://plus.google.com/+MeteAtamel
+https://meteatamel.wordpress.com
+https://github.com/meteatamel",Talk (~40 mins on Saturday),Big Data,Batch and stream processing finally together with Apache Beam,"In this session, we will first take a look at the history of massive-scale data processing at Google with MapReduce, FlumeJava, MillWheel and how they contributed to the creation of Dataflow, a new paradigm integrating batch and stream processing. Next, we will learn about the details of Dataflow and some of its differentiating elements. In 2016, Dataflow SDK further transformed into an open source project called Apache Beam. We will take a look at Apache Beam and how it enables pipelines to run against multiple backends such as Dataflow, Flink, Spark and more.",Beginners,I am an experienced speaker.,No,Please search for my name on YouTube,"No, I got it",London,
+7/22/2017 18:43:07,Michal Mroček,mroczis@gmail.com,eMan,Android Developer,"Born and raised in great Moravia (not in Brno), now studying and working in Prague since 2015. I'm doing Android things for about 3 years and UI/Material design is my favourite thing.","https://twitter.com/mroczis
+https://github.com/mroczis
+https://play.google.com/store/apps/developer?id=Michal+Mroček",Talk (~40 mins on Saturday),"Android, UI",Animujeme Android aplikace,"Jako signál v pražském metru. Asi tak by se dal vystihnout stav animací v mnoha androidích aplikacích. Je na čase s tím něco udělat. Metro v přednášce bohužel nepokryjeme, ale na těch animacích zapracujeme.",Beginners,My first time.,Yes,Error 404 Not Found,"No, I got it","Prague 6 - Dejvice, Czechia, Europe, Earth (3th planet), Solar System, Milky Way, Local Group, Virgo Supercluster, Laniakea Supercluster",I'm currently not aware of him/her.
+6/2/2017 11:00:41,Michal Šimon,michal.simon@apesight.com,Dil Mil inc.,DevOps,"Last summer I bought a plane ticket, came to Silicon Valley and start searching for a job. After a week full of interviews, energy drinks and weekend hackathon, I started working at Dil Mil (south-Asian dating platform).","twitter.com/michalsimon
+https://www.linkedin.com/in/michal-simon
+https://www.youtube.com/channel/UCdhqZENd3oxRiB2oVy8PSuQ",Talk (~40 mins on Saturday),Soft skills,From Ostrava to Silicon Valley,"Have you ever dreamed about trip Silicon Valley but never tried to kick it off? Let me share with you my story about how Silicon Valley works, how to find a job and what are the magic tricks to be successful there. (personal fails included)",Intermediates,"I have some experience, but I would appreciate some help with improving my skills.",No,"GDG DevFest Ostrava
+Name: DevOps - From programmer to real developer / DevOps - Z programátora skutečným vývojářem
+Slides: http://prezi.com/u0c6yrad9etl/
+Video: https://www.youtube.com/watch?v=eOApFivoiT8
+
+Z Ostravy do Silicon Valley (short CZ version from Barcamp Ostrava) - https://www.youtube.com/watch?v=ed0jpau-dXQ
+
+More videos can be found on my LinkedIn profile",Let me just sleep somewhere please :),Ostrava,
+6/22/2017 10:06:41,Michal Šimon,michal.simon@hisim.cz,Dil Mil inc. ,DevOps,Please reuse from my previous submission. ,@michalsimon,Talk (~40 mins on Saturday),Serverless,Serverless is not painless,"Let me share with you our story, how we moved from completly monolithic architecture through microservices to serverless. We will talk about good as well as bad decisions that we made by building dating platform and music streaming service. (prefere this topic more - can bring more value to the audience and mention little bit abou my story in Silicon Valley as well) ",Experts,I am an experienced speaker.,No,Can be seen in my previous submission. ,"Yes, only accommodation",Ostrava,
+6/11/2017 20:29:54,Namrata Bandekar,namrata.bandekar@gmail.com,OANDA,Software Engineer II,"Namrata is a Software Engineer at OANDA and has experience doing native Android and iOS development. She is a member of the Ray Wenderlich Android tutorial team. Apart from building apps, she is passionate about travelling, dancing and hiking with her dog.","https://twitter.com/namratacodes
+https://github.com/namrata-b
+https://www.linkedin.com/in/namratabandekar/
+https://www.raywenderlich.com/u/namrata.bandekar",Talk (~40 mins on Saturday),Android,Video Processing on Android,"An increasing number of social media apps such as Instagram, Snapchat and Messenger are using video features. With modern Android devices having enough processing power to run video processing algorithms locally, there's no need to send videos through expensive internet bandwidth to be processed on the backend. Overlays, transcoding and cropping are just a few of the challenges you face when working with video on-device. In this talk I will go through my experience experimenting with built-in as well as third party libraries for video manipulation on Android. We will look at the benefits of two leading media processing libraries, and how you can leverage them to enhance Android's native MediaCodec API to accomplish these tasks. You will walk away with a head start on how to tackle the most common challenges with videos on Android.
+",Intermediates,"I have some experience, but I would appreciate some help with improving my skills.",No,"I will be presenting this talk at 360 AnDev 2017. https://360andev.com/speakers/namrata-bandekar/
+I have also presented at a couple of meetups in Toronto.
+https://www.meetup.com/ExploreTech-Toronto/events/238422253/
+https://github.com/namrata-b/talks/
+https://www.meetup.com/ToAndroidDev/events/239331369/","Yes, travel and accommodation fees","Toronto, Canada",No
+6/22/2017 10:00:10,Neha,neha@jslovers.com,Toaster,Tech Lead (UI),"I am a Delhi Girl working as UI Tech lead. I started my journey as web designer and over the years I moved to web developer. My core skills are - Photoshop, HTML, CSS, Javascript, Typescript, Nodejs , Gruntjs, Polymerjs, python, Reactjs. People know me as Javascript Girl as I run a community name JSLovers (meetup.com/jslovers) here from last 2 years to teach the developers. I love chai , love coding and I do doodle. I am biggest bollywood fan. I am active tech speaker around Delhi/Gurgaon/Noida/Mumbai and promote women in technology .","https://www.linkedin.com/in/nehha/
+https://twitter.com/hellonehha
+https://medium.com/@hellonehha
+",Workshop (~2 hours on Sunday),"IOT, JS, Apps, Google Assistant","Okay Google, let's do the code review","Google Assistant is popular for doing the tasks such as - calls, mails, songs play, weather check, traffic update. But for developers like us we need an assistant do help us in coding , help us in code review and doing so many stuff to keep us free to focus on important things such as - Learning and more coding. So here we are with our Google assistant to assist us in our coding tasks. 
+
+What you need:
+Python/javascript 
+Raspberry pi
+Google Assistant
+
+What we will do:
+We will develop a Google Assistant SDK to help developers in task such us:
+1) Code Commit
+2) Code review
+3) Priorities code bug/error
+4) Suggestions of solutions based on Bugs logged
+5) Creating reports ",Intermediates,I am an experienced speaker.,No,https://www.youtube.com/watch?v=PJHCpzAmr0w&t=8s,"Yes, only travel","New Delhi, India",Jaswant 
+6/28/2017 17:28:49,Oleksandr Tolstykh,a.l.tolstykh@gmail.com,Sharewire BV,Head of Mobile Development/Sr. Android Developer,"Oleksandr is a passionate Android Developer. Working at Sharewire as a Head of Mobile development he develops and manages various applications, from simple UI-pretty clients applications to complicated ad frameworks. Over more than 5 years in Android Development, he has tried a variety of different technologies and frameworks, but his favorite topics are continuous integration, testing, all kinds of optimisations and material design, of course.","https://github.com/a-tolstykh
+https://twitter.com/a_tolstykh
+https://medium.com/@a_tolstykh
+https://plus.google.com/+OleksandrTolstykh",Talk (~40 mins on Saturday),"Android, UI, Performance",RecyclerView Performance Tuning,"RecyclerView has been a common part of every Android application's development process since Google released the support library with optimized ListView replacement. RecyclerView is still in the development and improvement cycle and Android developers continuously receive updates for it. Besides improvements made by the Google team, there are some techniques which can be applied to RecyclerView to make it more efficient. Some of these approaches were introduced by Google engineers, some were discovered by enthusiastic developers. I have gathered all these best practices together, added my own ones and some experiments on top of them.",Everyone above and beyond,I am an experienced speaker.,No,https://speakerdeck.com/oleksandrtolstykh,"Yes, travel and accommodation fees",Amsterdam,
+7/14/2017 12:39:34,Ondřej Kopal,ondrej.kopal@lundegaard.eu,Lundegaard,JavaScript Developer & technical leader,"CZ: Mám více než 10 let zkušeností s programováním ve webových technologiích. Posledních 2,5 roku pracuji ve společnosti Lundegaard, která vyvíjí komplexní digitální řešení pro velké firmy a korporace. Jako tým leader jsem zodpovědný za technický návrh řešení postavených na JavaSrcipt technologii (ES6, Angular, React, Elm, Node, Express, Koa a další). Mimo práci, kromě sportu a četby, rád uteču do přírody, kde pomáhám s údržbou přírody minimalistickým počinem - čistěním lesů a krajiny od lidských odpadků.
+
+EN: I have an extensive experience in programming - more than 10 years. For last 2.5 years I work at Lundegaard - company offering complex digital solutions for enterprises. As a team leader I’m responsible for technical design of solutions based on JavaScript application technologies (ES6, Angular, React, Elm, Node, Express, Koa and more). When off work I like to spend some time reading and doing sports. And from time to time I help to keep our nature tidy by cleaning trash from forests and countryside.","https://www.linkedin.com/in/ondrejkopal/
+https://www.lundegaard.eu/en/references/projects/",Talk (~40 mins on Saturday),"Angular 4, TypeScript, Webpack",Prosadili jsme Angular 4 v korporaci,"Proč jsme v korporaci prosadili Angular 4 a co vše tomu předcházelo. Představení zadání a požadavků klienta a vysvětlení složení vývojového stacku jako budoucí FrontEnd factory pro navazující projekty. Příběh o tom, jakými argumenty jsme se u klienta prosadily, jaké pozice projekt obnáší a co mají na starosti.",Everyone above and beyond,"I have some experience, but I would appreciate some help with improving my skills.",No,"Few smaller talks, mostly for closed audience.","No, I got it",Praha,Marek Juras - JavaScript Developer
+5/30/2017 9:17:57,Ondřej Linek,me@ondralinek.cz,Self-employed,Programmer,"I'm a general practitioner programmer since 1985. Nowadays I see myself as primarily a backend developer interested in a diverse range of technologies. I've programmed 8-bit assembler, 16-bit Pascal, 32-bit C/C++ and Java and 64-bit Golang. Witnessing 25 years of programming I can tell what worked and what not. My creed - simplicity is complicated (thanks Rob Pike).","https://go.ondralinek.cz, https://deftech.blogspot.cz/",Talk (~40 mins on Saturday),Cloud,Parallelism with ease in Golang,"It is very difficult to run 1000's of threads on a commodity hardware using traditional languages and techniques. But with a bit of help from Golang you can run 10,000's of parallel tasks with ease. We'll explore how Golang helps you running this kind of load.",Intermediates,"I have some experience, but I would appreciate some help with improving my skills.",No,"http://slidedeck.io/defectus/js_tutor, https://present.ondralinek.cz/intro.slide. speaking to at most 20 people.","No, I got it",Prague,No
+7/31/2017 12:55:12,Ondřej Žára,ondras@zarovi.cz,Seznam.cz,senior frontend developer,"An experienced web developer (10+ years), speaker and lecturer. Apart from working for a major Czech online company (Seznam.cz, a.s.), I regularly give talks at the Czech Technical University in Prague. Focus on all frontend web technologies.","http://ondras.zarovi.cz/
+https://github.com/ondras/
+https://twitter.com/0ndras",Talk (~40 mins on Saturday),"Vanilla JS, computer graphics",Bruteforce image vectorization,"Let's get creative! HTML canvas is a great tool for image analysis. What if we try to approximate arbitrary input images by computer-generated primitive geometric shapes? It turns out that there are only two possible outcomes: a piece of art or a browser crash.
+This talk explores some interesting CS concepts, such as ""Image distance metrics"" and ""Method of steepest descent"" for algorithmic approximation of images using HTML canvas. Mentioned algorithms are showcased on the ""primitive.js"" tool.",Everyone above and beyond,I am an experienced speaker.,No,"https://www.youtube.com/watch?v=sKHiQeT8BEs
+https://www.youtube.com/watch?v=YWmqfUrJH_U","No, I got it",Prague,
+7/31/2017 12:56:45,Ondřej Žára,ondras@zarovi.cz,Seznam.cz,senior frontend developer,"An experienced web developer (10+ years), speaker and lecturer. Apart from working for a major Czech online company (Seznam.cz, a.s.), I regularly give talks at the Czech Technical University in Prague. Focus on all frontend web technologies.","http://ondras.zarovi.cz/
+https://github.com/ondras/
+https://twitter.com/0ndras",Talk (~40 mins on Saturday),CSS,"Named colors in CSS, what are they?","Why do some colors have a name while others do not? Where do the named colors come from, what are their properties and what strange surprises do they hide?
+This talk will explain the concept of named CSS colors, introduce their origin and list some interesting and lesser-known facts about them.
+",Everyone above and beyond,I am an experienced speaker.,No,"https://www.youtube.com/watch?v=sKHiQeT8BEs
+https://www.youtube.com/watch?v=YWmqfUrJH_U
+","No, I got it",Prague,
+7/25/2017 12:20:22,Pavel Krejsa,pak@netmail.eu,netmail.eu,COO / Head of deployment,"I am cloud enthusiastic person. Started as programmer in FoxPro in 1993, worked for large enterprise company  Siemens in various African countries (Morocco, South Africa, Mozambique, Tanzania, Zanzibar ...), founded technical and deployment and support team in nangu.tv. ",https://www.linkedin.com/in/pavel-krejsa/,Workshop (~2 hours on Sunday),"DevOps, SysOps in cloud, migration to cloud, optimize cloud based products","Move to Google Cloud Platform, and stop worrying ...","Everything you want to and should, as developer, forget about: How to migrate to cloud from on-premise solution, including cloud to cloud migration, disaster recovery from on-premise to cloud. How to split monolith servers to managed services and/or micro-services. How to optimize security, monthly spending on cloud.",Intermediates,I am an experienced speaker.,Yes,My last show: Similar 4 hours workshop in Budapest 2017 Google developers launchpad.,"No, I got it",Prague,No
+7/31/2017 23:32:39,Paweł Lewtak,lewtak+devfest@gmail.com,GOG.com,Web Developer,"Developer with 8 years of experience with backend systems. Created them from scratch by starting with analysis and writing specification up to deployment on production. Working mainly with Python, PHP and MySQL, elastic search and other technologies. Big fan and evangelist of continuous learning, organizer of many coding dojo sessions.","https://twitter.com/pawel_lewtak
+https://www.linkedin.com/in/plewtak/
+https://github.com/pawel-lewtak",Workshop (~2 hours on Sunday),"PHP/Python, TDD",Coding Dojo,"If you didn't fail did you know why you succeeded? Do you know what worked so you could repeat it again when needed? I don't think that's true. We learn the most when we fail. We know what didn't work and using that knowledge we can improve next attempt. While failure is always an option (at least should be!), your job isn't the best place for failures. That's why I'd like to invite you to join Coding Dojo.
+
+Coding Dojo is a place for practice in a safe environment. You can fail, learn and repeat until you feel your skills are improved. This session would be held in order to practice Test Driven Development in pairs or small groups. No prior knowledge of TDD is required.",Beginners,"I have some experience, but I would appreciate some help with improving my skills.",Yes,"My slides online: https://www.slideshare.net/PaweLewtak
+Sadly I don't know of any videos online yet :(","Yes, only travel","Warsaw, Poland",no
+6/2/2017 17:11:45,Petr Nalevka,petr@nalevka.com,Urbandroid,CEO,"Developer, researcher, stratupist but most of all technology geek",https://en.gravatar.com/petrnalevka,Talk (~40 mins on Saturday),"Android, Cloud",Sonar or the Tricoder (how we created a new smartphone sensor),"https://www.youtube.com/watch?v=cjXExBj6VcY
+
+The future of med & tech is contact-less. The future is now and the tricoder from Star Track is just one step away. Our presentation shows how we are able to detect movement/activity or even breathing in a contact-less fashion on Android phones using just their speaker and microphone. How we utilize this for sleep phase tracking in our app Sleep as Android (15M Downloads). What challenges we are facing with the technology in terms of development, hardware, background processes, Android's audio system but also signal processing, false positive filtering etc..",Jedis,I am an experienced speaker.,No,"My past speaking: Google Developer Day Keynotes, DevFest, mDevCamp, TEDx Brno, Pebble Developer Retreat, WWW Conference, Android Roadshow
+
+https://www.youtube.com/watch?v=soU0ROMj8Z8
+
+https://www.youtube.com/watch?v=qLlhWUMVIu8&list=FLFYgcq_PqAJD2CONGP2YgwQ
+
+https://www.youtube.com/watch?v=LaVGHtZq-dM&list=FLFYgcq_PqAJD2CONGP2YgwQ
+
+https://www.youtube.com/watch?v=fcT75dc8f6M
+
+https://www.youtube.com/watch?v=LaVGHtZq-dM&list=FLFYgcq_PqAJD2CONGP2YgwQ
+
+https://www.youtube.com/watch?v=PJfavSYYc00&list=PL758F7E3A4A4CD715
+
+https://www.youtube.com/watch?v=kqjEXUI_E4s","No, I got it","Czech republic, Prague","Jan Marek, data scientist and commodity market sole trader "
+6/2/2017 17:34:23,Petr Nalevka,petr@nalevka.com,Urabandroid,CEO,"Developer, researcher, stratupist but most of all technology geek",https://en.gravatar.com/petrnalevka,Talk (~40 mins on Saturday),"Android, Cloud",Unveiling the mystery of Sleep with Google tech,"Overview of our findings on the mysterious phenomenon - Sleep:
+http://sleep.urbandroid.org/sleepcloud-study/
+
+Our study is based on analyses of more than 10 million sleep records in our Sleep Cloud data base collected in Google Cloud using Android smartphones and various wearable tech for Sleep tracking. Our findings are based on our own private funded research but also based on cooperation with several scientific institutions. 
+
+Topics:
+- How does our lifestyle affect sleep
+- Nigh owls / morning larks - chronotypes, Roenneberg and Social jet lag
+- Want to stop snoring? Have a beer!
+- How do we sleep post-Brexit / post-Trump
+- Sleep and psychical health
+- Smart alarms improve sleep and wake up experience
+- Our internal clock and how harmful summer time is
+...
+",IT muggles,I am an experienced speaker.,No,"My past speaking: Google Developer Day Keynotes, DevFest, mDevCamp, TEDx Brno, Pebble Developer Retreat, WWW Conference, Extreme Markup Languages, xTech, Android Roadshow
+
+https://youtu.be/8Li5hT1-QF8
+
+https://www.youtube.com/watch?v=soU0ROMj8Z8
+
+https://www.youtube.com/watch?v=qLlhWUMVIu8&list=FLFYgcq_PqAJD2CONGP2YgwQ
+
+https://www.youtube.com/watch?v=LaVGHtZq-dM&list=FLFYgcq_PqAJD2CONGP2YgwQ
+
+https://www.youtube.com/watch?v=fcT75dc8f6M
+
+https://www.youtube.com/watch?v=LaVGHtZq-dM&list=FLFYgcq_PqAJD2CONGP2YgwQ
+
+https://www.youtube.com/watch?v=PJfavSYYc00&list=PL758F7E3A4A4CD715
+
+https://www.youtube.com/watch?v=kqjEXUI_E4s","No, I got it","Czech republic, Prague","Jan Marek, data scientist and commodity market sole trader "
+7/31/2017 15:42:17,Piotr,piotr.olesinski@gmail.com,yieldPlanet,Product Manager,"Piotr is a Product Manager at yieldPlanet - hotel software company. He is taking care of smart pricing platform for increasing hotel revenues. After gathering experiences in computer science, consulting, user research and sales he became a product manager which he finds the best job in the world. Part time entrepreneur and Google Developers Group Warsaw organizer. Casual traveler.","https://www.facebook.com/piotrole
+https://www.linkedin.com/in/polesinski/",Talk (~40 mins on Saturday),soft skills - product management,Building complex industry specific platforms,"Sharing blood, sweat and tears (but also some successes!) from over one year of building revenue management system for hotels. From MVP to a scalable product and from product assumptions to everyday maintenance and development.",Intermediates,"I have some experience, but I would appreciate some help with improving my skills.",No,I was running multiple workshops since 8 years and was leading dosens of events (GDG Warsaw meetups and conferences) on stage. I had a presentation in English as a part of Founders Institute Warsaw program and at GDG CEE Summit. I also use English everyday at work.,It would be great if you can cover travel and accomodation but a cheap flight on Saturday morning and Sunday evening together with a nice hostel would be totally fine!,"Warsaw, Poland",
+7/1/2017 18:55:59,Radek Simko,radek.simko@gmail.com,HashiCorp,Software Engineer,Radek is a software engineer at HashiCorp working on Terraform. Prior to joining he was part of the operations team at Time Inc. in the UK where he built tools for automating many parts of the deployment pipeline. He gravitated for most of his career towards automation and solving real problems through code. Besides open-source communities where he’s been active in the past years as both contributor and maintainer he also enjoys discovering new places around the world and eating food while posting it on Instagram.,"https://github.com/radeksimko
+https://linkedin.com/in/radeksimko
+https://twitter.com/radeksimko",Talk (~40 mins on Saturday),Cloud,Infrastructure as Code in Google Cloud,"Managing modern infrastructure presents many different challenges. While the main operational aspects of infrastructure like durability, availability, scalability, security are very important, there’s also one aspect which should enable and support all the others - automation.
+ 
+Automation is a very abstract word, so the talk will briefly explain what benefits does IaC approach bring to the table and why configuration management (often driven by tools like Ansible, Puppet, Salt, Chef etc.) is just one of many layers in an automated production infrastructure.
+ 
+Then we will walk through the main design goals of Terraform, open source tool that enables users to write, plan and apply changes of a production infrastructure in Google Cloud, and explain how to do it.",Intermediates,"I have some experience, but I would appreciate some help with improving my skills.",No,"https://www.slideshare.net/radeksimko
+https://vimeo.com/146245665","No, I got it","London, UK",
+7/5/2017 13:42:27,Rebecca Franks,franks.rebecca@gmail.com,Dynamic Visual Technologies,Lead Android Engineer,"Rebecca Franks the Android Engineering Lead at DVT. She has over 5 years experience in developing Android applications.  In March 2016, she was awarded with the status of Google Developer Expert for Android.
+
+In her spare time, she works with Book Dash – a Non Profit Organisation – developing an Android app to showcase their free children’s books. She enjoys public speaking and frequently speak at conferences and local meetups.
+
+Her blog has been featured multiple times in Android Weekly . In June 2016, She was selected as part of the Mail & Guardian’s Top 200 Young South Africans.","https://twitter.com/riggaroo
+https://github.com/riggaroo
+https://www.linkedin.com/in/rebeccafranks/
+https://riggaroo.co.za/",Talk (~40 mins on Saturday),Android,Android Things: Building a connected Product using Android,"In this presentation, Rebecca will look into using the Android Things platform as a way in which you can build connected products using Android. Rebecca will cover controlling your Android Things device with the Google Assistant. She will also talk through some different options for storing data for IoT devices. She will also showcase a few different applications of Android Things. ",Intermediates,I am an experienced speaker.,No,"I've spoken at a  few different meetups and conferences. I've spoken in Switzerland at AppBuilders, Kenya at Google Developer Launchpad, South Africa  at DevConf and local meetups. Slides for my presentations can be found here: https://speakerdeck.com/riggaroo 
+https://www.youtube.com/user/TheRiggaroo/videos",I'm a GDE but not sure if Google will cover all the costs - Otherwise would require travel and accomodation.,"Johannesburg, South Africa",
+7/8/2017 2:42:33,Rizwan Javaid,rizwan@rizwanjavaid.com,Rizwan Javaid,UX Designer,"Rizwan is a User Experience Designer with over 10 years of creating elegant and profitable experiences for global brands such as Netflix, Quicken, PayPal, Allstate, Holland America, and StubHub. He is also a speaker and loves sharing his passion for sketching at Meetups and conferences. When he isn’t designing, he is usually at home drawing dinosaurs and cars, dinosaurs in cars, and other combinations of dinosaurs and cars with his twin boys.","Personal Website: www.rizwanjavaid.com
+Twitter: https://twitter.com/rizwanjavaid
+LinkedIn: https://www.linkedin.com/in/rizwanjavaid/
+Facebook: https://www.facebook.com/rizwanjj
+Medium: https://medium.com/@rizwanjavaid",Workshop (~2 hours on Sunday),UX Design,You Too Can Be A Sketching Machine!,"Sketching is a crucial skill that spans all job titles. It helps with brainstorming ideas, iterating through concepts, and communicating our ideas to others. Whether working individually or in a group, our ability to sketch helps take the abstract ideas out of heads and into the real world. 
+
+In this fun, hands-on talk I discuss the power of sketching to lay the foundation of why sketching is an important skill for everyone. We will do some sketching activities which provide immediate proof that everyone in the room can already sketch and have a lot of fun while doing it. 
+
+Sound interesting? We would love for you to join us",Everyone above and beyond,I am an experienced speaker.,Yes,https://www.youtube.com/watch?v=hQd49Y_7Lh0,"Yes, travel and accommodation fees","Sacramento, CA, USA, Earth, Solar System, Milky Way",
+5/29/2017 10:20:33,Robin Pokorny,me@robinpokorny.com,NewStore,JavaScript Engineer,"In the past I focused on CSS, now I am more a JS developer. I have been always faithful to the web. To share the fun I speak and write about it.","https://robinpokorny.com/
+https://twitter.com/robinpokorny
+https://medium.com/@robinpokorny",Talk (~40 mins on Saturday),"Web, AMP, PWA",AMP first,"AMP provides an easy way how to create fast loading websites. There is some FUD about this technology. In the talk I would like to introduce AMP and address these concerns. Since it's introduction AMP has developed from a second-class version of a news site to a robust and full-fledged approach of creating any website. Combined with PWA, their features grow exponentially.
+
+Note to organisers: My primary audience for this talk are beginners and small site developers. If requested, I can focus more on the pairing with PWA, which is a rather advanced topic.",Beginners,Keynote speaker is my middle name.,No,https://www.youtube.com/playlist?list=PLTkA4bsrp6QSPCecZVwVb_lmxMNHDSFIy,"Yes, travel and accommodation fees",Berlin,
+6/7/2017 14:11:24,Rowdy Rabouw,rowdy@double-r.nl,double-R webdevelopment,Freelance webdeveloper,"Rowdy Rabouw is a webdeveloper with over 20 years’ experience in HTML, CSS, JavaScript and PHP.
+
+He's been working as a freelancer since 2004 and has been employed by the Dutch insurance company Nationale-Nederlanden since 1992. Currently he is working on various JavaScript and NativeScript projects as Senior Engineer. 
+
+Rowdy started developing NativeScript apps with Angular in 2016 and running the NativeScript NL website; a curated list of courses, tools and tips to help people code awesome apps with NativeScript. 
+
+Since 2017 he is a Telerik Developer Expert for NativeScript and spreading his love for {N}.","https://twitter.com/rowdyrabouw
+https://twitter.com/nativescriptnl
+https://double-r.nl
+https://github.com/nativescriptnl
+https://www.linkedin.com/in/rowdyrabouw/",Talk (~40 mins on Saturday),"Angular, Native apps, NativeScript",Awesome native apps with Angular!,"Building web apps with Angular is awesome.
+What if you could use the same skills to build native mobile apps? You can!
+
+Rowdy Rabouw, webdeveloper for over 20 years, will introduce you to NativeScript.
+
+NativeScript is a free and open-source runtime for building native apps using tools you already know like Angular, CSS, and npm. It renders truly native user interfaces; giving users the best performance and UX their devices can offer.
+
+In this talk, Rowdy will explain what NativeScript is all about and how it compares to other platforms. And in a live demo, he will show you how easy it is to get started and to make use of native capabilities.
+
+He’ll also point you to excellent training videos and documentation so you can go head first developing NativeScript apps with Angular.",Everyone above and beyond,"I have some experience, but I would appreciate some help with improving my skills.",Yes,I've done presentations about NativeScript at Nationale-Nederlanden related to the projects I'm doing ther. I'm not allowed to share the slides from those unfortunately.,"Yes, travel and accommodation fees",The Netherlands,
+6/7/2017 10:54:43,Sam Bellen,sambellen@gmail.com,madewithlove,Software engineer,"I'm a front-end developer at madewithlove, a small app development company based in Belgium, but with employees all over the world. 
+ 
+For my day to day job I'm in charge of creating challenging user interfaces and make applications nice to work with. 
+After office hours I like to play around with the web-audio API, and other ""exotic"" browser APIs. One of my side projects is a library to add audio effects to an audio input using JavaScript.
+ 
+When I'm not behind a computer, you can find me playing the guitar, having a beer at a concert, or trying to snap the next perfect picture.","https://blog.sambego.be
+https://twitter.com/sambego
+https://github.com/sambego",Talk (~40 mins on Saturday),Browser APIs,I didn’t know the browser could do that!,"The times when a browser simply had to parse and show some markup are long gone. These days they are full of interesting api’s exposing various information and behaviour to web developers. This talk will walk you through a few of these api’s (speech, speech recognition, battery, location, ...), some of which you might know, some maybe not. I will show a quick example of what some of these api’s can do, and how to use them.",Beginners,I am an experienced speaker.,No,https://talks.sambego.be (Links to videos where available),"Yes, travel and accommodation fees","Brussels, Belgium",
+7/29/2017 2:50:22,Sarabeth Jaffe,SarabethJaffe@gmail.com,Unloop,Software Development Instructor,"Unfulfilled at my corporate job, I left to join a Seattle-based non-profit. Now I teach software development to 30+ incarcerated men at Washington State's second largest prison.",www.linkedin.com/in/sarabethjaffe,Talk (~40 mins on Saturday),Web Development,Programming in Prison: Web Development behind Bars,"In a plain-looking computer room sits 30+ men wearing khaki-colored shirts and pants, each staring intently at their monitors. Some young, some old, some with tattoos, all with different life stories. These men--many of which have never been on the Internet-- are learning computer programming while serving time at Washington State's second largest prison. 
+
+Gaining employment upon release from prison is one of the largest indicators of successful re-entry into society. With today’s booming tech market, these currently incarcerated men hope to gain the skills needed to obtain web development jobs upon release. 
+
+However, learning programming inside a prison isn’t easy. Each student computer is highly locked-down with limited software and absolutely no Internet access. While most programmers enjoy the benefits of Google and StackOverflow, these students must work with what is available on the classroom’s local network and in the outdated computer manuals available in the facility library.
+
+My name is Sarabeth Jaffe and I teach computer programming at Monroe Correctional Complex. In this talk, I will discuss the many challenges of teaching web development without the web, the Open Source technology that makes it possible, and the many opportunities we--as technologists--have to spread the benefits of the technical knowledge to disadvantaged populations.",Everyone above and beyond,I am an experienced speaker.,No,https://www.youtube.com/watch?v=xz3KgbftMes,"Yes, only travel","United States - Seattle, WA",
+6/7/2017 1:08:37,Serg Hospodarets,shospodarets@gmail.com,Guidewire,Lead Front-End Developer / Engineering Manager,"Serg is a Lead Front-End Developer / Engineering Manager based in Dublin.
+He loves the Web and shares his knowledge in his blog blog.hospodarets.com.
+
+Being a big fan of moving CSS and JavaScript forward, Serg participates specifications debates and discusses new features with the community.
+
+He likes to stay on top of the latest Web technologies and browser additions, participates their development, standardization, and enhancement.
+
+Serg highlights all this and the browsers/DevTools additions on Twitter @malyw","https://twitter.com/malyw
+https://blog.hospodarets.com/
+https://blog.hospodarets.com/about
+https://github.com/malyw
+https://www.linkedin.com/in/malyw/",Talk (~40 mins on Saturday),"Front-End (JavaScript, CSS)",CSS Houdini - from CSS Custom Properties to JavaScript Worklets and back,"Abstract:
+CSS Custom Properties are supported in all the major browsers and provide the ability to use the native CSS variables power, but still, have some restrictions- they are not animatable and cannot be used everywhere.
+What if we have an ability to register the new CSS Custom property and set the behavior for it- from acceptable values, type, to the inheritance, behavior etc.?
+Even though- declare for the browser how to process the variable, which will fully explain the name CSS CUSTOM Property.
+And, if we went so far- let’s go further- take the control on Layout/Paint and Composite stages in the browser.
+If you think it’s not possible, it’s time to learn Houdini Task Force achievements,
+Which will provide all these abilities for developers.
+It will solve the problem of polyfilling the new CSS properties or layouts (imagine, Grid layout polyfilled to all the browsers couple years ago, when the speck draft was just finished).
+This can be used on the browser side as well- sticky header in Chrome is implemented using these specs.
+
+
+Description/Summary:
+Today CSS Custom Properties are supported in all the major browsers.
+Now it’s time to do the next step- to have an ability to register new Custom Properties from JavaScript and setup the browser how to work with them (e.g. real CSS polyfills). They should work with the same performance as the native CSS properties, being animatable and aligned with CSSOM.
+Custom Properties can be used as a bridge between CSS and JavaScript.
+Houdini Task force introduces specs and JavaScript Worklets to expose the interaction with previously fully internal browser rendering mechanisms (during Paint, Layout, Composite stages).
+All this brings Front-End development to the next level, parts of which are already available for the developers.
+
+Anything the Program Committee needs to know?
+As a participant of JS/CSS/HTML specs discussions, I have a significant experience and understanding why some solutions were made in some particular way and can highlight the details of the current state of the art on the bleeding edge of the Web technologies.
+As the Houdini Task Forces started from the Google and then included other major browser developers and companies, the talk may be even more interested for the participants.",Intermediates,I am an experienced speaker.,No,"https://www.youtube.com/watch?v=o2an6ON6i3g&t=982s
+https://speakerdeck.com/malyw/you-might-not-need-a-css-preprocessor
+http://slides.com/malyw/houdini-codemotion#/","Yes, travel and accommodation fees","Dublin, Ireland",
+5/30/2017 9:49:39,Sergejs Luhmirins,sergejs.luhmirins@gmail.com,FullContact,Android Developer,I have been developing Android applications in multiple companies over last 4+ years. Tinkering with Kotlin from the first public releases and using it in production application for the last 6 months. Occasionally giving presentations about Kotlin related topics at local developer meetups.,"https://github.com/siga111
+https://www.linkedin.com/in/sergejs-luhmirins-61a58937/",Talk (~40 mins on Saturday),"Firebase, Kotlin",Writing Firebase Functions in Kotlin,"There is a lot of hype around the serverless architecture and for many products having dedicated servers might not be cost-effective. Such products are the perfect use case for Firebase. 
+Firebase Functions allow you to execute computation directly in the cloud without caring about instances, containers and other infrastructure details. And after the release of Kotlin 1.1 it is possible to write those Functions in Kotlin, receiving all the benefits of this pragmatic and robust language.
+In this talk I will show how to set up and write a simple backend for a mobile application, what problems you may face and what benefits you will receive at the end.",Intermediates,"I have some experience, but I would appreciate some help with improving my skills.",No,"Slides and video (in Russian) from K-Night Riga:
+https://www.youtube.com/watch?v=0YJlLGrTFAU
+https://siga111.github.io/knight-riga-2016-kotlin-android/
+Slides and video from Kotlin 1.1 release event where I gave introductory talk about new features:
+https://www.youtube.com/watch?v=9fHllQ5HV54
+https://docs.google.com/presentation/d/1Di_ijt8_caWoByMxl_WpWIP9feHr8CsHF1Doa9ZdE9M/edit?usp=sharing
+",I don't know yet,Riga,
+6/26/2017 19:49:29,Sergey Kibish,sergey.kibish@gmail.com,GDG Riga / Transact Pro (may change),Software Developer,Sergey is a Software Developer at [Transact Pro](https://www.transactpro.lv/) (Fintech company) and [GDG Riga](https://gdgriga.lv/) organizer. Guy with not a standard vision on things. Can't sit still and don't do something for a long period of time. Love different technology and make useful things with it. Passionate about the web technologies. Love to share knowledge. Don't be afraid to ask questions. ,"https://twitter.com/s_kibish,https://www.linkedin.com/in/kibish/",Talk (~40 mins on Saturday),Bots (Web), Make Bots Great Again,"You already heard about different tools and platform to create bots, like [Hubot](https://hubot.github.com/), [Microsoft Bot Framework](https://dev.botframework.com/), you name it. On the Google I/O were interesting announcements about AI and specifically around [Google Assistant](https://assistant.google.com/), [Actions on Google](https://developers.google.com/actions/), and not so much about [API.ai](https://api.ai/) which can change the way how you think about bots. After this talk you will get the idea, how to create cool bots with API.ai, integrate them with Slack, Google Assistant, and other different services. And it will be served with live demo.",Everyone above and beyond,I am an experienced speaker.,No,"My Deck: https://speakerdeck.com/skibish
+Video: https://www.youtube.com/watch?v=1mTw5esTspY (currently only one, sorry)","Yes, travel and accommodation fees","Riga, Latvia",
+6/16/2017 18:59:03,Sergi Martinez,sergi.martinez@gmail.com,Schbibsted,Android Developer,Android dev for more than 6 years and currently an Android GDE. Always happy to share and learn from community around the world.,github.com/sergiandreplace,Talk (~40 mins on Saturday),Chat bots,Let's talk about Star Wars,"Bots are everywhere! let's review how to use API.AI to create a bot able to answer questions about Star Wars characters in a variety of platforms (Google Home, Telegram, etc)",Intermediates,I am an experienced speaker.,No,"I've collaborated in several events in Spain, also in Porto Devfest, Zurich Apps Builder and Krakow Mobile Conference. Check my slides on https://www.slideshare.net/sergiandreplace",I'm a GDE (so Google can probably cover that),"Barcelona, Spain",
+6/16/2017 19:03:10,Sergi Martínez,sergi.martinez@gmail.com,Schibsted,Android Dev,Android dev for 6 years and now an Android GDE. Always happy to share with community and learn from it,sergiandreplace.com,Workshop (~2 hours on Sunday),Android,It's the arts! Playing around with the Android canvas,"Android Canvas is feared and unkwnon, but it's a very powerful graphic framework. In this workshop we will learn the basics of the Canvas and how to perform cool graphical effects without effort",Intermediates,I am an experienced speaker.,No,"I performed this workshop in Barcelona and Porto. Find the slides under https://www.slideshare.net/sergiandreplace/its-the-arts-playing-around-with-the-android-canvas. Original workshop was 4 hours long, but I'll reduce it to fit 2 hours",I'm a GDE (so Google can probably cover that),"Barcelona, Spain",nope
+6/7/2017 8:37:39,Shem Magnezi,smagnezi8@gmail.com,WeWork,Senior Full-Stack Developer,"Shem has almost a decade of experience in developing in various domains: client and server side, real-time systems, Big Data and mobile. In the last 5 years he has been playing with mobile and in the past year he's been trying to figure out what it means to be a web developer. He was the first employee in MyRoll (acquired by AVG), where he designed and developed the platform for the app in both iOS and Android. Currently, Shem is doing what he loves at WeWork.","http://shem8.github.io/
+https://twitter.com/shemag8
+https://medium.com/@shemag8
+https://github.com/shem8",Talk (~40 mins on Saturday),Soft skills,Grow yourself as an individual contributor,"We're living in a dynamic world- every day we hear about another language, a unique technology or new features. Developers can't stand in their place and they must adapt quickly. That's why the most important tool for you is to learn how to learn new things effectively. In this talk, I'll review ways to keep yourself up-to-date and grow yourself as an individual contributor.",Beginners,I am an experienced speaker.,No,"You can find some of my talks here (videos & slides):
+http://shem8.github.io/talks/
+
+I have been talking in some big tech conferences in Israel, like Droidcon Tel Aviv, REVERSIM SUMMIT, and Geektime Techfest.","I'll try to do my best asking my company to cover all my expenses, but I don't know yet.","Tel-Aviv, Israel.",
+6/7/2017 8:37:42,Shem Magnezi,smagnezi8@gmail.com,WeWork,Senior Full-Stack Developer,"Shem has almost a decade of experience in developing in various domains: client and server side, real-time systems, Big Data and mobile. In the last 5 years he has been playing with mobile and in the past year he's been trying to figure out what it means to be a web developer. He was the first employee in MyRoll (acquired by AVG), where he designed and developed the platform for the app in both iOS and Android. Currently, Shem is doing what he loves at WeWork.","http://shem8.github.io/
+https://twitter.com/shemag8
+https://medium.com/@shemag8
+https://github.com/shem8",Talk (~40 mins on Saturday),Android,Good rules for Bad apps,"Building a decent app is easy this days, there are plenty of tutorials, videos and blog post about it. In this session I’ll try to go over some of the top mistakes that everyone of us is doing while building his app. This will cover all the aspects of building bad app- technical, UI & UX, and product. So each one of you will be able to adapt his own favorite bad pattern and ruin his app. ",Intermediates,I am an experienced speaker.,No,"You can find some of my talks here (videos & slides):
+http://shem8.github.io/talks/
+
+I have been talking in some big tech conferences in Israel, like Droidcon Tel Aviv, REVERSIM SUMMIT, and Geektime Techfest.","I'll try to do my best asking my company to cover all my expenses, but I don't know yet.","Tel-Aviv, Israel.",
+7/18/2017 14:37:39,Simon MacDonald,simon.macdonald@gmail.com,Adobe,Senior Software Scientist,"Simon has over twenty years of development experience and has worked on a variety of projects including object oriented databases, police communication systems, speech recognition and unified messaging. His current focus is contributing to the open source PhoneGap project to enable developers to create cross platform mobile applications using Web technologies. Simon’s been building web applications since the days they were written using shell scripts and he still has nightmares about those dark days.
+","https://www.simonmacdonald.com/
+https://twitter.com/macdonst
+https://github.com/macdonst",Talk (~40 mins on Saturday),Web/Mobile,Cross Platform Progressive Web Apps,"Progressive Web Apps are the new hotness with Google pressing hard to make them the defacto choice for building mobile applications but what's to be done about iOS where many of the key API's are not supported. That's where Apache Cordova/PhoneGap comes in by polyfilling the missing functionality. In this talk I'll show you how to create a PWA that runs on the web, Android and iOS from a single code base. Take advantage of some new tools to easily deploy and test your PWA.
+
+I will begin with a brief overview of Progressive Web Apps, what features make your web app progressive and which API's you can take advantage of. Then I will discuss the availability of these API's on various platforms. Taking care not to completely dump on Apple for falling behind. No, that's a lie. I will jokingly take Apple to task.
+
+Once the promise of PWA's has been illustrated and the problem of them not exactly being cross platform I will introduce Apache Cordova/PhoneGap, briefly, explaining how you can use Apache Cordova/PhoneGap to deploy a web application to Android and iOS. This will lead me into explaining how Cordova plugins allow us to polyfil the missing functionality on iOS.
+",Everyone above and beyond,I am an experienced speaker.,No,"I've spoken at tons of conferences and meetup's around the world. Including by not limited to OSCON, FITC Web Unleashed, PhoneGap Day US & EU, NCDevCon, Ottawa JS, Toronto JS, Hybride Mobile Paris, Ionic UK, Modern Web, etc. and All Things Open.
+
+Sadly, I've been the victim of technical difficulties with regards to recording of video's many, many times. A few video examples that actually worked are:
+
+https://www.youtube.com/watch?v=oXiel-iZOos
+https://www.youtube.com/watch?v=LmWcc7cjCBU
+https://www.youtube.com/watch?v=bECNq4wCWnA","Yes, travel and accommodation fees","Ottawa, Canada",
+7/18/2017 14:39:46,Simon MacDonald,simon.macdonald@gmail.com,Adobe,Senior Software Scientist,"Simon has over twenty years of development experience and has worked on a variety of projects including object oriented databases, police communication systems, speech recognition and unified messaging. His current focus is contributing to the open source PhoneGap project to enable developers to create cross platform mobile applications using Web technologies. Simon’s been building web applications since the days they were written using shell scripts and he still has nightmares about those dark days.","https://www.simonmacdonald.com/
+https://twitter.com/macdonst
+https://github.com/macdonst",Talk (~40 mins on Saturday),Web/Mobile,Building Mobile Apps with Framework7 and Vue,"In this presentation we'll introduce Vue.js, setup a webpack build, extoll the virtues of its reactive data binding and composble interface all while building an Instagram like app. Using Framework 7 to provide the basic UI for Android and iOS for those of us, like myself, who are CSS challenged.
+
+Vue.js is a library for building interactive web interfaces. The goal of Vue.js is to provide the benefits of reactive data binding and composable view components with an API that is as simple as possible.
+
+Framework7 - is a free and open source mobile HTML framework to develop hybrid mobile apps or web apps with iOS & Android native look and feel. It is also an indispensable prototyping apps tool to show working app prototype as soon as possible in case you need to.
+",Intermediates,I am an experienced speaker.,No,"I've spoken at tons of conferences and meetup's around the world. Including by not limited to OSCON, FITC Web Unleashed, PhoneGap Day US & EU, NCDevCon, Ottawa JS, Toronto JS, Hybride Mobile Paris, Ionic UK, Modern Web, etc. and All Things Open.
+
+Sadly, I've been the victim of technical difficulties with regards to recording of video's many, many times. A few video examples that actually worked are:
+
+https://www.youtube.com/watch?v=oXiel-iZOos
+https://www.youtube.com/watch?v=LmWcc7cjCBU
+https://www.youtube.com/watch?v=bECNq4wCWnA","Yes, travel and accommodation fees","Ottawa, Canada",
+7/13/2017 16:54:20,Sofia,sofia.huts@gmail.com,JustAnswer,Full Stack Software Engineer,"Sofia has been working as Full Stack Software Engineers for last 3 years and she is really passionate about web, especially everything related to Progressive Web Apps and developing fancy web application using Polymer. She always tries to go beyond the day to day life and learn something new, for now is interested a lot in Machine Learning.
+Despite that, Sofia is a manager of GDG Lviv and also leads local WTM community in Lviv. Additionally, one of organisers of GDG DevFest Ukraine (https://devfest.gdg.org.ua/). 
+","https://www.linkedin.com/in/sofiya-huts-4b314a9a
+https://www.facebook.com/sophie.huts.7
+https://twitter.com/sophie_h29
+",Talk (~40 mins on Saturday),"Web, Firebase",Go beyond the web development with Firebase Cloud Functions,"The main thought - developers should be able to enjoy their work. 
+Assume you’ve started working on development of the web application. By the time you’ve got to the spot of enjoyable developemt, you would have to go through all the complex details of  building the basement for your app, taking care about the backend, servers and more...Cloud Functions allows Firebase developers to create a backend without having to worry about servers. During the talk you will learn what's possible with Cloud Functions and how it can be used for many different key use cases for your web app. You'll see real world examples that show how Cloud Functions for Firebase is the programmatic glue that allows you to extend and connect Firebase products and cloud services.
+",Beginners,"I have some experience, but I would appreciate some help with improving my skills.",Yes,"Speaker at GDG DevFests in Belarus (2015), Poland  (2016), Switzerland  (2016), Czech Republic  (2016), Toulouse  (2016)
+https://drive.google.com/open?id=0BxVrjMGUgQYETWRYcXBBY2ZreTg
+
+https://www.youtube.com/watch?v=vkyzuAK8kPU&t=1741s","Yes, travel and accommodation fees","Lviv, Ukraine",
+6/10/2017 14:50:20,Tanay Pant,tanay1337@gmail.com,Mozilla Foundation,Tech Speaker,"Tanay Pant is an Indian author, hacker, developer and tech enthusiast. He is best known for his work on ""Building a Virtual Assistant for Raspberry Pi"" and ""Learning Firefox OS Application Development"". He is also an official representative of Mozilla. He has been listed in the about:credits of the Firefox web browser for his contributions to the different open source projects of the Mozilla Foundation.","http://tanaypant.com
+https://github.com/tanay1337
+https://twitter.com/tanay1337
+https://linkedin.com/in/tanay1337",Talk (~40 mins on Saturday),"UX, VR/AR",Web Based Virtual Reality,"Virtual Reality is a new technology used for building realistic experiences for games, environments, content display as well as marketing. Any person with a basic understanding of HTML5, CSS and JavaScript would be able to follow through the code examples. The talk would run through topics like VR, WebVR API, A Frame and designs, testing applications on Google Cardboard and so on. In these apps, users will be able to test the VR environments on their laptops, walk through the virtual world, interact with the objects as well as perceive these virtual realities with the help of Google Cardboard. By the end of the session, the user will have a complete understanding of what WebVR is, various VR devices available, requirements to start working on WebVR and the popular WebVR based projects. The user will also be comfortable in using A-Frame and its various components to build their own VR projects.",Beginners,I am an experienced speaker.,No,"DevFest Siberia 2016
+CodeMotion Rome 2017
+CodeMotion Tel Aviv 2017
+DUMP Ekaterinburg 2017","Yes, only accommodation",Berlin,
+4/20/2017 13:23:05,Tester Formuláře,david@vavra.me,Step Up Labs,"CEO, bitch",I'm mighty CEO,"https://david.vavra.me
+https://github.com/davidvavra",Talk (~40 mins on Saturday),Android,Everything wrong with Android,Why Android sucks balls,Jedis,Level: Steve Jobs,No,Here is a playlist of my talks in English: https://www.youtube.com/playlist?list=PLS-qkkybomUmy75S2JViZBCDwfSGoATku,I'm a GDE (Google can probably cover that).,Mars,
+7/31/2017 15:55:36,Tomáš Hubálek,tom.hubalek@gmail.com,Indie developer,Indie developer,I'm Android indie developer since 2010. I'm creating and selling my own apps for living.,https://play.google.com/store/apps/developer?id=Tomas+Hubalek,Talk (~40 mins on Saturday),Marketing your application on Play Store,(TBD) How to design app to be easily sellable on Play Store,It will be based on my experience lauching new apps this year.,Intermediates,I am an experienced speaker.,No,I was already presenting on DevFest couple years ago. As well as on mDevCamp.,I don't know yet,Frenštát pod Radhoštěm,
+7/31/2017 15:16:59,Tomáš Jukin,nanos311@gmail.com,Juicymo,CTO,"I am Swift/iOS and Ruby on Rails Software Engineer, Internet of Things & Open Hardware enthusiast, Entrepreneur and Public Speaker.
+","https://about.me/Inza
+https://twitter.com/Inza
+https://github.com/Inza",Talk (~40 mins on Saturday),"iOS, Swift, Ruby on Rails, IoT","Mám více možných témat, dle pokynů od Elišky jsou vypsána níže v popisu pod sebou","Mám více možných témat (konkrétně tři, z různých oblastí, jedno je iOS, druhé je Ruby on Rails a třetí je IoT), dle instrukcí od Elišky je vypisuji pod sebe oddělená hvězdičkami. Přednášel bych v EN.
+
+***
+
+Excellent iOS Apps Architecture with MVVM & RxSwift
+
+Apple never provided any solution or guide on how to make a state-of-the-art iOS app architecture. But the global iOS developer community never sleeps! Let's take a look together how a state-of-the-art architecture of iOS app should looks like. Let's dive into the refreshing waters of MVVM+, FlowControllers, DI and RxSwift. Code is included!
+
+[for intermediates or experts]
+
+***
+
+A cute garden where Web Apps are grown with fun (and Ruby on Rails 5.1)
+
+Every mature mobile app or responsive website needs a backend or Web App. There are many technologies you can use for that purpose. But only one of them found it's way into my Heart. Let me show you how much fun and productivity you can get while building a well tested Web App. Ruby on Rails lets you focus on things that matter instead of the boring ones. And with version 5.1 a much closer cooperation with your favourite frontend technology is now possible. It does not matter if you prefer jQuery, React, Angular or Dart. Or anything else. Rails will be happy to talk to everybody. Code is included!
+
+[for beginners or intermediates, the TDD (Test Driven Development) part can be interesting even for experts or jedis]
+
+***
+
+When a Robot is smart enough?
+
+Internet of Things (IoT) covers many areas, but the most interesting ones (at least for me) are Robotics and AI. Where is the moment when a machine or robot is ""smart enough""? Let's explore this area a bit together and let's see some examples. How difficult is to build a Smart Robot? Could you build one at home? The answer is Yes! And I will show you how. From the basic steps on #Arduino, to the beauty of more complex examples and solutions like SLAM, optical recognition, path finding or steering behaviours. Live demo is included!
+
+[for everybody interested in IoT or robotics, they do not require big or deep knowledge. Some parts are interesting even to experts]",Everyone above and beyond,I am an experienced speaker.,No,"Eliška ví ;), Keynote na DevFestu 2013, přednášení na DevFestu 2014, přednášení na mDevCamp, přednášení na WebExpo, ... ","No, I got it","Prague - budu možná dělat taxikáře Kasper Lund z letište a plánuji pro něj udělat prohlídku Prahy s komentářem v EN, pokud by se chtěli přidat i další spekři, je to možné ;)",
+7/11/2017 19:34:52,Tomáš Komenda,tomas.komenda@firma.seznam.cz,Seznam.cz,SW Architect,"Tomas is a big-data architect and a database specialist in a Czech company called Seznam.cz. He works at advertising system Sklik.cz (PPC, banners, video). He has over ten years’ experience with design, development and optimization of database systems while focusing on MySQL, HBase, Impala, Solr and Hive. He organizes MySQL and Hadoop trainings and workshops for his colleagues at Seznam and externally for other companies and Czech universities. ",https://www.linkedin.com/in/tom%C3%A1%C5%A1-komenda-41a6b596/,Talk (~40 mins on Saturday),"databases, data lake, big data, MySQL, MongoDB, HBase, Hive, Solr",Modern Data Lake: Ecosystem for real-time big data overviews,"We will describe one of the most challenging projects of our advertising system called Sklik.cz. We will talk about our journey from a single database to a complex and modern data lake. The first step was to split one large MySQL database into multiple shards. Each shard is one Galera cluster. On top of these clusters we built an in-house routing mechanism. Statistical data were migrated into HBase cluster where we implemented an aggregation and sorting system using HBase coprocessors and filters for mass statistical data aggregation and web-based viewing in real-tim. Data changes are tracked and stored in MongoDB cluster (MongoRocks) for the real-time historical reconstruction. Later the data are transformed into ORC format via our MongoDB connector and stored in Hadoop for more demanding analytics through Hive/Impala. Text phrases stored in MySQL, HBase, and MongoDB are indexed via SolrCloud. Besides databases described above, our data lake contains other three open source databases (Cassandra, Aerospike, CouchBase). The whole data lake is built across two datacenters and it stores TBs of various type of data. ",Beginners,I am an experienced speaker.,No,"https://www.percona.com/live/data-performance-conference-2016/sessions/mysql-and-impala-ecosystem-sql-friendly-hadoop, https://www.percona.com/live/europe-amsterdam-2015/sessions/mysql-and-hbase-ecosystem-real-time-big-data-overviews, https://www.percona.com/live/data-performance-conference-2016/sessions/solr-how-index-10-billion-phrases-mysql-and-hbase","No, I got it","Brno, CZ",Michal Fizek - Development Team Leader at Seznam.cz
+6/1/2017 20:15:43,Tomáš Zvěřina,tomucha@gmail.com,fnx.io,Founder,Google Developer Expert on Dart and Google Cloud Platform,https://twitter.com/tomucha,Talk (~40 mins on Saturday),Dart,Flutter - jak to funguje?,Zjistíme jak postavit mobilní aplikaci ve Flutteru a prozkoumáme jeho architekturu.,Beginners,I am an experienced speaker.,No,https://www.youtube.com/results?search_query=tom%C3%A1%C5%A1+zv%C4%9B%C5%99ina,"No, I got it",Řevnice !,
+7/12/2017 10:02:50,Václav Pavlín,vasek@redhat.com,Red Hat,Architect - Senior Software Engineer,"Red Hatter for 5 years, working with containers for last 4 years. Currently in Developer Tools team making developers' life easier.","vpavlin.eu, https://twitter.com/vpavlin",Talk (~40 mins on Saturday),"Cloud, Containers, Kubernetes",Basic Concepts of Containers Orchestration,"Containers are great, but container technologies solve only part of the problem. Once you get container images, you need to run them, orchestrate them, scale them, make sure they don't fail randomly etc. This is a task for orchestration tools - and there are couple of them. Luckily, they share basic concepts. Sadly, containerisation and specifically making your app ready for scalable environment, might require you to change your app. You'll learn about these concepts and how orchestration of containerised applications work in this presentation.",Intermediates,Keynote speaker is my middle name.,No,"Slides: https://docs.google.com/presentation/d/1IkN0L6idjsirq25PLK7Mb9UYSJ6VJRH4QLcTKpa9wGA/edit?usp=sharing
+
+Older talk: http://www.motivp.com/shop/video/Nulecule-how-to-define-distribute-and-deploy-multi-container-applications","No, I got it",Brno,
+7/12/2017 10:06:20,Václav Pavlín,vasek@redhat.com,Red Hat,Architect - Senior Software Engineer,"Red Hatter for 5 years, working with containers for last 4 years. Currently in Developer Tools team making developers' life easier.","vpavlin.eu, https://twitter.com/vpavlin",Talk (~40 mins on Saturday),"Cloud, Containers, Kubernetes, Automation, DevOps",Automate your DevOps life with OpenShift Pipelines,"What if you could automate your DevOps life? Let’s first talk briefly about OpenShift and Jenkins and then dive deep into their integration - OpenShift Pipelines. They let you create your CI/CD around containers simply and efficiently. If the demo gods are with us, you’ll see it all live and shiny.",Intermediates,Keynote speaker is my middle name.,No,"Slides: https://docs.google.com/presentation/d/1zTMPYpBtkTTvKA4jGtETwiDnHiRM52uJ1w1orMrwSKA/edit?usp=sharing
+
+Multiple meetups, DevConf India, DevConf Roadshow(s), LinuxCon, Red Hat Summit...","No, I got it",Brno,
+7/27/2017 22:11:59,Vaclav Souhrada,v.souhrada@gmail.com,eMan s.r.o.,Senior Android Developer,"I'm Android Developer at eMan which is a Czech company providing innovative solutions.
+I have almost 10 years of experience in software development field.
+
+I'm proud to be the Czech Kotlin User Group Founder & Organizer. I fell in love with Kotlin even before it was cool. I've been using Kotlin for two years already not only for Android, but at the beginning I also used it as a replacement for JavaScript and prototyping of small microservices. I'm fully focusing on everything around Kotlin language and organizing the Czech Kotlin User Group meetups.
+
+In my spare time I enjoy playing ice hockey, drinking Pilsner Urquell and following tech trends.","https://www.facebook.com/vaclav.souhrada
+https://twitter.com/vsouhrada
+https://plus.google.com/u/0/+VaclavSouhrada
+https://www.linkedin.com/in/v%C3%A1clav-souhrada-7488755b/
+https://www.facebook.com/czkug/
+https://twitter.com/KotlinCzech",Talk (~40 mins on Saturday),"Android, Kotlin",Kotlin for Android,"Using Kotlin for Android development has grown in popularity over the last year especially after this year's Google I/O 17 where Google announces Kotlin for Android to be a first-class language for writing Android apps.
+
+In this talk, we will go through all advantages of using Kotlin for Android development. You will see how can be a development of Android apps again fun. You will get answers to questions such like: Should I rewrite a whole application to Kotlin? Should I wait? Where is the power of Kotlin for Android and what tools are available? Less code, more fun.",Beginners,"I have some experience, but I would appreciate some help with improving my skills.",Yes,"From internal dev session
+(00:36:00 - 01:20:00)https://www.youtube.com/watch?v=N_7Rpb0FewA&feature=youtu.be&t=102
+
+#1st Czech Kotlin User Group meetup
+https://www.youtube.com/watch?v=cw5fFVMZ7Io&feature=youtu.be
+https://www.slideshare.net/emanprague/eman-dev-meetup-kotlin-a-language-we-should-know-it-exists-part-0203
+https://www.slideshare.net/emanprague/eman-dev-meetup-kotlin-for-android-part-0303
+
+Next I had some talks on ZCU in Pilsen about EEG and signal processing (as a studen so no records)","No, I got it","Pilsen, Czech Republic",
+7/27/2017 22:42:58,Vaclav Souhrada,v.souhrada@gmail.com,eMan s.r.o.,Senior Android Developer,"I'm Android Developer at eMan which is a Czech company providing innovative solutions.
+I have almost 10 years of experience in software development field.
+
+I'm proud to be the Czech Kotlin User Group Founder & Organizer. I fell in love with Kotlin even before it was cool. I've been using Kotlin for two years already not only for Android, but at the beginning I also used it as a replacement for JavaScript and prototyping of small microservices. I'm fully focusing on everything around Kotlin language and organizing the Czech Kotlin User Group meetups.
+
+In my spare time I enjoy playing ice hockey, drinking Pilsner Urquell and following tech trends.","https://www.facebook.com/vaclav.souhrada
+https://twitter.com/vsouhrada
+https://plus.google.com/u/0/+VaclavSouhrada
+https://www.linkedin.com/in/v%C3%A1clav-souhrada-7488755b/
+https://www.facebook.com/czkug/
+https://twitter.com/KotlinCzech",Workshop (~2 hours on Sunday),"Android, Kotlin",Create Your First Android App in Kotlin,"The main goal of this workshop is that you will learn how to build and run your first Android app written in Kotlin from scratch.
+
+ You will learn how to set up Android project and Gradle for using it with Kotlin. Next, you will learn how to write the KDoc documentation and how to generate it by using the Dokka tool. Output application will demonstrate main advantages of Kotlin for Android development and good starting point for you. 
+
+You will need a computer that can run Android Studio 3.",Beginners,"I have some experience, but I would appreciate some help with improving my skills.",Yes,"From internal dev session
+(00:36:00 - 01:20:00)https://www.youtube.com/watch?v=N_7Rpb0FewA&feature=youtu.be&t=102
+
+#1st Czech Kotlin User Group meetup
+https://www.youtube.com/watch?v=cw5fFVMZ7Io&feature=youtu.be
+https://www.slideshare.net/emanprague/eman-dev-meetup-kotlin-a-language-we-should-know-it-exists-part-0203
+https://www.slideshare.net/emanprague/eman-dev-meetup-kotlin-for-android-part-0303
+
+Next I had some talks on ZCU in Pilsen about EEG and signal processing (as a studen so no records)","No, I got it","Pilsen, Czech Republic",
+6/23/2017 11:33:24,Věrka Koukalová,verka@robeeto.com,"Robeeto, Fragile Media",Happiness Manager,"I am Senior marketing & HR manager with 8+ years experience, incl. Google. Now I am focusing on happiness at work, company culture and startups. I teach people, how to build teams, motivate them and how new employement market works. I do write articles about HR and happiness management to a magazine Statutární zástupce firem (for CEOs, boards) and do workshop for Forum publishing house. My last talk was for GBG Prague about Happiness management and was very well rated.","search for Verudellita (Twitter, Instagram, Facebook, LinkedIN - verka.koukalova)",Talk (~40 mins on Saturday),Softskills,It's aliiiiive!,"Welcome to our ""failcon"" story of how we created Robeeto - a startup of shared economics. Learn from our mistakes and more - how to work with the initial idea, who else do you need except you as a developer. How we learned from our mistakes, redesigned the idea and created an ecosystem of people who love what they do. Step by step, we will look at the process from idea to creating your own monster. So you can call with us - It's aliiiiive!!! 
+
+We can also present in Czech or do this as workshop. Your choice :-)",Everyone above and beyond,Keynote speaker is my middle name.,No,"Věrka - frequent GBG speaker, also spoke on last Prague Devfest (Monetizace mobilních aplikací, I moderated GBG workshop), Google Partners Trainer for Mobile and B level manager training - Digital Garage speaker, workshops for Google. 
+https://www.youtube.com/watch?v=318nm5K1kI4
+https://www.youtube.com/watch?v=yArQZWpXMNM
+https://www.youtube.com/watch?v=OnQTGP5fKAk
+
+Standa - Franchise Day - http://www.franchiseday.cz/cz/, Multichannel Conference - http://admez.cz/multichannel/2017/","No, I got it",CZ,Stanislav Koukal - CEO of Robeeto. Expert in marketing and shared economics. Now leading a startup that brings concept of ecommerce to market of services. Together we are a power couple with about 15 years of experience :-)))
+6/7/2017 10:02:34,Vigneshwer,dvigneshwer@gmail.com,Mozilla,TechSpeaker,"Vigneshwer is an innovative data scientist with an artistic perception of technology and business, having 3+ years of experience in various domains such as IOT, DevOps, Computer Vision & Deep Learning and is currently engaged as a research analyst crunching real-time data and implementing state of art AI algorithms in the Innovation and development lab of the world’s largest decision science company in Bengaluru, India.
+ 
+He is a Mozilla TechSpeaker program member and has been associated with Mozilla communities and initiatives for more than 4 years conducting 100+ events in his regions. He strongly believes and evangelises that technology needs to have a human centric design & workflow in order to create solutions for a diverse audience. He recently delivered a session about AI engineering in the open science space at Mozfest 16 & HKOScon 17. He speaks regularly about rust / ML in various local meetup groups and is the author of Rust Cookbook by Packt publisher. ","https://github.com/dvigneshwer, https://twitter.com/dvigneshwer",Talk (~40 mins on Saturday),"AI, IOT",Building Artificial Intelligence Units in Rust,"Learn to build an end-to-end, high-performance artificial intelligence algorithm in Rust language capable of predicting whether male or female is the subject of the image captured from an edge device like a mobile camera.
+ 
+The speciality of the session is that all the functional units starting from the web server, front end web app and algorithm are developed in rust language.
+",Everyone above and beyond,I am an experienced speaker.,No,"https://hkoscon.org/2017/topics/building-artificial-intelligence-units-in-rust/
+https://www.youtube.com/watch?v=CfkA_ajGN5w
+
+Speaking Credentials: 
+Delivered a session on demystifying AI in open science space 
+Spoke about building AI models in rust at FOSSMEET17 @NITC
+Speaker at HKOSCon 2017
+
+Speaker Credentials:
+Mozilla TechSpeaker 
+Founder and project lead for DeepRust, a deeplearning library in Rust
+Author of Rust Cookbook by Packt publisher
+3+ experience in implementing state of art ML algos for production IOT pipelines","Yes, travel and accommodation fees","Bengaluru, India",NIL
+7/26/2017 21:19:20,Vit Listik,tivvit@seznam.cz,"Seznam,cz","Python, machine learning developer",Passionate developer working with machine learning models at scale. ,https://www.linkedin.com/in/tivvit/,Talk (~40 mins on Saturday),"cloud, ml, dev, python",crypto currency trading algo,How to write system which makes you money,Intermediates,"I have some experience, but I would appreciate some help with improving my skills.",Yes,tivvit.cz/talks,"No, I got it",Prague,
+6/25/2017 23:28:10,Vitaliy Zasadnyy,zasadnyy.vitalik@gmail.com,GetSocial,Head of Mobile,"Vitaliy’s background includes mobile application and game development. Nowadays, he is leading the development of the next generation in-app marketing tools at GetSocial. He is a frequent speaker at world class tech conferences and TEDx. Founder of the Google Developers Group Lviv.","https://zasadnyy.com, https://twitter.com/zasadnyy, https://www.linkedin.com/in/zasadnyy/",Talk (~40 mins on Saturday),Android,J2ObjC - Crossplatform Development in a Google Way,"The war between mobile platforms is over. After several years of active competition, we’ve got two operating systems with almost the same quality and feature set.
+
+For mobile developers, this means that all further projects should target at least two platforms. In this talk, Vitaliy will share results of J2ObjC, a Java to Objective-C translation tool developed by Google, after a year in production.
+
+J2ObjC goal is to write an app’s non-UI code, such as application logic and data models, in Java, which is then shared with no editing by Android and iOS apps.
+
+After a talk, you will get a solid understanding how J2ObjC works, for which use cases it is a great tool and for which it is a poor choice. With detailed explanations ""why?"".",Intermediates,I am an experienced speaker.,No,"https://speakerhub.com/speaker/vitaliy-zasadnyy,
+https://www.youtube.com/channel/UCZuD7FqMvpjr_onzMl3MnuQ","Yes, travel and accommodation fees","Amsterdam, NL",
+6/25/2017 23:30:42,Vitaliy Zasadnyy,zasadnyy.vitalik@gmail.com,GetSocial,Head of Mobile,"Vitaliy’s background includes mobile application and game development. Nowadays, he is leading the development of the next generation in-app marketing tools at GetSocial. He is a frequent speaker at world class tech conferences and TEDx. Founder of the Google Developers Group Lviv.",see previous submission,Talk (~40 mins on Saturday),Android ,How not to fuckup with building SDK and make clients happy,"Are you working on the client library? Or design a public API for the module that is going to be used by other team or department?
+
+In this session, Vitality will share his experience and key learnings from building a mobile SDKs for last 4 years:
+
+what is the cost of too complex API and how to simplify it;
+what aspects of the library are important for clients;
+how documentation should look like to avoid stupid and repetitive support questions;
+how to make library update process smooth.
+The session will be interesting for Android and iOS developers who want to learn what makes client library great. What are the best practices and common pitfalls in public API design? What is important, only programming API you expose or also ecosystem around?",Everyone above and beyond,I am an experienced speaker.,No,"https://speakerhub.com/speaker/vitaliy-zasadnyy,
+https://www.youtube.com/channel/UCZuD7FqMvpjr_onzMl3MnuQ","Yes, travel and accommodation fees","Amsterdam, NL",
+5/29/2017 10:08:20,Vladislav Iliushin,iliushin@avast.com,Avast,Avast Hacker,"Vladislav is working in mobile and IoT security. In the past he did a several experiments, like accessibility and hackability of web cams in Czech republic, security analysis of consumer applications such as Target or the demo of insecurity of IoT home appliances. Vladislav is working for Avast at R&D of next-gen security solution for Android. ","https://www.linkedin.com/in/iliushin/
+https://www.facebook.com/vlad.iliushin",Talk (~40 mins on Saturday),IoT,Dark side of IoT,"Let's take a look into the world of IoT devices. How much time will it take to hack a coffee machine or a kettle, get inside your local network or use remote control apps against you. ",Everyone above and beyond,I am an experienced speaker.,No,"Mobile Marketing 2016
+Smart Cards and Device Forum - presentation + panel discussion
+Webexpo","No, I got it",Prague,
+7/31/2017 13:10:29,Yonatan Levin,parahall@gmail.com,KolGene,CTO,"Yonatan is one of Israel's top mobile developers and part of the elite Google Developer Experts. He played a key role in the success of Gett which has raised over $500M and secured funding for his startup KolGene, a genetics market connector that's making big waves. Lovingly committed to Mobile & Product Management, Yonatan has also had passionate affairs with backend tech. Accomplished developer and entrepreneur, he knows exactly what's needed to transform smart ideas into lucrative products. ","medium.com/@yonatanvlevin/
+https://twitter.com/parahall
+https://www.facebook.com/levin.yonatan
+https://www.linkedin.com/in/levinyonatan/
+",Talk (~40 mins on Saturday),"Android, Firebase",Android O - Saving Our Galaxy 1% at a Time,"Imagine Luke Skywalker flying to save the galaxy when he realizes his ComLink is running out of battery because of all the SnapChats C3-PO sent him of his homemade Oreos. With 1% battery remaining he tries to text Big Poppa Darth V. that he is alright and not to worry - when the communicator dies. These are serious, real-life problems we must remedy, people.
+
+Thankfully, the new Android release is coming and with it new restrictions on background service to save user's’ phone battery. The new restrictions require adapting architecture of your app.
+At this talk, we will delve into the various architecture and how they can be improved with the new changes.",Intermediates,Keynote speaker is my middle name.,No,"Some of my presentation you can find here: https://www.slideshare.net/yoni1984
+After sawing couple of slides being taken without reference - I'm not updating it with my recent talks.
+https://www.youtube.com/watch?v=jy8vC5H2vJw&t=1s",I'm a GDE (so Google can probably cover that),Tel Aviv,
