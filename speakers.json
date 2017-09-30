@@ -1009,6 +1009,16 @@
         "icon": "linkedin",
         "link": "https://www.linkedin.com/in/tivvit/",
         "name": "LinkedIn"
+      },
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/tivwvit",
+        "name": "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "https://tivvit.cz/",
+        "name": "Website"
       }
     ],
     "tags": [
