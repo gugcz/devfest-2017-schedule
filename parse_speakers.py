@@ -28,6 +28,7 @@ def fill_talk_speaker(r, speakers, speaker_c, talk_c):
     speakers[r["Name"]]["tags"] = talks[str(talk_c)]["tags"]
     speakers[r["Name"]]["photoUrl"] = speakers[r["Name"]]["photoUrl"].format(
         r["Name"].lower().replace(" ", "_"))
+    speakers[r["Name"]]["id"] = speaker_c
     speak.append(speakers[r["Name"]])
 
     return speak, talks
@@ -161,9 +162,9 @@ def main():
             talk_c += 1
 
     json.dump(speakers_final, open("speakers.json", "w", encoding="utf-8"),
-              ensure_ascii=False)
+              ensure_ascii=False, sort_keys=True)
     json.dump(talks, open("talks.json", "w", encoding="utf-8"),
-              ensure_ascii=False)
+              ensure_ascii=False, sort_keys=True)
 
 
 if __name__ == "__main__":
