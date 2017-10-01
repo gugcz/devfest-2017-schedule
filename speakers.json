@@ -681,6 +681,11 @@
         "icon": "facebook",
         "link": "https://www.facebook.com/vlad.iliushin",
         "name": "Facebook"
+      },
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/iliushin_",
+        "name": "twitter"
       }
     ],
     "tags": [
@@ -863,6 +868,11 @@
         "icon": "linkedin",
         "link": "https://www.linkedin.com/in/sergejs-luhmirins-61a58937/",
         "name": "LinkedIn"
+      },
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/luhmirins",
+        "name": "twitter"
       }
     ],
     "tags": [
