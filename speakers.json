@@ -30,7 +30,7 @@
     "id": 2,
     "name": "Rebecca Franks",
     "photoUrl": "/images/people/rebecca_franks.jpg",
-    "shortBio": "TODO",
+    "shortBio": "👩‍💻 • Google Expert for #Android & #AndroidThings  • International speaker • Android Engineering Lead @DVT_Corporate • Blogging at https://t.co/Efpspi2ZBH",
     "socials": [
       {
         "icon": "twitter",
@@ -67,7 +67,7 @@
     "id": 3,
     "name": "Sofia Huts",
     "photoUrl": "/images/people/sofia_huts.jpg",
-    "shortBio": "TODO",
+    "shortBio": "",
     "socials": [
       {
         "icon": "linkedin",
@@ -100,7 +100,7 @@
     "id": 4,
     "name": "Radek Simko",
     "photoUrl": "/images/people/radek_simko.jpg",
-    "shortBio": "TODO",
+    "shortBio": "Software Engineer at @hashicorp working on #terraform.",
     "socials": [
       {
         "icon": "github",
@@ -135,6 +135,11 @@
     "shortBio": "TODO",
     "socials": [
       {
+        "icon": "twitter",
+        "link": "https://twitter.com/thubalek",
+        "name": "Twitter"
+      },
+      {
         "icon": "website",
         "link": "https://play.google.com/store/apps/developer?id=Tomas+Hubalek",
         "name": "Website"
@@ -157,6 +162,11 @@
     "photoUrl": "/images/people/petr_nálevka.jpg",
     "shortBio": "TODO",
     "socials": [
+       {
+        "icon": "twitter",
+        "link": "https://twitter.com/petrnalevka",
+        "name": "Twitter"
+      },
       {
         "icon": "website",
         "link": "https://en.gravatar.com/petrnalevka",
@@ -178,7 +188,7 @@
     "id": 7,
     "name": "Gerard Sans",
     "photoUrl": "/images/people/gerard_sans.jpg",
-    "shortBio": "TODO",
+    "shortBio": "Google Developer Expert | Coding is fun | Just be awesome | Blogger Speaker Trainer Community Leader | @angular_zone @graphql_london @ngcruise",
     "socials": [
       {
         "icon": "twitter",
@@ -215,7 +225,7 @@
     "id": 8,
     "name": "Hugo Visser",
     "photoUrl": "/images/people/hugo_visser.jpg",
-    "shortBio": "TODO",
+    "shortBio": "dj, coder, pragmatic, agile, cynic, android fanatic, http://t.co/s9z1IFPo5O, GDG @DutchAUG organizer, GDE, Main robot at http://t.co/8wha3oLiXz",
     "socials": [
       {
         "icon": "twitter",
@@ -244,6 +254,11 @@
     "photoUrl": "/images/people/vitaliy_zasadnyy.jpg",
     "shortBio": "TODO",
     "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/zasadnyy",
+        "name": "Twitter"
+      },
       {
         "icon": "website",
         "link": "see",
@@ -275,7 +290,7 @@
     "id": 10,
     "name": "Tanay Pant",
     "photoUrl": "/images/people/tanay_pant.jpg",
-    "shortBio": "TODO",
+    "shortBio": "Author, Speaker, Engineering Recruitment and Communications Manager @Researchgate, White Hat and Programmer",
     "socials": [
       {
         "icon": "website",
@@ -313,7 +328,7 @@
     "id": 11,
     "name": "Simon MacDonald",
     "photoUrl": "/images/people/simon_macdonald.jpg",
-    "shortBio": "TODO",
+    "shortBio": "Father, Software Engineer, Comic Enthusiast and Coffee Lover",
     "socials": [
       {
         "icon": "website",
@@ -348,6 +363,11 @@
     "photoUrl": "/images/people/juarez_filho.jpg",
     "shortBio": "TODO",
     "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/juarezpaf",
+        "name": "Twitter"
+      },
       {
         "icon": "website",
         "link": "@juarezpaf,",
@@ -403,6 +423,11 @@
     "shortBio": "TODO",
     "socials": [
       {
+        "icon": "twitter",
+        "link": "https://twitter.com/BrittBarak",
+        "name": "Twitter"
+      },
+      {
         "icon": "facebook",
         "link": "www.facebook.com/britt.barak",
         "name": "Facebook"
@@ -441,7 +466,7 @@
     "socials": [
       {
         "icon": "twitter",
-        "link": "TODO",
+        "link": "https://twitter.com/sarsonj",
         "name": "Twitter"
       }
     ],
@@ -463,7 +488,7 @@
     "socials": [
       {
         "icon": "twitter",
-        "link": "TODO",
+        "link": "https://twitter.com/Janamou",
         "name": "Twitter"
       }
     ],
@@ -482,7 +507,7 @@
     "id": 17,
     "name": "Alexey Buzdin",
     "photoUrl": "/images/people/alexey_buzdin.jpg",
-    "shortBio": "TODO",
+    "shortBio": "Writing Java and Mobile apps, Speaking at conferences, Organizing @GDGRiga @devfestbaltics @MobileDevLatvia @RigaDevDays. Tweeting about all that.",
     "socials": [
       {
         "icon": "website",
@@ -524,7 +549,7 @@
     "id": 18,
     "name": "Tomáš Zvěřina",
     "photoUrl": "/images/people/tomáš_zvěřina.jpg",
-    "shortBio": "TODO",
+    "shortBio": "#java #appengine #dartlang\n@fnxio",
     "socials": [
       {
         "icon": "twitter",
@@ -546,7 +571,7 @@
     "id": 19,
     "name": "Faisal Abid",
     "photoUrl": "/images/people/faisal_abid.jpg",
-    "shortBio": "TODO",
+    "shortBio": "Entrepreneur. Google Developer Expert. Engineer. @GoogleDevs @Flutterio @dartlang @GoogleDevExpert @ZoomdotAI. \nex @Kobo & @JoinLeague",
     "socials": [
       {
         "icon": "twitter",
@@ -572,7 +597,7 @@
     "socials": [
       {
         "icon": "twitter",
-        "link": "TODO",
+        "link": "https://twitter.com/bagder",
         "name": "Twitter"
       }
     ],
@@ -590,7 +615,7 @@
     "id": 21,
     "name": "Vigneshwer Dhinakaran",
     "photoUrl": "/images/people/vigneshwer_dhinakaran.jpg",
-    "shortBio": "TODO",
+    "shortBio": "AI/IOT Researcher @MuSigmaInc  | Mozilla Rep & TechSpeaker | Rustacean & Author of Rust Cookbook",
     "socials": [
       {
         "icon": "github",
@@ -618,7 +643,7 @@
     "id": 22,
     "name": "Ipsha Bhidonia",
     "photoUrl": "/images/people/ipsha_bhidonia.jpg",
-    "shortBio": "TODO",
+    "shortBio": "",
     "socials": [
       {
         "icon": "website",
@@ -656,6 +681,11 @@
         "icon": "facebook",
         "link": "https://www.facebook.com/vlad.iliushin",
         "name": "Facebook"
+      },
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/iliushin_",
+        "name": "twitter"
       }
     ],
     "tags": [
@@ -672,7 +702,7 @@
     "id": 24,
     "name": "Tomáš Jukin",
     "photoUrl": "/images/people/tomáš_jukin.jpg",
-    "shortBio": "TODO",
+    "shortBio": "Co-Owner & CTO at @JuicymoCZ, Swift & RoR Developer, Speaker and Consultant. ❤️ IoT, AI & Robotics.",
     "socials": [
       {
         "icon": "website",
@@ -704,7 +734,7 @@
     "id": 25,
     "name": "Vaclav Souhrada",
     "photoUrl": "/images/people/vaclav_souhrada.jpg",
-    "shortBio": "TODO",
+    "shortBio": "Kotlin(er) & Android developer | Czech Kotlin User Group organizer",
     "socials": [
       {
         "icon": "facebook",
@@ -755,7 +785,7 @@
     "socials": [
       {
         "icon": "twitter",
-        "link": "TODO",
+        "link": "https://twitter.com/NikBPage",
         "name": "Twitter"
       }
     ],
@@ -773,7 +803,7 @@
     "id": 27,
     "name": "Václav Pavlín",
     "photoUrl": "/images/people/václav_pavlín.jpg",
-    "shortBio": "TODO",
+    "shortBio": "Working for Red Hat, travelling, drinking beer, meeting people. \n\n#containers are awesome!;) \n\n#OpenShift is great, you'll love it! It's true!",
     "socials": [
       {
         "icon": "website",
@@ -838,6 +868,11 @@
         "icon": "linkedin",
         "link": "https://www.linkedin.com/in/sergejs-luhmirins-61a58937/",
         "name": "LinkedIn"
+      },
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/luhmirins",
+        "name": "twitter"
       }
     ],
     "tags": [
@@ -855,7 +890,7 @@
     "id": 30,
     "name": "Alvin Ourrad",
     "photoUrl": "/images/people/alvin_ourrad.jpg",
-    "shortBio": "TODO",
+    "shortBio": "Creative developer making interactive experiences @BBCNews — Formerly @goodboydigital #pixijs, #phaserjs - Aspiring speaker, and 3D enthusiast. Views my own",
     "socials": [
       {
         "icon": "website",
@@ -915,6 +950,11 @@
     "shortBio": "TODO",
     "socials": [
       {
+        "icon": "twitter",
+        "link": "https://twitter.com/jmtcz",
+        "name": "Twitter"
+      },
+      {
         "icon": "website",
         "link": "jeannetrojan.com",
         "name": "Website"
@@ -971,7 +1011,7 @@
     "id": 33,
     "name": "Paweł Lewtak",
     "photoUrl": "/images/people/paweł_lewtak.jpg",
-    "shortBio": "TODO",
+    "shortBio": "In random order: developer, gamer, bookworm, speaker. DM open.",
     "socials": [
       {
         "icon": "twitter",
@@ -1003,7 +1043,7 @@
     "id": 34,
     "name": "Vít Listík",
     "photoUrl": "/images/people/vít_listík.jpg",
-    "shortBio": "TODO",
+    "shortBio": "geek, ML & AI lover, (python) developer, student, tea lover",
     "socials": [
       {
         "icon": "linkedin",
@@ -1036,7 +1076,7 @@
     "id": 35,
     "name": "Ondřej Žára",
     "photoUrl": "/images/people/ondřej_žára.jpg",
-    "shortBio": "TODO",
+    "shortBio": "JavaScript, mimo jiné i v Seznamu.",
     "socials": [
       {
         "icon": "website",
@@ -1070,6 +1110,11 @@
     "photoUrl": "/images/people/věrka_koukalová.jpg",
     "shortBio": "TODO",
     "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/Verudellita",
+        "name": "Twitter"
+      },
       {
         "icon": "website",
         "link": "search",
@@ -1130,7 +1175,7 @@
     "id": 37,
     "name": "Neha Sharma",
     "photoUrl": "/images/people/neha_sharma.jpg",
-    "shortBio": "TODO",
+    "shortBio": "Tech Speaker @jslovers_del, @cssconf SIG'16, GDG ND, C#corner | UI Tech lead.I Work for Google n get paid by @toasterco\n | Founder of @jslovers_del #womenintech",
     "socials": [
       {
         "icon": "linkedin",

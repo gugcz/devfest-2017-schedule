@@ -54,7 +54,7 @@
   },
   "104": {
     "complexity": "Intermediates",
-    "description": "It will be based on my experience lauching new apps this year.",
+    "description": "TODO",
     "id": 104,
     "language": "English",
     "speakers": [
@@ -64,10 +64,10 @@
       "Marketing",
       "Indie"
     ],
-    "title": "(TBD) How to design app to be easily sellable on Play Store"
+    "title": "How to design app to be easily sellable on Play Store"
   },
   "105": {
-    "complexity": "IT muggles",
+    "complexity": "Beginners",
     "description": "Overview of our findings on the mysterious phenomenon - Sleep:\nhttp://sleep.urbandroid.org/sleepcloud-study/\n\nOur study is based on analyses of more than 10 million sleep records in our Sleep Cloud data base collected in Google Cloud using Android smartphones and various wearable tech for Sleep tracking. Our findings are based on our own private funded research but also based on cooperation with several scientific institutions. \n\nTopics:\n- How does our lifestyle affect sleep\n- Nigh owls / morning larks - chronotypes, Roenneberg and Social jet lag\n- Want to stop snoring? Have a beer!\n- How do we sleep post-Brexit / post-Trump\n- Sleep and psychical health\n- Smart alarms improve sleep and wake up experience\n- Our internal clock and how harmful summer time is\n...\n",
     "id": 105,
     "language": "English",
@@ -107,7 +107,7 @@
     "title": "Room: the blessed Object Mapper"
   },
   "108": {
-    "complexity": "Everyone above and beyond",
+    "complexity": "Advanced",
     "description": "Are you working on the client library? Or design a public API for the module that is going to be used by other team or department?\n\nIn this session, Vitality will share his experience and key learnings from building a mobile SDKs for last 4 years:\n\nwhat is the cost of too complex API and how to simplify it;\nwhat aspects of the library are important for clients;\nhow documentation should look like to avoid stupid and repetitive support questions;\nhow to make library update process smooth.\nThe session will be interesting for Android and iOS developers who want to learn what makes client library great. What are the best practices and common pitfalls in public API design? What is important, only programming API you expose or also ecosystem around?",
     "id": 108,
     "language": "English",
@@ -149,7 +149,7 @@
     "title": "Cross Platform Progressive Web Apps"
   },
   "111": {
-    "complexity": "Everyone above and beyond",
+    "complexity": "Advanced",
     "description": "What is the first thing that comes to your mind when you are starting to develop your product? You need to think about all sort of features. How you are going to grow your app. Engage your audience and make money in the process, right? \nWhat if you could choose a platform to build your app with confidence, without the need of managing infrastructure, trusted by companies like The New York Times, The Economist, Shazam and much more. Firebase gives you the tools and infrastructure you need to build better apps and grow businesses. Join this talk and learn how to overcome the challenges of build extraordinary front-end apps using Firebase.",
     "id": 111,
     "language": "English",
@@ -162,7 +162,7 @@
     "title": "Let Firebase help you to build better Front-end apps"
   },
   "112": {
-    "complexity": "Everyone above and beyond",
+    "complexity": "Beginners",
     "description": "In a plain-looking computer room sits 30+ men wearing khaki-colored shirts and pants, each staring intently at their monitors. Some young, some old, some with tattoos, all with different life stories. These men--many of which have never been on the Internet-- are learning computer programming while serving time at Washington State's second largest prison. \n\nGaining employment upon release from prison is one of the largest indicators of successful re-entry into society. With today’s booming tech market, these currently incarcerated men hope to gain the skills needed to obtain web development jobs upon release. \n\nHowever, learning programming inside a prison isn’t easy. Each student computer is highly locked-down with limited software and absolutely no Internet access. While most programmers enjoy the benefits of Google and StackOverflow, these students must work with what is available on the classroom’s local network and in the outdated computer manuals available in the facility library.\n\nMy name is Sarabeth Jaffe and I teach computer programming at Monroe Correctional Complex. In this talk, I will discuss the many challenges of teaching web development without the web, the Open Source technology that makes it possible, and the many opportunities we--as technologists--have to spread the benefits of the technical knowledge to disadvantaged populations.",
     "id": 112,
     "language": "English",
@@ -188,20 +188,21 @@
     "title": "When your app is asleep"
   },
   "114": {
-    "complexity": "TODO",
+    "complexity": "Advanced",
     "description": "TODO",
     "id": 114,
-    "language": "English",
+    "language": "Czech",
     "speakers": [
       15
     ],
     "tags": [
-      ""
+      "Android",
+      "iOS"
     ],
     "title": "Úspěšný vývoj multiplaformní aplikace pomocí J2Objc"
   },
   "115": {
-    "complexity": "TODO",
+    "complexity": "Intermediates",
     "description": "TODO",
     "id": 115,
     "language": "English",
@@ -215,8 +216,8 @@
     "title": "Angular Dart?"
   },
   "116": {
-    "complexity": "IT muggles",
-    "description": "I can do a Keynote about Past, Present and Future of IT and Google Tech and cover topics about Mobile, Education, Google Tech, Google Initiatives, Getting Started in IT, Internet of Things, VR/AR, Machine Learning, etc",
+    "complexity": "Beginners",
+    "description": "TODO",
     "id": 116,
     "language": "English",
     "speakers": [
@@ -231,7 +232,7 @@
     "complexity": "Beginners",
     "description": "Zjistíme jak postavit mobilní aplikaci ve Flutteru a prozkoumáme jeho architekturu.",
     "id": 117,
-    "language": "English",
+    "language": "Czech",
     "speakers": [
       18
     ],
@@ -254,7 +255,7 @@
     "title": "Building Google Assistant Actions"
   },
   "119": {
-    "complexity": "TODO",
+    "complexity": "Intermediates",
     "description": "TODO",
     "id": 119,
     "language": "English",
@@ -262,12 +263,12 @@
       20
     ],
     "tags": [
-      "web"
+      "Web"
     ],
-    "title": "Http/2"
+    "title": "HTTP/2"
   },
   "120": {
-    "complexity": "Everyone above and beyond",
+    "complexity": "Advanced",
     "description": "Learn to build an end-to-end, high-performance artificial intelligence algorithm in Rust language capable of predicting whether male or female is the subject of the image captured from an edge device like a mobile camera.\n \nThe speciality of the session is that all the functional units starting from the web server, front end web app and algorithm are developed in rust language.\n",
     "id": 120,
     "language": "English",
@@ -295,7 +296,7 @@
   },
   "122": {
     "complexity": "Everyone above and beyond",
-    "description": "Let's take a look into the world of IoT devices. How much time will it take to hack a coffee machine or a kettle, get inside your local network or use remote control apps against you. ",
+    "description": "Let's take a look into the world of IoT devices. How much time will it take to hack a coffee machine or a kettle, get inside your local network or use remote control apps against you.",
     "id": 122,
     "language": "English",
     "speakers": [
@@ -307,8 +308,8 @@
     "title": "Dark side of IoT"
   },
   "123": {
-    "complexity": "Everyone above and beyond",
-    "description": "Mám více možných témat (konkrétně tři, z různých oblastí, jedno je iOS, druhé je Ruby on Rails a třetí je IoT), dle instrukcí od Elišky je vypisuji pod sebe oddělená hvězdičkami. Přednášel bych v EN.\n\n***\n\nExcellent iOS Apps Architecture with MVVM & RxSwift\n\nApple never provided any solution or guide on how to make a state-of-the-art iOS app architecture. But the global iOS developer community never sleeps! Let's take a look together how a state-of-the-art architecture of iOS app should looks like. Let's dive into the refreshing waters of MVVM+, FlowControllers, DI and RxSwift. Code is included!\n\n[for intermediates or experts]\n\n***\n\nA cute garden where Web Apps are grown with fun (and Ruby on Rails 5.1)\n\nEvery mature mobile app or responsive website needs a backend or Web App. There are many technologies you can use for that purpose. But only one of them found it's way into my Heart. Let me show you how much fun and productivity you can get while building a well tested Web App. Ruby on Rails lets you focus on things that matter instead of the boring ones. And with version 5.1 a much closer cooperation with your favourite frontend technology is now possible. It does not matter if you prefer jQuery, React, Angular or Dart. Or anything else. Rails will be happy to talk to everybody. Code is included!\n\n[for beginners or intermediates, the TDD (Test Driven Development) part can be interesting even for experts or jedis]\n\n***\n\nWhen a Robot is smart enough?\n\nInternet of Things (IoT) covers many areas, but the most interesting ones (at least for me) are Robotics and AI. Where is the moment when a machine or robot is \"smart enough\"? Let's explore this area a bit together and let's see some examples. How difficult is to build a Smart Robot? Could you build one at home? The answer is Yes! And I will show you how. From the basic steps on #Arduino, to the beauty of more complex examples and solutions like SLAM, optical recognition, path finding or steering behaviours. Live demo is included!\n\n[for everybody interested in IoT or robotics, they do not require big or deep knowledge. Some parts are interesting even to experts]",
+    "complexity": "Advanced",
+    "description": "TODO",
     "id": 123,
     "language": "English",
     "speakers": [
@@ -333,7 +334,7 @@
     "title": "Kotlin for Android"
   },
   "125": {
-    "complexity": "TODO",
+    "complexity": "Beginners",
     "description": "TODO",
     "id": 125,
     "language": "English",
@@ -341,9 +342,9 @@
       26
     ],
     "tags": [
-      ""
+      "TODO"
     ],
-    "title": "nahradni speaker"
+    "title": "TODO"
   },
   "200": {
     "complexity": "Intermediates",
@@ -359,7 +360,7 @@
     "title": "Basic Concepts of Containers Orchestration"
   },
   "201": {
-    "complexity": "Everyone above and beyond",
+    "complexity": "Advanced",
     "description": "Have you ever wondered how to provide sensitive customer data to third parties and still maintain privacy and client’s secret? How to enable partners to mine for wealth and knowledge in client’s data, that we can use to provide better customer experience later? And how to protect client’s data and yet go hand in hand with the trend of Open APIs and Open banking? The solution is simple: Homomorphic encryption. So you know, it is not so easy, but later on :)",
     "id": 201,
     "language": "English",
@@ -399,7 +400,7 @@
     "title": "Introduction to JavaScript Game Development"
   },
   "204": {
-    "complexity": "Everyone above and beyond",
+    "complexity": "Advanced",
     "description": "One of the hardest things to do in any social situation is to get the courage to introduce yourself and talk to people you don't know. This workshop will help you lose the fear and will give you some practical strategies for networking.\n\n*this workshop would actually be ideal BEFORE DevFest starts as the participants would be able to use what they learned during the conference. There is no limit to how many people can attend (at WebExpo 2013, I had about 50 participants go through the workshop before the Warmup Party). It lasts about an hour and is very active.",
     "id": 204,
     "language": "English",
@@ -452,7 +453,7 @@
     "title": "Crypto currency trading algo"
   },
   "208": {
-    "complexity": "Everyone above and beyond",
+    "complexity": "Advanced",
     "description": "Why do some colors have a name while others do not? Where do the named colors come from, what are their properties and what strange surprises do they hide?\nThis talk will explain the concept of named CSS colors, introduce their origin and list some interesting and lesser-known facts about them.\n",
     "id": 208,
     "language": "English",
@@ -462,10 +463,10 @@
     "tags": [
       "Web"
     ],
-    "title": "experiments with real-time audio/video processing in JavaScript"
+    "title": "Experiments with real-time audio/video processing in JavaScript"
   },
   "209": {
-    "complexity": "Everyone above and beyond",
+    "complexity": "Advanced",
     "description": "Welcome to our \"failcon\" story of how we created Robeeto - a startup of shared economics. Learn from our mistakes and more - how to work with the initial idea, who else do you need except you as a developer. How we learned from our mistakes, redesigned the idea and created an ecosystem of people who love what they do. Step by step, we will look at the process from idea to creating your own monster. So you can call with us - It's aliiiiive!!! \n\nWe can also present in Czech or do this as workshop. Your choice :-)",
     "id": 209,
     "language": "English",
