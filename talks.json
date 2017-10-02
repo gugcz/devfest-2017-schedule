@@ -322,7 +322,7 @@
   },
   "124": {
     "complexity": "Beginners",
-    "description": "The main goal of this workshop is that you will learn how to build and run your first Android app written in Kotlin from scratch.\n\n You will learn how to set up Android project and Gradle for using it with Kotlin. Next, you will learn how to write the KDoc documentation and how to generate it by using the Dokka tool. Output application will demonstrate main advantages of Kotlin for Android development and good starting point for you. \n\nYou will need a computer that can run Android Studio 3.",
+    "description": "Using Kotlin for Android development has grown in popularity over the last year especially after this year's Google I/O 17 where Google announces Kotlin for Android to be a first-class language for writing Android apps.\n\nIn this talk, we will go through all advantages of using Kotlin for Android development. You will see how can be a development of Android apps again fun. You will get answers to questions such like: Should I rewrite a whole application to Kotlin? Should I wait? Where is the power of Kotlin for Android and what tools are available? You will learn Anko library and Kotlin Extensions... Less code, more fun.",
     "id": 124,
     "language": "English",
     "speakers": [
