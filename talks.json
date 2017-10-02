@@ -203,7 +203,7 @@
   },
   "115": {
     "complexity": "Intermediates",
-    "description": "TODO",
+    "description": "Beyond seven mountain ranges, beyond seven rivers and beyond seven Google buildings lived a technology called Angular. One day it met another technology - Firebase and they decided to do an App together. In this talk I will show you why AngularDart is a framework you should definitely take a look at and how you can use it together with Firebase to build great apps!",
     "id": 115,
     "language": "English",
     "speakers": [
@@ -213,7 +213,7 @@
       "Dart",
       "Web"
     ],
-    "title": "Angular Dart?"
+    "title": "How AngularDart & Firebase did an App together"
   },
   "116": {
     "complexity": "Beginners",
