@@ -348,7 +348,7 @@
   },
   "200": {
     "complexity": "Intermediates",
-    "description": "What if you could automate your DevOps life? Let’s first talk briefly about OpenShift and Jenkins and then dive deep into their integration - OpenShift Pipelines. They let you create your CI/CD around containers simply and efficiently. If the demo gods are with us, you’ll see it all live and shiny.",
+    "description": "Containers are great, but container technologies solve only part of the problem. Once you get container images, you need to run them, orchestrate them, scale them, make sure they don't fail randomly etc. This is a task for orchestration tools - and there are couple of them. Luckily, they share basic concepts. Sadly, containerisation and specifically making your app ready for scalable environment, might require you to change your app. You'll learn about these concepts and how orchestration of containerised applications work in this presentation.",
     "id": 200,
     "language": "English",
     "speakers": [
