@@ -1,443 +1,278 @@
+[{
+    "date": "2017-11-04",
+    "dateReadable": "Saturday 4.11.",
+    "timeslots": [{
+            "endTime": "9:30",
+            "sessions": [
+                [
+                    1
+                ]
+            ],
+            "startTime": "9:00"
+        },
+        {
+            "endTime": "10:00",
+            "sessions": [
+                [
+                    4
+                ]
+            ],
+            "startTime": "9:30"
+        },
+        {
+            "endTime": "10:50",
+            "sessions": [
+                [
+                    100
+                ],
+                [
+                    101
+                ],
+                [
+                    103
+                ]
+            ],
+            "startTime": "10:00"
+        },
+        {
+            "endTime": "11:50",
+            "sessions": [
+                [
+                    108
+                ],
+                [
+                    104
+                ],
+                [
+                    111
+                ]
+            ],
+            "startTime": "11:00"
+        },
+        {
+            "endTime": "12:25",
+            "sessions": [
+                [
+                    120
+                ],
+                [
+                    102
+                ],
+                [
+                    122
+                ]
+            ],
+            "startTime": "12:00"
+        },
+        {
+            "endTime": "13:00",
+            "sessions": [
+                [
+                    123
+                ],
+                [
+                    116
+                ]
+            ],
+            "startTime": "12:35"
+        },
+        {
+            "endTime": "14:00",
+            "sessions": [
+                [
+                    2
+                ]
+            ],
+            "startTime": "13:00"
+        },
+        {
+            "endTime": "14:50",
+            "sessions": [
+                [
+                    118
+                ],
+                [
+                    115
+                ],
+                [
+                    107
+                ],
+                [
+                    204
+                ]
+            ],
+            "startTime": "14:00"
+        },
+        {
+            "endTime": "15:50",
+            "sessions": [
+                [
+                    112
+                ],
+                [
+                    105
+                ],
+                [
+                    119
+                ]
+            ],
+            "startTime": "15:00"
+        },
+        {
+            "endTime": "16:50",
+            "sessions": [
+                [
+                    110
+                ],
+                [
+                    117
+                ],
+                [
+                    113
+                ]
+            ],
+            "startTime": "16:00"
+        },
+        {
+            "endTime": "17:20",
+            "sessions": [
+                [
+                    3
+                ]
+            ],
+            "startTime": "16:50"
+        },
+        {
+            "endTime": "18:10",
+            "sessions": [
+                [
+                    7
+                ],
+                [
+                    124, 121
+                ],
+                [
+                    109, 114
+                ]
+            ],
+            "startTime": "17:20"
+        },
+        {
+            "endTime": "18:45",
+            "sessions": [
+                [
+                    6
+                ]
+            ],
+            "startTime": "18:15"
+        },
+        {
+            "endTime": "23:40",
+            "sessions": [
+                [
+                    5
+                ]
+            ],
+            "startTime": "18:45"
+        }
+    ],
+    "tracks": [
+        {
+            "title": "T1"
+        },
+        {
+            "title": "E1"
+        },
+        {
+            "title": "E2"
+        },
+        {
+            "title": "Circle Hall"
+        }
+    ]
+},
 {
-   "schedule": [
-      {
-         "date": "TODO",
-         "dateReadable": "TODO",
-         "timeslots": [
-            {
-               "endTime": "9:30",
-               "sessions": [
-                  [
-                     "TODO Registration / Breakfast"
-                  ],
-                  [
-                     "TODO "
-                  ],
-                  [
-                     "TODO "
-                  ]
-               ],
-               "startTime": "9:00"
-            },
-            {
-               "endTime": "10:00",
-               "sessions": [
-                  [
-                     "TODO Zahájení"
-                  ],
-                  [
-                     "TODO "
-                  ],
-                  [
-                     "TODO "
-                  ]
-               ],
-               "startTime": "9:30"
-            },
-            {
-               "endTime": "10:50",
-               "sessions": [
-                  [
-                     1
-                  ],
-                  [
-                     2
-                  ],
-                  [
-                     4
-                  ]
-               ],
-               "startTime": "10:00"
-            },
-            {
-               "endTime": "11:00",
-               "sessions": [
-                  [
-                     "TODO Break"
-                  ],
-                  [
-                     "TODO Break"
-                  ],
-                  [
-                     "TODO Break"
-                  ]
-               ],
-               "startTime": "10:50"
-            },
-            {
-               "endTime": "11:50",
-               "sessions": [
-                  [
-                     9
-                  ],
-                  [
-                     5
-                  ],
-                  [
-                     12
-                  ]
-               ],
-               "startTime": "11:00"
-            },
-            {
-               "endTime": "12:00",
-               "sessions": [
-                  [
-                     "TODO Break"
-                  ],
-                  [
-                     "TODO Break"
-                  ],
-                  [
-                     "TODO Break"
-                  ]
-               ],
-               "startTime": "11:50"
-            },
-            {
-               "endTime": "12:25",
-               "sessions": [
-                  [
-                     21
-                  ],
-                  [
-                     3
-                  ],
-                  [
-                     23
-                  ]
-               ],
-               "startTime": "12:00"
-            },
-            {
-               "endTime": "12:35",
-               "sessions": [
-                  [
-                     "TODO Break"
-                  ],
-                  [
-                     "TODO Break"
-                  ],
-                  [
-                     "TODO Break"
-                  ]
-               ],
-               "startTime": "12:25"
-            },
-            {
-               "endTime": "13:00",
-               "sessions": [
-                  [
-                     24
-                  ],
-                  [
-                     17
-                  ],
-                  [
-                     26
-                  ]
-               ],
-               "startTime": "12:35"
-            },
-            {
-               "endTime": "14:00",
-               "sessions": [
-                  [
-                     "TODO Lunch"
-                  ],
-                  [
-                     "TODO "
-                  ],
-                  [
-                     "TODO "
-                  ]
-               ],
-               "startTime": "13:00"
-            },
-            {
-               "endTime": "14:50",
-               "sessions": [
-                  [
-                     19
-                  ],
-                  [
-                     16
-                  ],
-                  [
-                     8
-                  ]
-               ],
-               "startTime": "14:00"
-            },
-            {
-               "endTime": "15:00",
-               "sessions": [
-                  [
-                     "TODO Break"
-                  ],
-                  [
-                     "TODO Break"
-                  ],
-                  [
-                     "TODO Break"
-                  ]
-               ],
-               "startTime": "14:50"
-            },
-            {
-               "endTime": "15:50",
-               "sessions": [
-                  [
-                     13
-                  ],
-                  [
-                     6
-                  ],
-                  [
-                     20
-                  ]
-               ],
-               "startTime": "15:00"
-            },
-            {
-               "endTime": "16:00",
-               "sessions": [
-                  [
-                     "TODO Break"
-                  ],
-                  [
-                     "TODO Break"
-                  ],
-                  [
-                     "TODO Break"
-                  ]
-               ],
-               "startTime": "15:50"
-            },
-            {
-               "endTime": "16:50",
-               "sessions": [
-                  [
-                     11
-                  ],
-                  [
-                     18
-                  ],
-                  [
-                     14
-                  ]
-               ],
-               "startTime": "16:00"
-            },
-            {
-               "endTime": "17:20",
-               "sessions": [
-                  [
-                     "TODO Coffee Break"
-                  ],
-                  [
-                     "TODO "
-                  ],
-                  [
-                     "TODO "
-                  ]
-               ],
-               "startTime": "16:50"
-            },
-            {
-               "endTime": "17:45",
-               "sessions": [
-                  [
-                     "TODO Lightning Talks x 7"
-                  ],
-                  [
-                     25
-                  ],
-                  [
-                     10
-                  ]
-               ],
-               "startTime": "17:20"
-            },
-            {
-               "endTime": "18:10",
-               "sessions": [
-                  [
-                     "TODO "
-                  ],
-                  [
-                     22
-                  ],
-                  [
-                     15
-                  ]
-               ],
-               "startTime": "17:45"
-            },
-            {
-               "endTime": "18:15",
-               "sessions": [
-                  [
-                     "TODO Break"
-                  ],
-                  [
-                     "TODO Break"
-                  ],
-                  [
-                     "TODO Break"
-                  ]
-               ],
-               "startTime": "18:10"
-            },
-            {
-               "endTime": "18:45",
-               "sessions": [
-                  [
-                     "TODO Ukončení"
-                  ],
-                  [
-                     "TODO "
-                  ],
-                  [
-                     "TODO "
-                  ]
-               ],
-               "startTime": "18:15"
-            },
-            {
-               "endTime": "23:40",
-               "sessions": [
-                  [
-                     "TODO Afterparty"
-                  ],
-                  [
-                     "TODO "
-                  ],
-                  [
-                     "TODO "
-                  ]
-               ],
-               "startTime": "18:45"
-            }
-         ],
-         "tracks": [
-            {
-               "title": "TODO"
-            },
-            {
-               "title": "TODO"
-            },
-            {
-               "title": "TODO"
-            }
-         ]
-      },
-      {
-         "date": "TODO2",
-         "dateReadable": "TODO2",
-         "timeslots": [
-            {
-               "endTime": "10:00",
-               "sessions": [
-                  [
-                     "TODO "
-                  ],
-                  [
-                     "TODO "
-                  ],
-                  [
-                     "TODO "
-                  ],
-                  [
-                     "TODO "
-                  ],
-                  [
-                     "TODO "
-                  ]
-               ],
-               "startTime": "9:30"
-            },
-            {
-               "endTime": "12:30",
-               "sessions": [
-                  [
-                     30
-                  ],
-                  [
-                     27
-                  ],
-                  [
-                     "TODO Neha Sharma & Jaswant Singh"
-                  ],
-                  [
-                     33
-                  ],
-                  [
-                     "TODO "
-                  ]
-               ],
-               "startTime": "10:00"
-            },
-            {
-               "endTime": "13:00",
-               "sessions": [
-                  [
-                     "TODO "
-                  ],
-                  [
-                     "TODO "
-                  ],
-                  [
-                     "TODO "
-                  ],
-                  [
-                     "TODO "
-                  ],
-                  [
-                     "TODO "
-                  ]
-               ],
-               "startTime": "12:30"
-            },
-            {
-               "endTime": "15:30",
-               "sessions": [
-                  [
-                     34
-                  ],
-                  [
-                     29
-                  ],
-                  [
-                     28
-                  ],
-                  [
-                     32
-                  ],
-                  [
-                     "TODO Martin Lonsky"
-                  ]
-               ],
-               "startTime": "13:00"
-            }
-         ],
-         "tracks": [
-            {
-               "title": "TODO WS 1"
-            },
-            {
-               "title": "TODO WS 2"
-            },
-            {
-               "title": "TODO WS 3"
-            },
-            {
-               "title": "TODO WS 4"
-            },
-            {
-               "title": "TODO WS 5"
-            }
-         ]
-      }
-   ]
+    "date": "2017-11-05",
+    "dateReadable": "Sunday 5.11.",
+    "timeslots": [{
+            "endTime": "10:00",
+            "sessions": [
+                [
+                    8
+                ]
+            ],
+            "startTime": "9:30"
+        },
+        {
+            "endTime": "12:30",
+            "sessions": [
+                [
+                    208
+                ],
+                [
+                    203
+                ],
+                [
+                    200
+                ],
+                [
+                    210
+                ],
+                [
+                    206
+                ]
+            ],
+            "startTime": "10:00"
+        },
+        {
+            "endTime": "13:00",
+            "sessions": [
+                [
+                    2
+                ]
+            ],
+            "startTime": "12:30"
+        },
+        {
+            "endTime": "15:30",
+            "sessions": [
+                [
+                    209
+                ],
+                [
+                    207
+                ],
+                [
+                    202
+                ],
+                [
+                    201
+                ],
+                [
+                    205
+                ],
+                [
+                    0
+                ]
+            ],
+            "startTime": "13:00"
+        }
+    ],
+    "tracks": [{
+            "title": "C11"
+        },
+        {
+            "title": "C12"
+        },
+        {
+            "title": "C13"
+        },
+        {
+            "title": "C14"
+        },
+        {
+            "title": "C15"
+        }
+    ]
 }
+]

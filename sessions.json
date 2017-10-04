@@ -1,4 +1,59 @@
 {
+  "0" : {
+    "description" : "",
+    "id" : 0,
+    "title" : "TBD"
+  },
+  "1" : {
+    "description" : "Get your badge, coffee, enjoy talking with tech edicts around",
+    "id" : 1,
+    "image" : "/images/backgrounds/registration.jpg",
+    "title" : "Registration & morning Coffee"
+  },
+  "2" : {
+    "description" : "First floor of the coridor of the Faculty of Economics and Management",
+    "id" : 2,
+    "image" : "/images/backgrounds/lunch.jpg",
+    "title" : "Lunch"
+  },
+  "3" : {
+    "description" : "First floor of the coridor of the Faculty of Economics and Management",
+    "id" : 3,
+    "image" : "/images/backgrounds/coffee-break.jpg",
+    "title" : "Coffee break"
+  },
+  "4" : {
+    "description" : "Official start of the conference with some suprises included :)",
+    "id" : 4,
+    "image" : "/images/backgrounds/opening.jpg",
+    "language" : "English",
+    "title" : "Opening Ceremony"
+  },
+  "5" : {
+    "description" : "Google I/O-inspired fun & networking",
+    "id" : 5,
+    "image" : "/images/backgrounds/party.jpg",
+    "title" : "Afterparty & Networking"
+  },
+  "6" : {
+    "description" : "Grand finale and awarding contest winners",
+    "id" : 6,
+    "image" : "/images/backgrounds/closing.jpg",
+    "title" : "Closing Ceremony",
+    "language" : "English"
+  },
+  "7" : {
+    "description" : "7 speakers, 7 minutes each. Strictly.",
+    "id" : 7,
+    "title" : "Ligtning talks",
+    "language" : "Czech/English"
+  },
+  "8" : {
+    "description" : "First floor of the coridor of the Faculty of Economics and Management",
+    "id" : 8,
+    "image" : "/images/backgrounds/coffee-break.jpg",
+    "title" : "Breakfast"
+  },
   "100": {
     "complexity": "Intermediates",
     "description": "Want a more productive way to build for mobile? Flutter is an SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single code-base. Flutter delivers a great developer experience in part because it is based on Dart, which allows you to build your cross-platform mobile apps in an approachable and analyzable language with sub-second edit-and-continue support baked in. Come see what makes Flutter special and learn how you can become a more productive mobile developer. ",
@@ -34,8 +89,8 @@
       3
     ],
     "tags": [
-      "Web",
-      "Firebase"
+      "Firebase",
+      "Cloud"
     ],
     "title": "Go beyond the web development with Firebase Cloud Functions"
   },
@@ -61,8 +116,8 @@
       5
     ],
     "tags": [
-      "Marketing",
-      "Indie"
+      "General",
+      "Marketing"
     ],
     "title": "How to design app to be easily sellable on Play Store"
   },
@@ -75,8 +130,7 @@
       6
     ],
     "tags": [
-      "Android",
-      "Cloud"
+      "Android"
     ],
     "title": "Sonar or the Tricoder (how we created a new smartphone sensor)"
   },
@@ -143,8 +197,7 @@
       11
     ],
     "tags": [
-      "Web",
-      "Mobile"
+      "Web"
     ],
     "title": "Cross Platform Progressive Web Apps"
   },
@@ -243,14 +296,14 @@
   },
   "118": {
     "complexity": "Beginners",
-    "description": "Learn how to take your Android development skills and apply them to Flutter, a cross platform native mobile development framework from Google.\n\nWe will go over how to build a Flutter app, and how to apply the concepts you know such as Activities, Intents, Lifecycle, Layouts, and many more and translate those over to Flutter so you can be a Flutter pro in no time!",
+    "description": "TODO",
     "id": 118,
     "language": "English",
     "speakers": [
       19
     ],
     "tags": [
-      "Assistant"
+      "Cloud", "Assistant"
     ],
     "title": "Building Google Assistant Actions"
   },
@@ -276,8 +329,8 @@
       21
     ],
     "tags": [
-      "AI",
-      "IOT"
+      "General",
+      "AI"
     ],
     "title": "Building Artificial Intelligence Units in Rust"
   },
@@ -295,7 +348,7 @@
     "title": "Service workers and their role in PWAs"
   },
   "122": {
-    "complexity": "Everyone above and beyond",
+    "complexity": "Advanced",
     "description": "Let's take a look into the world of IoT devices. How much time will it take to hack a coffee machine or a kettle, get inside your local network or use remote control apps against you.",
     "id": 122,
     "language": "English",
@@ -303,6 +356,7 @@
       23
     ],
     "tags": [
+      "General",
       "IOT"
     ],
     "title": "Dark side of IoT"
@@ -316,6 +370,7 @@
       24
     ],
     "tags": [
+      "General",
       "IOT"
     ],
     "title": "When a Robot is smart enough?"
@@ -342,7 +397,7 @@
       26
     ],
     "tags": [
-      "TODO"
+      "General"
     ],
     "title": "TODO"
   },
@@ -368,6 +423,7 @@
       28
     ],
     "tags": [
+      "General",
       "API"
     ],
     "title": "Morfina - The World Unique Homomorphic Encrypted Open API"
@@ -408,6 +464,7 @@
       31
     ],
     "tags": [
+      "General",
       "Soft skills"
     ],
     "title": "Networking for Geeks"
@@ -434,7 +491,7 @@
       33
     ],
     "tags": [
-      "TDD"
+      "General"
     ],
     "title": "Coding Dojo"
   },
@@ -474,6 +531,7 @@
       36
     ],
     "tags": [
+      "General",
       "Soft skills"
     ],
     "title": "It's aliiiiive!"
@@ -487,6 +545,7 @@
       37
     ],
     "tags": [
+      "General",
       "Assistant"
     ],
     "title": "Okay Google, let's do the code review"
