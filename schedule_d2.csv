@@ -1,0 +1,5 @@
+START,END,DURATION,Name1,WORKSHOP ROOM 1,Name1,WORKSHOP ROOM 2,Name2,WORKSHOP ROOM 3,Name3,WORKSHOP ROOM 4,Name4,WORKSHOP ROOM 5,Name5,WORKSHOP ROOM 5
+9:30,10:00,0:30,Registration / Breakfast,,,,,,,,,,,
+10:00,12:30,2:30,Ondřej Žára,experiments with real-time audio/video processing in JavaScript,Alvin Ourrad,Introduction to JavaScript Game Development,Václav Pavlín,Basic Concepts of Containers Orchestration,Neha Sharma & Jaswant Singh,"Okay Google, let's do the code review",Paweł Lewtak,Coding Dojo,,
+12:30,13:00,0:30,Lunch,,,,,,,,,,,
+13:00,15:30,2:30,Věrka Koukalová & Standa Koukal,It's aliiiiive!,Vít Listík,Crypto currency trading algo,Sergejs Luhmirins,Writing Firebase Functions in Kotlin,Jaroslav Machaň,Morfina - The World Unique Homomorphic Encrypted Open API,Pavel Krejsa,"Move to Google Cloud Platform, and stop worrying ...",Martin Lonsky,PWA
