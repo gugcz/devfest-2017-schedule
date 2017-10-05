@@ -1,6 +1,6 @@
 [{
     "date": "2017-11-04",
-    "dateReadable": "Saturday 4.11.",
+    "dateReadable": "Saturday 4/11",
     "timeslots": [{
             "endTime": "9:30",
             "sessions": [
@@ -196,7 +196,7 @@
 },
 {
     "date": "2017-11-05",
-    "dateReadable": "Sunday 5.11.",
+    "dateReadable": "Sunday 5/11",
     "timeslots": [{
             "endTime": "10:00",
             "sessions": [

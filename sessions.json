@@ -8,7 +8,10 @@
     "description" : "Get your badge, coffee, enjoy talking with tech edicts around",
     "id" : 1,
     "image" : "/images/backgrounds/registration.jpg",
-    "title" : "Registration & morning coffee"
+    "title" : "Registration & morning coffee",
+    "track" : {
+      "title": "Circle Hall"
+    }
   },
   "2" : {
     "description" : "First floor of the coridor of the Faculty of Economics and Management",
@@ -27,20 +30,29 @@
     "id" : 4,
     "image" : "/images/backgrounds/opening.jpg",
     "language" : "English",
-    "title" : "Opening Ceremony"
+    "title" : "Opening Ceremony",
+    "track" : {
+      "title": "Circle Hall"
+    }
   },
   "5" : {
     "description" : "Google I/O-inspired fun & networking",
     "id" : 5,
     "image" : "/images/backgrounds/party.jpg",
-    "title" : "Afterparty & Networking"
+    "title" : "Afterparty & Networking",
+    "track" : {
+      "title": "Cafeteria (Menza)"
+    }
   },
   "6" : {
     "description" : "Grand finale and awarding contest winners",
     "id" : 6,
     "image" : "/images/backgrounds/closing.jpg",
     "title" : "Closing Ceremony",
-    "language" : "English"
+    "language" : "English",
+    "track" : {
+      "title": "Circle Hall"
+    }
   },
   "7" : {
     "description" : "7 speakers, 7 minutes each. Strictly.",
@@ -49,15 +61,19 @@
     "language" : "Czech/English"
   },
   "8" : {
-    "description" : "First floor of the coridor of the Faculty of Economics and Management",
+    "description" : "Boot up for your DevFest day",
     "id" : 8,
     "image" : "/images/backgrounds/coffee-break.jpg",
-    "title" : "Breakfast"
+    "title" : "Breakfast",
+    "track" : {
+      "title": "First floor of the coridor of the Faculty of Economics and Management"
+    }
   },
   "100": {
     "complexity": "Intermediate",
     "description": "Want a more productive way to build for mobile? Flutter is an SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single code-base. Flutter delivers a great developer experience in part because it is based on Dart, which allows you to build your cross-platform mobile apps in an approachable and analyzable language with sub-second edit-and-continue support baked in. Come see what makes Flutter special and learn how you can become a more productive mobile developer. ",
     "id": 100,
+    "type": "Talk",
     "language": "English",
     "speakers": [
       1
@@ -71,6 +87,7 @@
     "complexity": "Intermediate",
     "description": "In this presentation, Rebecca will look into using the Android Things platform as a way in which you can build connected products using Android. Rebecca will cover controlling your Android Things device with the Google Assistant. She will also talk through some different options for storing data for IoT devices. She will also showcase a few different applications of Android Things. ",
     "id": 101,
+    "type": "Talk",
     "language": "English",
     "speakers": [
       2
@@ -84,6 +101,7 @@
     "complexity": "Beginner",
     "description": "The main thought - developers should be able to enjoy their work. \nAssume you’ve started working on development of the web application. By the time you’ve got to the spot of enjoyable developemt, you would have to go through all the complex details of  building the basement for your app, taking care about the backend, servers and more...Cloud Functions allows Firebase developers to create a backend without having to worry about servers. During the talk you will learn what's possible with Cloud Functions and how it can be used for many different key use cases for your web app. You'll see real world examples that show how Cloud Functions for Firebase is the programmatic glue that allows you to extend and connect Firebase products and cloud services.\n",
     "id": 102,
+    "type": "Talk",
     "language": "English",
     "speakers": [
       3
@@ -99,6 +117,7 @@
     "description": "Managing modern infrastructure presents many different challenges. While the main operational aspects of infrastructure like durability, availability, scalability, security are very important, there’s also one aspect which should enable and support all the others - automation.\n \nAutomation is a very abstract word, so the talk will briefly explain what benefits does IaC approach bring to the table and why configuration management (often driven by tools like Ansible, Puppet, Salt, Chef etc.) is just one of many layers in an automated production infrastructure.\n \nThen we will walk through the main design goals of Terraform, open source tool that enables users to write, plan and apply changes of a production infrastructure in Google Cloud, and explain how to do it.",
     "id": 103,
     "language": "English",
+    "type": "Talk",
     "speakers": [
       4
     ],
@@ -111,6 +130,7 @@
     "complexity": "Intermediate",
     "description": "TODO",
     "id": 104,
+    "type": "Talk",
     "language": "English",
     "speakers": [
       5
@@ -126,6 +146,7 @@
     "description": "The future of med & tech is contact-less. The future is now and the tricoder from Star Track is just one step away. Our presentation shows how we are able to detect movement/activity or even breathing in a contact-less fashion on Android phones using just their speaker and microphone. How we utilize this for sleep phase tracking in our app Sleep as Android (15M Downloads). What challenges we are facing with the technology in terms of development, hardware, background processes, Android's audio system but also signal processing, false positive filtering etc..",
     "id": 105,
     "language": "English",
+    "type": "Talk",
     "speakers": [
       6
     ],
@@ -139,6 +160,7 @@
     "description": "Awesome! The first Angular 5 beta is out already and the deadline for the final release is planned for September 18th. In this talk we are going to explore some of these new features and how to take advantage of them while going through some demos and easy to follow code snippets.",
     "id": 106,
     "language": "English",
+    "type": "Talk",
     "speakers": [
       7
     ],
@@ -152,6 +174,7 @@
     "description": "At I/O this year, the Room persistence library was introduced as part of the Architecture Components effort. In this talk we'll look at what Room has to offer, why and when you should use it and how it compares to existing solutions. We'll also take a look at how Room works under the covers and how it integrates with other Architecture components and RxJava.",
     "id": 107,
     "language": "English",
+    "type": "Talk",
     "speakers": [
       8
     ],
@@ -165,6 +188,7 @@
     "description": "Are you working on the client library? Or design a public API for the module that is going to be used by other team or department?\n\nIn this session, Vitality will share his experience and key learnings from building a mobile SDKs for last 4 years:\n\nwhat is the cost of too complex API and how to simplify it;\nwhat aspects of the library are important for clients;\nhow documentation should look like to avoid stupid and repetitive support questions;\nhow to make library update process smooth.\nThe session will be interesting for Android and iOS developers who want to learn what makes client library great. What are the best practices and common pitfalls in public API design? What is important, only programming API you expose or also ecosystem around?",
     "id": 108,
     "language": "English",
+    "type": "Talk",
     "speakers": [
       9
     ],
@@ -179,6 +203,7 @@
     "description": "Virtual Reality is a new technology used for building realistic experiences for games, environments, content display as well as marketing. Any person with a basic understanding of HTML5, CSS and JavaScript would be able to follow through the code examples. The talk would run through topics like VR, WebVR API, A Frame and designs, testing applications on Google Cardboard and so on. In these apps, users will be able to test the VR environments on their laptops, walk through the virtual world, interact with the objects as well as perceive these virtual realities with the help of Google Cardboard. By the end of the session, the user will have a complete understanding of what WebVR is, various VR devices available, requirements to start working on WebVR and the popular WebVR based projects. The user will also be comfortable in using A-Frame and its various components to build their own VR projects.",
     "id": 109,
     "language": "English",
+    "type": "Talk",
     "speakers": [
       10
     ],
@@ -193,6 +218,7 @@
     "description": "Progressive Web Apps are the new hotness with Google pressing hard to make them the defacto choice for building mobile applications but what's to be done about iOS where many of the key API's are not supported. That's where Apache Cordova/PhoneGap comes in by polyfilling the missing functionality. In this talk I'll show you how to create a PWA that runs on the web, Android and iOS from a single code base. Take advantage of some new tools to easily deploy and test your PWA.\n\nI will begin with a brief overview of Progressive Web Apps, what features make your web app progressive and which API's you can take advantage of. Then I will discuss the availability of these API's on various platforms. Taking care not to completely dump on Apple for falling behind. No, that's a lie. I will jokingly take Apple to task.\n\nOnce the promise of PWA's has been illustrated and the problem of them not exactly being cross platform I will introduce Apache Cordova/PhoneGap, briefly, explaining how you can use Apache Cordova/PhoneGap to deploy a web application to Android and iOS. This will lead me into explaining how Cordova plugins allow us to polyfil the missing functionality on iOS.",
     "id": 110,
     "language": "English",
+    "type": "Talk",
     "speakers": [
       11
     ],
@@ -206,6 +232,7 @@
     "description": "What is the first thing that comes to your mind when you are starting to develop your product? You need to think about all sort of features. How you are going to grow your app. Engage your audience and make money in the process, right? \nWhat if you could choose a platform to build your app with confidence, without the need of managing infrastructure, trusted by companies like The New York Times, The Economist, Shazam and much more. Firebase gives you the tools and infrastructure you need to build better apps and grow businesses. Join this talk and learn how to overcome the challenges of build extraordinary front-end apps using Firebase.",
     "id": 111,
     "language": "English",
+    "type": "Talk",
     "speakers": [
       12
     ],
@@ -219,6 +246,7 @@
     "description": "In a plain-looking computer room sits 30+ men wearing khaki-colored shirts and pants, each staring intently at their monitors. Some young, some old, some with tattoos, all with different life stories. These men--many of which have never been on the Internet-- are learning computer programming while serving time at Washington State's second largest prison. \n\nGaining employment upon release from prison is one of the largest indicators of successful re-entry into society. With today’s booming tech market, these currently incarcerated men hope to gain the skills needed to obtain web development jobs upon release. \n\nHowever, learning programming inside a prison isn’t easy. Each student computer is highly locked-down with limited software and absolutely no Internet access. While most programmers enjoy the benefits of Google and StackOverflow, these students must work with what is available on the classroom’s local network and in the outdated computer manuals available in the facility library.\n\nMy name is Sarabeth Jaffe and I teach computer programming at Monroe Correctional Complex. In this talk, I will discuss the many challenges of teaching web development without the web, the Open Source technology that makes it possible, and the many opportunities we--as technologists--have to spread the benefits of the technical knowledge to disadvantaged populations.",
     "id": 112,
     "language": "English",
+    "type": "Talk",
     "speakers": [
       13
     ],
@@ -232,6 +260,7 @@
     "description": "Amazing UX, delighting UI, wonderful performance.. You already know what to do in order to make users love your app when using it. But as app session lasts around 5 minutes, there’s a large portion of the day where your app is not being used. When your app is sound asleep what can you do to remind your users that your app is the best? \nThis talk will explore how to make your app pop and shine, even when is not on the foreground, and increase retention dramatically! Brand new Android O features, notifications, shortcuts, animated launcher icons.. Your app won’t be sleeping for long ;) \n",
     "id": 113,
     "language": "English",
+    "type": "Talk",
     "speakers": [
       14
     ],
@@ -245,6 +274,7 @@
     "description": "TODO",
     "id": 114,
     "language": "Czech",
+    "type": "Talk",
     "speakers": [
       15
     ],
@@ -259,6 +289,7 @@
     "description": "Beyond seven mountain ranges, beyond seven rivers and beyond seven Google buildings lived a technology called Angular. One day it met another technology - Firebase and they decided to do an App together. In this talk I will show you why AngularDart is a framework you should definitely take a look at and how you can use it together with Firebase to build great apps!",
     "id": 115,
     "language": "English",
+    "type": "Talk",
     "speakers": [
       16
     ],
@@ -273,6 +304,7 @@
     "description": "TODO",
     "id": 116,
     "language": "English",
+    "type": "Talk",
     "speakers": [
       17
     ],
@@ -286,6 +318,7 @@
     "description": "Zjistíme jak postavit mobilní aplikaci ve Flutteru a prozkoumáme jeho architekturu.",
     "id": 117,
     "language": "Czech",
+    "type": "Talk",
     "speakers": [
       18
     ],
@@ -299,6 +332,7 @@
     "description": "TODO",
     "id": 118,
     "language": "English",
+    "type": "Talk",
     "speakers": [
       19
     ],
@@ -312,6 +346,7 @@
     "description": "TODO",
     "id": 119,
     "language": "English",
+    "type": "Talk",
     "speakers": [
       20
     ],
@@ -325,6 +360,7 @@
     "description": "Learn to build an end-to-end, high-performance artificial intelligence algorithm in Rust language capable of predicting whether male or female is the subject of the image captured from an edge device like a mobile camera.\n \nThe speciality of the session is that all the functional units starting from the web server, front end web app and algorithm are developed in rust language.\n",
     "id": 120,
     "language": "English",
+    "type": "Talk",
     "speakers": [
       21
     ],
@@ -339,6 +375,7 @@
     "description": "Service Workers, without a doubt, have been the new cool in the Javascript community in recent years. In this session we dive into what’s in store beyond providing the offline experience, push and background sync features. This talk examines how Service Workers fill the gap between web and native, and how they give better performance and user experiences.",
     "id": 121,
     "language": "English",
+    "type": "Talk",
     "speakers": [
       22
     ],
@@ -352,6 +389,7 @@
     "description": "Let's take a look into the world of IoT devices. How much time will it take to hack a coffee machine or a kettle, get inside your local network or use remote control apps against you.",
     "id": 122,
     "language": "English",
+    "type": "Talk",
     "speakers": [
       23
     ],
@@ -366,6 +404,7 @@
     "description": "Internet of Things (IoT) covers many areas, but the most interesting ones (at least for me) are Robotics and AI. Where is the moment when a machine or robot is 'smart enough'? Let's explore this area a bit together and let's see some examples. How difficult is to build a Smart Robot? Could you build one at home? The answer is Yes! And I will show you how. From the basic steps on #Arduino, to the beauty of more complex examples and solutions like SLAM, optical recognition, path finding or steering behaviours. Live demo is included!",
     "id": 123,
     "language": "English",
+    "type": "Talk",
     "speakers": [
       24
     ],
@@ -380,6 +419,7 @@
     "description": "Using Kotlin for Android development has grown in popularity over the last year especially after this year's Google I/O 17 where Google announces Kotlin for Android to be a first-class language for writing Android apps.\n\nIn this talk, we will go through all advantages of using Kotlin for Android development. You will see how can be a development of Android apps again fun. You will get answers to questions such like: Should I rewrite a whole application to Kotlin? Should I wait? Where is the power of Kotlin for Android and what tools are available? You will learn Anko library and Kotlin Extensions... Less code, more fun.",
     "id": 124,
     "language": "English",
+    "type": "Talk",
     "speakers": [
       25
     ],
@@ -393,6 +433,7 @@
     "description": "TODO",
     "id": 125,
     "language": "English",
+    "type": "Talk",
     "speakers": [
       26
     ],
@@ -406,6 +447,7 @@
     "description": "Containers are great, but container technologies solve only part of the problem. Once you get container images, you need to run them, orchestrate them, scale them, make sure they don't fail randomly etc. This is a task for orchestration tools - and there are couple of them. Luckily, they share basic concepts. Sadly, containerisation and specifically making your app ready for scalable environment, might require you to change your app. You'll learn about these concepts and how orchestration of containerised applications work in this presentation.",
     "id": 200,
     "language": "English",
+    "type": "Workshop",
     "speakers": [
       27
     ],
@@ -419,6 +461,7 @@
     "description": "Have you ever wondered how to provide sensitive customer data to third parties and still maintain privacy and client’s secret? How to enable partners to mine for wealth and knowledge in client’s data, that we can use to provide better customer experience later? And how to protect client’s data and yet go hand in hand with the trend of Open APIs and Open banking? The solution is simple: Homomorphic encryption. So you know, it is not so easy, but later on :)",
     "id": 201,
     "language": "English",
+    "type": "Workshop",
     "speakers": [
       28
     ],
@@ -433,6 +476,7 @@
     "description": "There is a lot of hype around the serverless architecture and for many products having dedicated servers might not be cost-effective. Such products are the perfect use case for Firebase.\nFirebase Functions allow you to execute computation directly in the cloud without caring about instances, containers and other infrastructure details.\nThere is also a lot of hype around Kotlin and since the release of Kotlin 1.1 it is possible to transpile it to JavaScript, receiving all the benefits of this pragmatic and robust language.\n\nIn this workshop we will try to combine both hyped technologies together and see what happens. This is pretty ambitious goal that covers several loosely related topics, therefore at least basic understanding of JavaScript, Kotlin and Firebase is recommended.\n\nBefore this workshop it is recommended to prepare several things (mostly download and install some software):\nYou should have Google developer account with ability to create Firebase projects (https://console.firebase.google.com/). Creation of such account is out of scope of workshop.\nYou should have Node.js and Firebase CLI installed (https://firebase.google.com/docs/cli/).\nYou should have some text editor/IDE for work with JavaScript. (VS Code, Atom, Sublime, Vim etc).\nYou should have latest version of Intellij Idea installed (https://www.jetbrains.com/idea/). Community edition is more than sufficient.",
     "id": 202,
     "language": "English",
+    "type": "Workshop",
     "speakers": [
       29
     ],
@@ -447,6 +491,7 @@
     "description": "We all love a good game, don’t we? I’ve got some good news for you, making games is almost as fun as playing them, and you can do it in JavaScript.\n\nYou will learn the components of game development, and will walk out with a responsive prototype. \nAnd of course we won’t forget to add some juice! As with any good game, the right amount of particles, cameras shakes and other goodies will be added.\n\nGame development is a very versatile skill that can also act as a gateway to creative coding, and with the advent of VR, an understanding of its principles and challenges is more relevant than ever.",
     "id": 203,
     "language": "English",
+    "type": "Workshop",
     "speakers": [
       30
     ],
@@ -460,6 +505,7 @@
     "description": "One of the hardest things to do in any social situation is to get the courage to introduce yourself and talk to people you don't know. This workshop will help you lose the fear and will give you some practical strategies for networking.",
     "id": 204,
     "language": "English",
+    "type": "Workshop",
     "speakers": [
       31
     ],
@@ -474,6 +520,7 @@
     "description": "Everything you want to and should, as developer, forget about: How to migrate to cloud from on-premise solution, including cloud to cloud migration, disaster recovery from on-premise to cloud. How to split monolith servers to managed services and/or micro-services. How to optimize security, monthly spending on cloud.",
     "id": 205,
     "language": "English",
+    "type": "Workshop",
     "speakers": [
       32
     ],
@@ -487,6 +534,7 @@
     "description": "If you didn't fail did you know why you succeeded? Do you know what worked so you could repeat it again when needed? I don't think that's true. We learn the most when we fail. We know what didn't work and using that knowledge we can improve next attempt. While failure is always an option (at least should be!), your job isn't the best place for failures. That's why I'd like to invite you to join Coding Dojo.\n\nCoding Dojo is a place for practice in a safe environment. You can fail, learn and repeat until you feel your skills are improved. This session would be held in order to practice Test Driven Development in pairs or small groups. No prior knowledge of TDD is required.",
     "id": 206,
     "language": "English",
+    "type": "Workshop",
     "speakers": [
       33
     ],
@@ -500,6 +548,7 @@
     "description": "How to write system which makes you money",
     "id": 207,
     "language": "English",
+    "type": "Workshop",
     "speakers": [
       34
     ],
@@ -514,6 +563,7 @@
     "description": "TODO",
     "id": 208,
     "language": "English",
+    "type": "Workshop",
     "speakers": [
       35
     ],
@@ -527,6 +577,7 @@
     "description": "Welcome to our \"failcon\" story of how we created Robeeto - a startup of shared economics. Learn from our mistakes and more - how to work with the initial idea, who else do you need except you as a developer. How we learned from our mistakes, redesigned the idea and created an ecosystem of people who love what they do. Step by step, we will look at the process from idea to creating your own monster. So you can call with us - It's aliiiiive!!! \n\nWe can also present in Czech or do this as workshop. Your choice :-)",
     "id": 209,
     "language": "English",
+    "type": "Workshop",
     "speakers": [
       36
     ],
@@ -541,6 +592,7 @@
     "description": "Google Assistant is popular for doing the tasks such as - calls, mails, songs play, weather check, traffic update. But for developers like us we need an assistant do help us in coding , help us in code review and doing so many stuff to keep us free to focus on important things such as - Learning and more coding. So here we are with our Google assistant to assist us in our coding tasks. \n\nWhat you need:\nPython/javascript \nRaspberry pi\nGoogle Assistant\n\nWhat we will do:\nWe will develop a Google Assistant SDK to help developers in task such us:\n1) Code Commit\n2) Code review\n3) Priorities code bug/error\n4) Suggestions of solutions based on Bugs logged\n5) Creating reports ",
     "id": 210,
     "language": "English",
+    "type": "Workshop",
     "speakers": [
       37
     ],
