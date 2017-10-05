@@ -315,7 +315,7 @@
   },
   "117": {
     "complexity": "Beginner",
-    "description": "Zjistíme jak postavit mobilní aplikaci ve Flutteru a prozkoumáme jeho architekturu.",
+    "description": "Ukážeme si, co Dart je, co Dart není a k čemu je Dart aktuálně dobrý. Porovnáme syntaxi a konstrukce Javy a Dartu a ukážeme si, proč právě javistům se Dart bude líbit.",
     "id": 117,
     "language": "Czech",
     "type": "Talk",
@@ -594,7 +594,7 @@
     "language": "English",
     "type": "Workshop",
     "speakers": [
-      37
+      37, 38
     ],
     "tags": [
       "General",
