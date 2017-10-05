@@ -8,7 +8,7 @@
     "description" : "Get your badge, coffee, enjoy talking with tech edicts around",
     "id" : 1,
     "image" : "/images/backgrounds/registration.jpg",
-    "title" : "Registration & morning Coffee"
+    "title" : "Registration & morning coffee"
   },
   "2" : {
     "description" : "First floor of the coridor of the Faculty of Economics and Management",
@@ -45,7 +45,7 @@
   "7" : {
     "description" : "7 speakers, 7 minutes each. Strictly.",
     "id" : 7,
-    "title" : "Ligtning talks",
+    "title" : "Lightning talks",
     "language" : "Czech/English"
   },
   "8" : {
@@ -123,7 +123,7 @@
   },
   "105": {
     "complexity": "Beginners",
-    "description": "Overview of our findings on the mysterious phenomenon - Sleep:\nhttp://sleep.urbandroid.org/sleepcloud-study/\n\nOur study is based on analyses of more than 10 million sleep records in our Sleep Cloud data base collected in Google Cloud using Android smartphones and various wearable tech for Sleep tracking. Our findings are based on our own private funded research but also based on cooperation with several scientific institutions. \n\nTopics:\n- How does our lifestyle affect sleep\n- Nigh owls / morning larks - chronotypes, Roenneberg and Social jet lag\n- Want to stop snoring? Have a beer!\n- How do we sleep post-Brexit / post-Trump\n- Sleep and psychical health\n- Smart alarms improve sleep and wake up experience\n- Our internal clock and how harmful summer time is\n...\n",
+    "description": "The future of med & tech is contact-less. The future is now and the tricoder from Star Track is just one step away. Our presentation shows how we are able to detect movement/activity or even breathing in a contact-less fashion on Android phones using just their speaker and microphone. How we utilize this for sleep phase tracking in our app Sleep as Android (15M Downloads). What challenges we are facing with the technology in terms of development, hardware, background processes, Android's audio system but also signal processing, false positive filtering etc..",
     "id": 105,
     "language": "English",
     "speakers": [
@@ -190,7 +190,7 @@
   },
   "110": {
     "complexity": "Intermediates",
-    "description": "In this presentation we'll introduce Vue.js, setup a webpack build, extoll the virtues of its reactive data binding and composble interface all while building an Instagram like app. Using Framework 7 to provide the basic UI for Android and iOS for those of us, like myself, who are CSS challenged.\n\nVue.js is a library for building interactive web interfaces. The goal of Vue.js is to provide the benefits of reactive data binding and composable view components with an API that is as simple as possible.\n\nFramework7 - is a free and open source mobile HTML framework to develop hybrid mobile apps or web apps with iOS & Android native look and feel. It is also an indispensable prototyping apps tool to show working app prototype as soon as possible in case you need to.\n",
+    "description": "Progressive Web Apps are the new hotness with Google pressing hard to make them the defacto choice for building mobile applications but what's to be done about iOS where many of the key API's are not supported. That's where Apache Cordova/PhoneGap comes in by polyfilling the missing functionality. In this talk I'll show you how to create a PWA that runs on the web, Android and iOS from a single code base. Take advantage of some new tools to easily deploy and test your PWA.\n\nI will begin with a brief overview of Progressive Web Apps, what features make your web app progressive and which API's you can take advantage of. Then I will discuss the availability of these API's on various platforms. Taking care not to completely dump on Apple for falling behind. No, that's a lie. I will jokingly take Apple to task.\n\nOnce the promise of PWA's has been illustrated and the problem of them not exactly being cross platform I will introduce Apache Cordova/PhoneGap, briefly, explaining how you can use Apache Cordova/PhoneGap to deploy a web application to Android and iOS. This will lead me into explaining how Cordova plugins allow us to polyfil the missing functionality on iOS.",
     "id": 110,
     "language": "English",
     "speakers": [
@@ -336,7 +336,7 @@
   },
   "121": {
     "complexity": "Intermediates",
-    "description": "WebRTC is an emerging technology for communicating over modern browsers that enables a new generation of capabilities. We have historically been dependent on the telecom vendors, but now everyone has the ability to put communication in their apps without going to a communication company. This session involves everything you need to know about webRTC, and how it is changing the fundamental model of communication. ",
+    "description": "Service Workers, without a doubt, have been the new cool in the Javascript community in recent years. In this session we dive into what’s in store beyond providing the offline experience, push and background sync features. This talk examines how Service Workers fill the gap between web and native, and how they give better performance and user experiences.",
     "id": 121,
     "language": "English",
     "speakers": [
@@ -457,7 +457,7 @@
   },
   "204": {
     "complexity": "Advanced",
-    "description": "One of the hardest things to do in any social situation is to get the courage to introduce yourself and talk to people you don't know. This workshop will help you lose the fear and will give you some practical strategies for networking.\n\n*this workshop would actually be ideal BEFORE DevFest starts as the participants would be able to use what they learned during the conference. There is no limit to how many people can attend (at WebExpo 2013, I had about 50 participants go through the workshop before the Warmup Party). It lasts about an hour and is very active.",
+    "description": "One of the hardest things to do in any social situation is to get the courage to introduce yourself and talk to people you don't know. This workshop will help you lose the fear and will give you some practical strategies for networking.",
     "id": 204,
     "language": "English",
     "speakers": [
@@ -507,11 +507,11 @@
       "Cloud",
       "AI"
     ],
-    "title": "Crypto currency trading algo"
+    "title": "Crypto currency trading algorithm"
   },
   "208": {
     "complexity": "Advanced",
-    "description": "Why do some colors have a name while others do not? Where do the named colors come from, what are their properties and what strange surprises do they hide?\nThis talk will explain the concept of named CSS colors, introduce their origin and list some interesting and lesser-known facts about them.\n",
+    "description": "TODO",
     "id": 208,
     "language": "English",
     "speakers": [
