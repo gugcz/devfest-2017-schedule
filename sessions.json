@@ -208,8 +208,7 @@
       10
     ],
     "tags": [
-      "UX",
-      "VR/AR"
+      "UX"
     ],
     "title": "Web Based Virtual Reality"
   },
@@ -337,7 +336,8 @@
       19
     ],
     "tags": [
-      "Cloud", "Assistant"
+      "General",
+      "Assistant"
     ],
     "title": "Building Google Assistant Actions"
   },
@@ -395,7 +395,7 @@
     ],
     "tags": [
       "General",
-      "IOT"
+      "IoT"
     ],
     "title": "Dark side of IoT"
   },
@@ -410,7 +410,7 @@
     ],
     "tags": [
       "General",
-      "IOT"
+      "IoT"
     ],
     "title": "When a Robot is smart enough?"
   },
@@ -466,8 +466,7 @@
       28
     ],
     "tags": [
-      "General",
-      "API"
+      "General"
     ],
     "title": "Morfina - The World Unique Homomorphic Encrypted Open API"
   },
@@ -481,8 +480,7 @@
       29
     ],
     "tags": [
-      "Firebase",
-      "Kotlin"
+      "Firebase"
     ],
     "title": "Writing Firebase Functions in Kotlin"
   },
@@ -553,7 +551,7 @@
       34
     ],
     "tags": [
-      "Cloud",
+      "General",
       "AI"
     ],
     "title": "Crypto currency trading algorithm"
