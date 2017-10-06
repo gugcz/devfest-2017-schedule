@@ -1115,8 +1115,9 @@
        "title":"Project lead"
     },
     {
-       "bio":"I was born thinking about back-end analysis and producing reusable code. Be noticed, I'm a very bad employee, otherwise one of the most productive person. Innovativeness comes from my wildness. I'am CEO @ApuTime and we try to push Project Management into 21st century by Emotions, Visualizations and Game followed by machine learning.",
-       "company":"MyAppIn, s.r.o.",
+       "bio":"I was born to thinking about back-end analysis and producing reusable code. Be noticed, I'm a very bad employee, otherwise one of the most productive person. Innovativeness comes from my wildness. I'm CEO @ApuTime and we try to push Project Management into 21st century by Emotions, Visualizations and Game followed by machine learning.",
+       "company":"ApuTime, s. r. o.",
+       "companyLogo": "https://firebasestorage.googleapis.com/v0/b/devfest-2017-d44d9.appspot.com/o/images%2Fpartners%2Faputime.svg?alt=media&token=160eee82-31f8-465b-b584-b7b442e9206c",
        "country":"Ostrava, Czech Republic",
        "featured":false,
        "id":39,
