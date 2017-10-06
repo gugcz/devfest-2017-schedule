@@ -14,16 +14,22 @@
     }
   },
   "2" : {
-    "description" : "First floor of the coridor of the Faculty of Economics and Management",
+    "description" : "Foooooood!",
     "id" : 2,
     "image" : "/images/backgrounds/lunch.jpg",
-    "title" : "Lunch"
+    "title" : "Lunch",
+    "track" : {
+      "title": "First floor of the coridor of the Faculty of Economics and Management"
+    }
   },
   "3" : {
-    "description" : "First floor of the coridor of the Faculty of Economics and Management",
+    "description" : "Boost your energy, network, play a game?",
     "id" : 3,
     "image" : "/images/backgrounds/coffee-break.jpg",
-    "title" : "Coffee break"
+    "title" : "Coffee break",
+    "track" : {
+      "title": "First floor of the coridor of the Faculty of Economics and Management"
+    }
   },
   "4" : {
     "description" : "Official start of the conference with some suprises included :)",
