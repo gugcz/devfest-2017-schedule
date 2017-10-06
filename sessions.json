@@ -270,7 +270,7 @@
   },
   "114": {
     "complexity": "Advanced",
-    "description": "TODO",
+    "description": "Že je multiplaformní vývoj mýtus a vede jen ke kompromisům na úkor kvality? To jsme si také mysleli. Ale stále jsme se nemohli smířit s tím, že musíme prakticky stejnou aplikaci programovat 2x...\n\nJ2ObjC je nástroj od Google, který dokáže převést společný Java kód do Objective-C. Nevizuální část aplikace (HTTP komunkace, lokální databáze, výpočty, zpracování dat atd.) se tak programuje pouze jednou a následně se použíje jak v Android tak i v iOS verzi. Výsledný kód je nativní pro obě platformy. Jak na to si ukážeme na příkladu reálné aplikace přímo na zdrojových kódech aplikace Rundogo (http://www.rundogo.com).\n\n- co je vhodné zahrnout do společného kódu?\n- integrace Java se Swift (iOS) a Java a Kotlin (Andorid)\n- pohodlný build systém a integrace s xCode\n- debugování Java backendu přímo v xCode\n- a další best practices, které náš tým vytvořil během 5ti měsíců vývoje aplikace Rundogo",
     "id": 114,
     "language": "Czech",
     "type": "Talk",
@@ -558,7 +558,7 @@
   },
   "208": {
     "complexity": "Advanced",
-    "description": "TODO",
+    "description": "Use modern browser APIs to capture and process real-time multimedia data. We will tackle the Web Audio API, Canvas2D, MediaDevices and more!",
     "id": 208,
     "language": "English",
     "type": "Workshop",

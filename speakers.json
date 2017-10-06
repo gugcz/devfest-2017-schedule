@@ -246,7 +246,7 @@
     {
        "bio":"Vitaliy’s background includes mobile application and game development. Nowadays, he is leading the development of the next generation in-app marketing tools at GetSocial. He is a frequent speaker at world class tech conferences and TEDx. Founder of the Google Developers Group Lviv.",
        "company":"GetSocial",
-       "companyLogo":"https://firebasestorage.googleapis.com/v0/b/devfest-2017-d44d9.appspot.com/o/images%2Fpartners%2Fget_social.png?alt=media&token=03d51329-8d20-4cc1-92ae-cd5a5b2a6ae3",
+       "companyLogo":"https://dfua16.firebaseapp.com/images/logos/getsocial.svg",
        "country":"Lviv, Ukraine",
        "featured":true,
        "id":9,
@@ -1115,23 +1115,23 @@
        "title":"Project lead"
     },
     {
-       "bio":"TODO",
+       "bio":"I was born thinking about back-end analysis and producing reusable code. Be noticed, I'm a very bad employee, otherwise one of the most productive person. Innovativeness comes from my wildness. I'am CEO @ApuTime and we try to push Project Management into 21st century by Emotions, Visualizations and Game followed by machine learning.",
        "company":"MyAppIn, s.r.o.",
-       "country":"Ostrava, CZ",
+       "country":"Ostrava, Czech Republic",
        "featured":false,
        "id":39,
        "name":"Martin Lonský",
-       "photoUrl":"TODO",
+       "photoUrl":"https://firebasestorage.googleapis.com/v0/b/devfest-2017-d44d9.appspot.com/o/images%2Fspeakers%2Fmartin_lomsky.jpg?alt=media&token=9d76f5fc-90a3-481c-a36f-ae1c2d661d94",
        "shortBio":"Speaker, dreamer, developer and analyst",
        "socials":[
           {
              "icon":"linkedin",
-             "link":"TODO/",
+             "link":"https://www.linkedin.com/in/martin-lonsky-91b91a82/",
              "name":"LinkedIn"
           },
           {
              "icon":"twitter",
-             "link":"TODO",
+             "link":"https://twitter.com/itlonsky",
              "name":"Twitter"
           }
        ],
