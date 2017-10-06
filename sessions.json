@@ -601,7 +601,7 @@
     "title": "Okay Google, let's do the code review"
   },
   "211": {
-    "complexity": "Intermediate",
+    "complexity": "Beginner",
     "description": "Write complex applications in Angular. Think of reusable services and low level versus high level logic.",
     "id": 211,
     "language": "English",
