@@ -1113,5 +1113,31 @@
           "Assistant"
        ],
        "title":"Project lead"
+    },
+    {
+       "bio":"TODO",
+       "company":"MyAppIn, s.r.o.",
+       "country":"Ostrava, CZ",
+       "featured":false,
+       "id":39,
+       "name":"Martin Lonský",
+       "photoUrl":"TODO",
+       "shortBio":"Speaker, dreamer, developer and analyst",
+       "socials":[
+          {
+             "icon":"linkedin",
+             "link":"TODO/",
+             "name":"LinkedIn"
+          },
+          {
+             "icon":"twitter",
+             "link":"TODO",
+             "name":"Twitter"
+          }
+       ],
+       "tags":[
+          "Web"
+       ],
+       "title":"CEO"
     }
  ]
