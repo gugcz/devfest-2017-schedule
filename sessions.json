@@ -599,5 +599,20 @@
       "Assistant"
     ],
     "title": "Okay Google, let's do the code review"
+  },
+  "211": {
+    "complexity": "Intermediate",
+    "description": "Write complex applications in Angular. Think of reusable services and low level versus high level logic.",
+    "id": 211,
+    "language": "English",
+    "type": "Workshop",
+    "speakers": [
+      39
+    ],
+    "tags": [
+      "General",
+      "Web"
+    ],
+    "title": "Angular4 in Action"
   }
 }
