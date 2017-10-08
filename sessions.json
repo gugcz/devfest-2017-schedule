@@ -2,7 +2,14 @@
   "0" : {
     "description" : "",
     "id" : 0,
-    "title" : "TBD"
+    "title" : "TBD",
+    "speakers": [
+      26
+    ],
+    "type": "Talk",
+    "tags":[
+      "UX"
+    ]
   },
   "1" : {
     "description" : "Get your badge, coffee, enjoy talking with tech edicts around",
@@ -101,7 +108,7 @@
     "tags": [
       "Android"
     ],
-    "title": "Android Things: The IoT Platform for Everyone"
+    "title": "Building a Connected Product using Android Things"
   },
   "102": {
     "complexity": "Beginner",
@@ -160,20 +167,6 @@
       "Android"
     ],
     "title": "Sonar or the Tricoder (how we created a new smartphone sensor)"
-  },
-  "106": {
-    "complexity": "Intermediate",
-    "description": "Awesome! The first Angular 5 beta is out already and the deadline for the final release is planned for September 18th. In this talk we are going to explore some of these new features and how to take advantage of them while going through some demos and easy to follow code snippets.",
-    "id": 106,
-    "language": "English",
-    "type": "Talk",
-    "speakers": [
-      7
-    ],
-    "tags": [
-      "Web"
-    ],
-    "title": "What's new in Angular 5?"
   },
   "107": {
     "complexity": "Beginner",
@@ -361,21 +354,6 @@
     ],
     "title": "HTTP/2"
   },
-  "120": {
-    "complexity": "Advanced",
-    "description": "Learn to build an end-to-end, high-performance artificial intelligence algorithm in Rust language capable of predicting whether male or female is the subject of the image captured from an edge device like a mobile camera.\n \nThe speciality of the session is that all the functional units starting from the web server, front end web app and algorithm are developed in rust language.\n",
-    "id": 120,
-    "language": "English",
-    "type": "Talk",
-    "speakers": [
-      21
-    ],
-    "tags": [
-      "General",
-      "AI"
-    ],
-    "title": "Building Artificial Intelligence Units in Rust"
-  },
   "121": {
     "complexity": "Intermediate",
     "description": "Service Workers, without a doubt, have been the new cool in the Javascript community in recent years. In this session we dive into what’s in store beyond providing the offline experience, push and background sync features. This talk examines how Service Workers fill the gap between web and native, and how they give better performance and user experiences.",
@@ -467,7 +445,7 @@
     "description": "Have you ever wondered how to provide sensitive customer data to third parties and still maintain privacy and client’s secret? How to enable partners to mine for wealth and knowledge in client’s data, that we can use to provide better customer experience later? And how to protect client’s data and yet go hand in hand with the trend of Open APIs and Open banking? The solution is simple: Homomorphic encryption. So you know, it is not so easy, but later on :)",
     "id": 201,
     "language": "English",
-    "type": "Workshop",
+    "type": "Talk",
     "speakers": [
       28
     ],

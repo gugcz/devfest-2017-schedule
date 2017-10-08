@@ -180,43 +180,6 @@
        "title":"CEO"
     },
     {
-       "bio":"Gerard is very excited about the future of the Web and JavaScript. Always happy Computer Science Engineer and humble Google Developer Expert. He loves to share his learnings by giving talks, trainings and writing about cool technologies. He loves running AngularZone and GraphQL London, mentoring students and giving back to the community.",
-       "company":"AngularZone",
-       "companyLogo":"https://firebasestorage.googleapis.com/v0/b/devfest-2017-d44d9.appspot.com/o/images%2Fpartners%2Fangularzone.jpg?alt=media&token=3d109f79-9863-48cb-9b01-d703036ff08d",
-       "country":"Barcelona, Spain",
-       "featured":true,
-       "id":7,
-       "name":"Gerard Sans",
-       "photoUrl":"https://firebasestorage.googleapis.com/v0/b/devfest-2017-d44d9.appspot.com/o/images%2Fspeakers%2Fgerard_sans.jpg?alt=media&token=ae64af76-5737-489f-bbb3-d82a074b51b5",
-       "shortBio":"Google Developer Expert | Coding is fun | Just be awesome | Blogger Speaker Trainer Community Leader | @angular_zone @graphql_london @ngcruise",
-       "socials":[
-          {
-             "icon":"twitter",
-             "link":"https://twitter.com/gerardsans",
-             "name":"Twitter"
-          },
-          {
-             "icon":"website",
-             "link":"http://lanyrd.com/profile/gerardsans",
-             "name":"Website"
-          },
-          {
-             "icon":"website",
-             "link":"https://medium.com/@gerard.sans",
-             "name":"Website"
-          },
-          {
-             "icon":"github",
-             "link":"https://github.com/gsans",
-             "name":"GitHub"
-          }
-       ],
-       "tags":[
-          "Web"
-       ],
-       "title":"Google Developer Expert"
-    },
-    {
        "bio":"I'm a long time software developer and Android developer since 2009, Google Developer Expert for Android, organiser of GDG The Dutch Android User group and international speaker. Creator of various open source tools like Cupboard, android-apt and rxlint.",
        "company":"Little Robots",
        "companyLogo":"https://firebasestorage.googleapis.com/v0/b/devfest-2017-d44d9.appspot.com/o/images%2Fpartners%2Flittle_robots.png?alt=media&token=f31bd64e-d779-461c-8b19-d40fb3bc99a8",
@@ -580,34 +543,6 @@
           "web"
        ],
        "title":"Author of cURL and libcurl"
-    },
-    {
-       "bio":"Vigneshwer is an innovative data scientist with an artistic perception of technology and business, having 3+ years of experience in various domains such as IOT, DevOps, Computer Vision & Deep Learning and is currently engaged as a research analyst crunching real-time data and implementing state of art AI algorithms in the Innovation and development lab of the world’s largest decision science company in Bengaluru, India.\n \nHe is a Mozilla TechSpeaker program member and has been associated with Mozilla communities and initiatives for more than 4 years conducting 100+ events in his regions. He strongly believes and evangelises that technology needs to have a human centric design & workflow in order to create solutions for a diverse audience. He recently delivered a session about AI engineering in the open science space at Mozfest 16 & HKOScon 17. He speaks regularly about rust / ML in various local meetup groups and is the author of Rust Cookbook by Packt publisher. ",
-       "company":"Mozilla",
-       "companyLogo":"https://firebasestorage.googleapis.com/v0/b/devfest-2017-d44d9.appspot.com/o/images%2Fpartners%2FMozilla_logo.svg?alt=media&token=56b0e53d-b89a-4dfc-97dd-5a5a66f6bdda",
-       "country":"Bengaluru, India",
-       "featured":false,
-       "id":21,
-       "name":"Vigneshwer Dhinakaran",
-       "photoUrl":"https://firebasestorage.googleapis.com/v0/b/devfest-2017-d44d9.appspot.com/o/images%2Fspeakers%2FVigneshwer_Dhinakaran.jpg?alt=media&token=2a4346db-7c7c-4580-869a-c753898189de",
-       "shortBio":"AI/IOT Researcher @MuSigmaInc  | Mozilla Rep & TechSpeaker | Rustacean & Author of Rust Cookbook",
-       "socials":[
-          {
-             "icon":"github",
-             "link":"https://github.com/dvigneshwer,",
-             "name":"GitHub"
-          },
-          {
-             "icon":"twitter",
-             "link":"https://twitter.com/dvigneshwer",
-             "name":"Twitter"
-          }
-       ],
-       "tags":[
-          "AI",
-          "IOT"
-       ],
-       "title":"TechSpeaker"
     },
     {
        "bio":"Ipsha is a software engineer at Gemalto by profession, a Mozilla tech speaker by heart, and an advocate for a free and open web by passion. She likes traveling to new places and meeting people with different perspectives of the world. Fascinated by psychology and astronomy, she looks up to people who dare to think beyond the realms of what seems possible.",
