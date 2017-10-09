@@ -141,10 +141,10 @@
   },
   "104": {
     "complexity": "Intermediate",
-    "description": "TODO",
+    "description": "Prodeje a počty stažení vaší aplikace jsou do značné míry dány tím, jak aplikaci navrhnete. Měli byste se nad tím tedy zamýšlet ještě dřív, než napíšete první řádku kód.\n\nTomáš se s vámi podělí o zkušenosti, které nasbíral za víc než pět let, co aplikace navrhuje, programuje a prodává na Play Store.\n\nPřednáška je marketingová, ale je určena pro vývojáře a menší týmy, které přemýšlí nad nějakou aplikací, kterou by chtěli v budoucnu prodávat, ale zatím nevědí jak na to. Těm může ušetřit spoustu času, nervů a zklamání při uvedení aplikace na trh.",
     "id": 104,
     "type": "Talk",
-    "language": "English",
+    "language": "Czech",
     "speakers": [
       5
     ],
@@ -152,7 +152,7 @@
       "General",
       "Marketing"
     ],
-    "title": "How to design app to be easily sellable on Play Store"
+    "title": "Jak nadesignovat aplikaci, aby se dobře prodávala na Play Store"
   },
   "105": {
     "complexity": "Beginner",
