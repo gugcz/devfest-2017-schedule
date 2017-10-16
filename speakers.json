@@ -355,43 +355,6 @@
        "title":"Software Development Instructor"
     },
     {
-       "bio":"Born and raised in Israel, the “Startup Nation”, Britt has started and lead the mobile teams on various startup companies, currently leading a stealth mode startup. \n\nPassionate about Android, she is co-leading Android Academy TLV which is one of the largest and most active Android communities out there. \nShe is a public speaker, a mentor at Google Campus TLV, and a blogger about Android development.\nBritt is also Women Techmakers Israel community lead and act to promote diversity in tech.\n\n",
-       "company":"Android Academy",
-       "companyLogo":"https://firebasestorage.googleapis.com/v0/b/devfest-2017-d44d9.appspot.com/o/images%2Fpartners%2Fandroid_academy.jpeg?alt=media&token=dfd747c5-1e3d-44ab-8afc-a0a12d56a6d3",
-       "country":"Israel",
-       "featured":true,
-       "id":14,
-       "name":"Britt Barak",
-       "photoUrl":"https://firebasestorage.googleapis.com/v0/b/devfest-2017-d44d9.appspot.com/o/images%2Fspeakers%2Fbritt_barak.jpg?alt=media&token=21b392e5-3514-49b4-a0d7-6fd68400303c",
-       "shortBio":"Android lead. Building startups. #AndroidAcademyTLV & @WomenTechmakers Israel communities lead. Speaker. Inspiration seeker.",
-       "socials":[
-          {
-             "icon":"twitter",
-             "link":"https://twitter.com/BrittBarak",
-             "name":"Twitter"
-          },
-          {
-             "icon":"facebook",
-             "link":"https://www.facebook.com/britt.barak",
-             "name":"Facebook"
-          },
-          {
-             "icon":"website",
-             "link":"https://medium.com/@britt.barak",
-             "name":"Website"
-          },
-          {
-             "icon":"linkedin",
-             "link":"https://www.linkedin.com/in/brittbarak",
-             "name":"LinkedIn"
-          }
-       ],
-       "tags":[
-          "Android"
-       ],
-       "title":"Co-Leader, Android Expert, Speaker, Mentor"
-    },
-    {
        "bio":"Dad of four, CEO & Co-owner of TappyTaps (@tappytapscom)",
        "company":"TappyTaps",
        "companyLogo":"https://firebasestorage.googleapis.com/v0/b/devfest-2017-d44d9.appspot.com/o/images%2Fpartners%2FTappyTaps.png?alt=media&token=3c7415cb-e558-4698-9212-bed1e2070899",
@@ -499,28 +462,6 @@
           "Dart"
        ],
        "title":"Founder"
-    },
-    {
-       "bio":"Faisal is a Google Developer Expert, Entrepreneur and Engineer. He is a programming language enthusiast and loves solving software engineering challenges across the stack.\n\nDuring the days, you can find Faisal developing mobile applications either on iOS/Android, or writing backends in Dart or Node.js",
-       "company":"Zoom.ai",
-       "companyLogo":"https://firebasestorage.googleapis.com/v0/b/devfest-2017-d44d9.appspot.com/o/images%2Fpartners%2Fzoom_ai.jpg?alt=media&token=6b6e8882-7076-4c70-bf5d-57b89a60c04f",
-       "country":"Toronto, Canada",
-       "featured":true,
-       "id":19,
-       "name":"Faisal Abid",
-       "photoUrl":"https://firebasestorage.googleapis.com/v0/b/devfest-2017-d44d9.appspot.com/o/images%2Fspeakers%2Ffaisal_abid.jpg?alt=media&token=803a01af-8a8a-4899-98b8-6ac8d07d8c05",
-       "shortBio":"Entrepreneur. Google Developer Expert. Engineer. @GoogleDevs @Flutterio @dartlang @GoogleDevExpert @ZoomdotAI. \nex @Kobo & @JoinLeague",
-       "socials":[
-          {
-             "icon":"twitter",
-             "link":"https://www.twitter.com/FaisalAbid",
-             "name":"Twitter"
-          }
-       ],
-       "tags":[
-          "Assistant"
-       ],
-       "title":"Senior Engineer"
     },
     {
        "bio":"Internet protocols geek at Mozilla. curl, Firefox, libssh2, c-ares, open source, haxx.se, HTTP and QUIC within IETF and not to forget, I always",
