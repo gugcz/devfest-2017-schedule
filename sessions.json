@@ -77,7 +77,7 @@
     "description" : "Boot up for your DevFest day",
     "id" : 8,
     "image" : "/images/backgrounds/coffee-break.jpg",
-    "title" : "Breakfast",
+    "title" : "Coffee",
     "track" : {
       "title": "First floor of the coridor of the Faculty of Economics and Management"
     }
@@ -241,7 +241,7 @@
   },
   "112": {
     "complexity": "Beginner",
-    "description": "In a plain-looking computer room sits 30+ men wearing khaki-colored shirts and pants, each staring intently at their monitors. Some young, some old, some with tattoos, all with different life stories. These men--many of which have never been on the Internet-- are learning computer programming while serving time at Washington State's second largest prison. \n\nGaining employment upon release from prison is one of the largest indicators of successful re-entry into society. With today’s booming tech market, these currently incarcerated men hope to gain the skills needed to obtain web development jobs upon release. \n\nHowever, learning programming inside a prison isn’t easy. Each student computer is highly locked-down with limited software and absolutely no Internet access. While most programmers enjoy the benefits of Google and StackOverflow, these students must work with what is available on the classroom’s local network and in the outdated computer manuals available in the facility library.\n\nMy name is Sarabeth Jaffe and I teach computer programming at Monroe Correctional Complex. In this talk, I will discuss the many challenges of teaching web development without the web, the Open Source technology that makes it possible, and the many opportunities we--as technologists--have to spread the benefits of the technical knowledge to disadvantaged populations.",
+    "description": "In a plain-looking computer room sits 30+ men wearing khaki-colored shirts and pants, each staring intently at their monitors. Some young, some old, some with tattoos, all with different life stories. These men--many of which have never been on the Internet-- are learning computer programming while serving time at Washington State's second largest prison. \n\nGaining employment upon release from prison is one of the largest indicators of successful re-entry into society. With today’s booming tech market, these currently incarcerated men hope to gain the skills needed to obtain web development jobs upon release. \n\nHowever, learning programming inside a prison isn’t easy. Each student computer is highly locked-down with limited software and absolutely no Internet access. While most programmers enjoy the benefits of Google and StackOverflow, these students must work with what is available on the classroom’s local network and in the outdated computer manuals available in the facility library.\n\nMy name is Sarabeth Jaffe and I teach computer programming at Monroe Correctional Complex. In this talk, I will discuss the many challenges of teaching web development without the web, the Open Source technology that makes it possible, and the many opportunities we--as technologists--have to spread the benefits of the technical knowledge to disadvantaged populations.\n\nThe session will be played from a recording and then Sarabeth will connect live for questions.",
     "id": 112,
     "language": "English",
     "type": "Talk",
@@ -251,7 +251,7 @@
     "tags": [
       "Web"
     ],
-    "title": "Programming in Prison: Web Development behind Bars"
+    "title": "Programming in Prison: Web Development behind Bars [STREAM]"
   },
   "113": {
     "complexity": "Intermediate",
@@ -556,7 +556,7 @@
   },
   "209": {
     "complexity": "Advanced",
-    "description": "Welcome to our \"failcon\" story of how we created Robeeto - a startup of shared economics. Learn from our mistakes and more - how to work with the initial idea, who else do you need except you as a developer. How we learned from our mistakes, redesigned the idea and created an ecosystem of people who love what they do. Step by step, we will look at the process from idea to creating your own monster. So you can call with us - It's aliiiiive!!! \n\nWe can also present in Czech or do this as workshop. Your choice :-)",
+    "description": "Welcome to our \"failcon\" story of how we created Robeeto - a startup of shared economics. Learn from our mistakes and more - how to work with the initial idea, who else do you need except you as a developer. How we learned from our mistakes, redesigned the idea and created an ecosystem of people who love what they do. Step by step, we will look at the process from idea to creating your own monster. So you can call with us - It's aliiiiive!!! ",
     "id": 209,
     "language": "English",
     "type": "Workshop",
@@ -567,7 +567,7 @@
       "General",
       "Soft skills"
     ],
-    "title": "It's aliiiiive!"
+    "title": "From idea to running a firm - step by step"
   },
   "210": {
     "complexity": "Intermediate",
