@@ -253,20 +253,6 @@
     ],
     "title": "Programming in Prison: Web Development behind Bars [STREAM]"
   },
-  "113": {
-    "complexity": "Intermediate",
-    "description": "Amazing UX, delighting UI, wonderful performance.. You already know what to do in order to make users love your app when using it. But as app session lasts around 5 minutes, there’s a large portion of the day where your app is not being used. When your app is sound asleep what can you do to remind your users that your app is the best? \nThis talk will explore how to make your app pop and shine, even when is not on the foreground, and increase retention dramatically! Brand new Android O features, notifications, shortcuts, animated launcher icons.. Your app won’t be sleeping for long ;) \n",
-    "id": 113,
-    "language": "English",
-    "type": "Talk",
-    "speakers": [
-      14
-    ],
-    "tags": [
-      "Android"
-    ],
-    "title": "When your app is asleep"
-  },
   "114": {
     "complexity": "Advanced",
     "description": "Že je multiplaformní vývoj mýtus a vede jen ke kompromisům na úkor kvality? To jsme si také mysleli. Ale stále jsme se nemohli smířit s tím, že musíme prakticky stejnou aplikaci programovat 2x...\n\nJ2ObjC je nástroj od Google, který dokáže převést společný Java kód do Objective-C. Nevizuální část aplikace (HTTP komunkace, lokální databáze, výpočty, zpracování dat atd.) se tak programuje pouze jednou a následně se použíje jak v Android tak i v iOS verzi. Výsledný kód je nativní pro obě platformy. Jak na to si ukážeme na příkladu reálné aplikace přímo na zdrojových kódech aplikace Rundogo (http://www.rundogo.com).\n\n- co je vhodné zahrnout do společného kódu?\n- integrace Java se Swift (iOS) a Java a Kotlin (Andorid)\n- pohodlný build systém a integrace s xCode\n- debugování Java backendu přímo v xCode\n- a další best practices, které náš tým vytvořil během 5ti měsíců vývoje aplikace Rundogo",
@@ -499,7 +485,7 @@
   },
   "205": {
     "complexity": "Intermediate",
-    "description": "Everything you want to and should, as developer, forget about: How to migrate to cloud from on-premise solution, including cloud to cloud migration, disaster recovery from on-premise to cloud. How to split monolith servers to managed services and/or micro-services. How to optimize security, monthly spending on cloud.",
+    "description": "Workshop is about migrating classical LAMP (or functional equivalent) stack from \"onpremise\" to GCP. Replace DB, storage, monitoring, FW, by Google managed services, add fail-over, high-availability, load balancing and automatic scaling instances according to load, balance costs of entire solution. We will secure entire solution central access right management. Just come with any computer with modern web-browser installed, preferably Chrome in latest stable version.",
     "id": 205,
     "language": "English",
     "type": "Workshop",
@@ -509,7 +495,7 @@
     "tags": [
       "Cloud"
     ],
-    "title": "Move to Google Cloud Platform, and stop worrying ..."
+    "title": "Move to Google Cloud Platform, and stop worrying"
   },
   "206": {
     "complexity": "Beginner",
