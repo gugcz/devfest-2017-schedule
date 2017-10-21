@@ -311,21 +311,6 @@
     ],
     "title": "Dart pro Javisty"
   },
-  "118": {
-    "complexity": "Beginner",
-    "description": "TODO",
-    "id": 118,
-    "language": "English",
-    "type": "Talk",
-    "speakers": [
-      19
-    ],
-    "tags": [
-      "General",
-      "Assistant"
-    ],
-    "title": "Building Google Assistant Actions"
-  },
   "119": {
     "complexity": "Intermediate",
     "description": "A recap on what HTTP/2 brought that HTTP/1 couldn't offer before we dig in and look at some numbers that show how HTTP/2 has improved today's (browser)networking and the web experience for people.\n\nStill, there are scenarios where HTTP/1's multiple connections win over HTTP/2 in performance tests. Why is that and what is being done about it? Wasn't HTTP/2 supposed to be the silver bullet?\n\nA closer look at QUIC, its promises to fix the areas where HTTP/2 didn't deliver and a check on where it is today. Is QUIC perhaps HTTP/3 in everything but the name?",
