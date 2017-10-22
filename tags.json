@@ -1,14 +1,14 @@
 {
-  "Android" : "#a4c639",
-  "Cloud" : "#52aad8",
-  "Dart" : "#6d6e70",
-  "Firebase" : "#ffcb00",
+  "Android" : "#6ab344",
+  "Cloud" : "#5C6CC0",
+  "Dart" : "#26B3A2",
+  "Firebase" : "#FFA118",
   "IoT" : "#b71c1c",
   "Marketing" : "#c2185b",
   "Soft Skills": "#c0ca33",
   "AI": "#795548",
   "Assistant": "#424242",
-  "UX" : "#ff9933",
-  "Web" : "#8e8e93",
+  "UX" : "#EC407B",
+  "Web" : "#43A6F5",
   "iOS" : "#147efb"
 }
