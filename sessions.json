@@ -356,7 +356,7 @@
     "complexity": "Advanced",
     "description": "Internet of Things (IoT) covers many areas, but the most interesting ones (at least for me) are Robotics and AI. Where is the moment when a machine or robot is 'smart enough'? Let's explore this area a bit together and let's see some examples. How difficult is to build a Smart Robot? Could you build one at home? The answer is Yes! And I will show you how. From the basic steps on #Arduino, to the beauty of more complex examples and solutions like SLAM, optical recognition, path finding or steering behaviours. Live demo is included!",
     "id": 123,
-    "language": "English",
+    "language": "Czech",
     "type": "Talk",
     "speakers": [
       24
