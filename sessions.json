@@ -149,7 +149,6 @@
       5
     ],
     "tags": [
-      "General",
       "Marketing"
     ],
     "title": "Jak nadesignovat aplikaci, aby se dobře prodávala na Play Store"
@@ -340,7 +339,7 @@
     "title": "Service workers and their role in PWAs"
   },
   "122": {
-    "complexity": "Advanced",
+    "complexity": "Beginner",
     "description": "Let's take a look into the world of IoT devices. How much time will it take to hack a coffee machine or a kettle, get inside your local network or use remote control apps against you.",
     "id": 122,
     "language": "English",
@@ -349,7 +348,6 @@
       23
     ],
     "tags": [
-      "General",
       "IoT"
     ],
     "title": "Dark side of IoT"
@@ -364,7 +362,6 @@
       24
     ],
     "tags": [
-      "General",
       "IoT"
     ],
     "title": "When a Robot is smart enough?"
@@ -382,20 +379,6 @@
       "Android"
     ],
     "title": "Kotlin for Android"
-  },
-  "125": {
-    "complexity": "Beginner",
-    "description": "TODO",
-    "id": 125,
-    "language": "English",
-    "type": "Talk",
-    "speakers": [
-      26
-    ],
-    "tags": [
-      "General"
-    ],
-    "title": "TODO"
   },
   "200": {
     "complexity": "Intermediate",
@@ -463,7 +446,6 @@
       31
     ],
     "tags": [
-      "General",
       "Soft skills"
     ],
     "title": "Networking for Geeks"
@@ -506,7 +488,6 @@
       34
     ],
     "tags": [
-      "General",
       "AI"
     ],
     "title": "Crypto currency trading algorithm"
@@ -535,14 +516,13 @@
       36
     ],
     "tags": [
-      "General",
       "Soft skills"
     ],
     "title": "From idea to running a firm - step by step"
   },
   "210": {
     "complexity": "Intermediate",
-    "description": "Google Assistant is popular for doing the tasks such as - calls, mails, songs play, weather check, traffic update. But for developers like us we need an assistant do help us in coding , help us in code review and doing so many stuff to keep us free to focus on important things such as - Learning and more coding. So here we are with our Google assistant to assist us in our coding tasks. \n\nWhat you need:\nPython/javascript \nRaspberry pi\nGoogle Assistant\n\nWhat we will do:\nWe will develop a Google Assistant SDK to help developers in task such us:\n1) Code Commit\n2) Code review\n3) Priorities code bug/error\n4) Suggestions of solutions based on Bugs logged\n5) Creating reports ",
+    "description": "Google Assistant is popular for doing the tasks such as - calls, mails, songs play, weather check, traffic update. But for developers like us we need an assistant do help us in coding , help us in code review and doing so many stuff to keep us free to focus on important things such as - Learning and more coding. So here we are with our Google assistant to assist us in our coding tasks. \n\nYou will need:\nPython/Javascript & your own Raspberry Pi\n\nWhat we will do:\nWe will develop a Google Assistant SDK to help developers in task such us:\n1) Code Commit\n2) Code review\n3) Priorities code bug/error\n4) Suggestions of solutions based on Bugs logged\n5) Creating reports ",
     "id": 210,
     "language": "English",
     "type": "Workshop",
@@ -550,7 +530,6 @@
       37, 38
     ],
     "tags": [
-      "General",
       "Assistant"
     ],
     "title": "Okay Google, let's do the code review"
@@ -565,7 +544,6 @@
       39
     ],
     "tags": [
-      "General",
       "Web"
     ],
     "title": "Angular4 in Action"
