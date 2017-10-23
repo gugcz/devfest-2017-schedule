@@ -124,7 +124,7 @@
        "title":"Software Engineer"
     },
     {
-       "bio":"I'm Android indie developer since 2010. I'm creating and selling my own apps for living.",
+       "bio":"I have been an Android indie developer since 2010. I create and sell my own apps for living.",
        "company":"Indie",
        "companyLogo":"https://firebasestorage.googleapis.com/v0/b/devfest-2017-d44d9.appspot.com/o/images%2Fpartners%2Fhubalek.png?alt=media&token=33d29581-0abc-4499-bdfe-a37f9fcb6178",
        "country":"Frenštát pod Radhoštěm, Czech Republic",
@@ -132,7 +132,7 @@
        "id":5,
        "name":"Tomáš Hubálek",
        "photoUrl":"https://firebasestorage.googleapis.com/v0/b/devfest-2017-d44d9.appspot.com/o/images%2Fspeakers%2Ftomas_hubalek.jpg?alt=media&token=8e44eb1b-44eb-4b32-a222-ea5227292f4c",
-       "shortBio":"I'm Android indie developer since 2010. I'm creating and selling my own apps for living.",
+       "shortBio":"I have been an Android indie developer since 2010. I create and sell my own apps for living.",
        "socials":[
           {
              "icon":"twitter",
@@ -152,7 +152,7 @@
        "title":"Indie developer"
     },
     {
-       "bio":"Developer, researcher, stratupist but most of all technology geek",
+       "bio":"Developer, researcher, startupist but most of all technology geek",
        "company":"Urbandroid",
        "companyLogo":"https://firebasestorage.googleapis.com/v0/b/devfest-2017-d44d9.appspot.com/o/images%2Fpartners%2Furbandroid.png?alt=media&token=1ce0866f-a770-4bd6-8024-180e7d3694b2",
        "country":"Prague, Czech Republic",
@@ -160,7 +160,7 @@
        "id":6,
        "name":"Petr Nálevka",
        "photoUrl":"https://firebasestorage.googleapis.com/v0/b/devfest-2017-d44d9.appspot.com/o/images%2Fspeakers%2Fpetr-nalevka.jpg?alt=media&token=eb7e3f80-6471-4a71-93f9-c484a3cf84f6",
-       "shortBio":"Developer, researcher, stratupist but most of all technology geek",
+       "shortBio":"Developer, researcher, startupist but most of all technology geek",
        "socials":[
           {
              "icon":"twitter",
@@ -681,7 +681,7 @@
        "id":28,
        "name":"Jaroslav Machaň",
        "photoUrl":"https://firebasestorage.googleapis.com/v0/b/devfest-2017-d44d9.appspot.com/o/images%2Fspeakers%2Fjaroslav_machan.jpg?alt=media&token=38f05448-ec8b-46fb-a09d-2d5b5bc66b59",
-       "shortBio":"API Godfather & Raper",
+       "shortBio":"API Godfather & Rapper",
        "socials":[
           {
              "icon":"linkedin",
@@ -919,7 +919,7 @@
        "id":36,
        "name":"Věrka Koukalová",
        "photoUrl":"https://firebasestorage.googleapis.com/v0/b/devfest-2017-d44d9.appspot.com/o/images%2Fspeakers%2Fverka_koukalova.jpg?alt=media&token=b065fa64-0134-482a-b17d-77c86c2bb561",
-       "shortBio":"On-line marketing enthousiast + #speaker #googlecertifiedtrainer #baking at bunnycakes.cz #gastrotourist",
+       "shortBio":"On-line marketing enthusiast + #speaker #googlecertifiedtrainer #baking at bunnycakes.cz #gastrotourist",
        "socials":[
           {
              "icon":"twitter",
@@ -941,7 +941,7 @@
        "id":37,
        "name":"Neha Sharma",
        "photoUrl":"https://firebasestorage.googleapis.com/v0/b/devfest-2017-d44d9.appspot.com/o/images%2Fspeakers%2Fneha_sharma.jpg?alt=media&token=b9a55fc2-329e-42f5-93b8-38c7d7f4c1c6",
-       "shortBio":"Tech Speaker @jslovers_del, @cssconf SIG'16, GDG ND, C#corner | UI Tech lead.I Work for Google n get paid by @toasterco\n | Founder of @jslovers_del #womenintech",
+       "shortBio":"Tech Speaker @jslovers_del, @cssconf SIG'16, GDG ND, C#corner | UI Tech lead. I work for Google and get paid by @toasterco\n | Founder of @jslovers_del #womenintech",
        "socials":[
           {
              "icon":"linkedin",
