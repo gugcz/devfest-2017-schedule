@@ -1016,5 +1016,32 @@
           "Web"
        ],
        "title":"CEO"
+    },
+    {
+       "bio":"I have worked as a software engineer at various projects for about 15 years. My major background is in the Java word, but I always enjoyed rambling into other areas (some close, some rather distant), like Python, electronic trading, data mining, neural networks, web technologies, pure functional programming, etc, etc. Recently, I split my working time between two passions: I participate in mobile apps development in Urbandroid - mostly data mining and designing algorithms for signal processing. The second endeavour is my private project - hacking the structure of electronic markets and its practical application in actual automated trading.",
+       "company":"Urbandroid",
+       "companyLogo": "https://firebasestorage.googleapis.com/v0/b/devfest-2017-d44d9.appspot.com/o/images%2Fpartners%2Furbandroid.png?alt=media&token=1ce0866f-a770-4bd6-8024-180e7d3694b2",
+       "country":"Prague, Czech Republic",
+       "featured":false,
+       "id":40,
+       "name":"Jan Marek",
+       "photoUrl":"https://firebasestorage.googleapis.com/v0/b/devfest-2017-d44d9.appspot.com/o/images%2Fspeakers%2Fjan_marek.png?alt=media&token=6b76d231-bcd0-4884-8687-b9ee11e5854f",
+       "shortBio":"Programmer and technology enthusiast. Currently immersed into data mining and machine learning at Urbandroid, and into hacking electronic markets via algorithmic trading.",
+       "socials":[
+          {
+             "icon":"linkedin",
+             "link":"https://www.linkedin.com/in/jan-marek-4724442/",
+             "name":"LinkedIn"
+          },
+          {
+             "icon":"twitter",
+             "link":"https://twitter.com/janxmarek",
+             "name":"Twitter"
+          }
+       ],
+       "tags":[
+          "Android"
+       ],
+       "title":"Hacker"
     }
  ]
