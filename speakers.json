@@ -911,15 +911,15 @@
        "title":"senior frontend developer"
     },
     {
-       "bio":"I am Senior marketing & HR manager with 8+ years experience, incl. Google. Now I am focusing on happiness at work, company culture and startups. I teach people, how to build teams, motivate them and how new employement market works. I do write articles about HR and happiness management to a magazine Statutární zástupce firem (for CEOs, boards) and do workshop for Forum publishing house. My last talk was for GBG Prague about Happiness management and was very well rated.",
+       "bio":"8+ years of experience in marketing and leadership. From serving fries in McDonald's through leading the largest team in No.1 agency in Czech Republic (H1.cz) a being a Googler to HR consulting with focus on happiness management and company culture and development. Google Partners Trainer, GBG Prague Org, Womenwill Lead fo Czech Republic. Proud wife and mom. ",
        "company":"Robeeto",
        "companyLogo":"https://firebasestorage.googleapis.com/v0/b/devfest-2017-d44d9.appspot.com/o/images%2Fpartners%2Frobeeto.svg?alt=media&token=691123f8-38d0-4bd0-87f0-e00f159c84fd",
        "country":"Prague, Czech Republic",
        "featured":false,
        "id":36,
        "name":"Věrka Koukalová",
-       "photoUrl":"https://firebasestorage.googleapis.com/v0/b/devfest-2017-d44d9.appspot.com/o/images%2Fspeakers%2Fverka_koukalova.jpg?alt=media&token=b065fa64-0134-482a-b17d-77c86c2bb561",
-       "shortBio":"On-line marketing enthusiast + #speaker #googlecertifiedtrainer #baking at bunnycakes.cz #gastrotourist",
+       "photoUrl":"https://firebasestorage.googleapis.com/v0/b/devfest-2017-d44d9.appspot.com/o/images%2Fspeakers%2Fverka_koukalova%20(2).jpg?alt=media&token=ce484068-4ed7-4545-8bbd-fb24c7e8477a",
+       "shortBio":"Happiness manager @Robeeto, mentor, tutor, Womenwill Lead and GBG Org.",
        "socials":[
           {
              "icon":"twitter",
@@ -930,7 +930,7 @@
        "tags":[
           "Soft skills"
        ],
-       "title":"Happiness Manager"
+       "title":"Happiness Manager, Google Partners Trainer"
     },
     {
        "bio":"I am a Delhi Girl working as UI Tech lead. I started my journey as web designer and over the years I moved to web developer. My core skills are - Photoshop, HTML, CSS, Javascript, Typescript, Nodejs , Gruntjs, Polymerjs, python, Reactjs. People know me as Javascript Girl as I run a community name JSLovers (meetup.com/jslovers) here from last 2 years to teach the developers. I love chai , love coding and I do doodle. I am biggest bollywood fan. I am active tech speaker around Delhi/Gurgaon/Noida/Mumbai and promote women in technology .",
@@ -1043,5 +1043,27 @@
           "Android"
        ],
        "title":"Hacker"
+    },
+    {
+       "bio":"Marketing agency veteran, a librarian and  father of a two-year-old girl. An analytical mind with leadership skills, Standa is leading his second startup in community environment, because he believes people deserve to do the job they love. ",
+       "company":"Robeeto",
+       "companyLogo": "https://firebasestorage.googleapis.com/v0/b/devfest-2017-d44d9.appspot.com/o/images%2Fpartners%2Frobeeto.svg?alt=media&token=691123f8-38d0-4bd0-87f0-e00f159c84fd",
+       "country":"Prague, Czech Republic",
+       "featured":false,
+       "id":41,
+       "name":"Stanislav Koukal",
+       "photoUrl":"https://firebasestorage.googleapis.com/v0/b/devfest-2017-d44d9.appspot.com/o/images%2Fspeakers%2FStanda%20Koukal.jpg?alt=media&token=14a61214-fb58-4bca-a7dd-b8f234c03921",
+       "shortBio":"Architect of Robeeto, DIY fan. ",
+       "socials":[
+          {
+             "icon":"twitter",
+             "link":"https://twitter.com/standakoukal",
+             "name":"Twitter"
+          }
+       ],
+       "tags":[
+          "Soft skills"
+       ],
+       "title":"CEO"
     }
  ]
