@@ -638,7 +638,17 @@
              "icon":"twitter",
              "link":"https://twitter.com/NikBPage",
              "name":"Twitter"
-          }
+          },
+          {
+            "icon":"linkedin",
+            "link":"https://www.linkedin.com/in/nbpage/",
+            "name":"LinkedIn"
+         },
+         {
+            "icon":"website",
+            "link":"https://UXStrategy.eu",
+            "name":"Website"
+         }
        ],
        "tags":[
           "UX"
