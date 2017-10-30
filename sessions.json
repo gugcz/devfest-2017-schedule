@@ -422,20 +422,6 @@
     ],
     "title": "Writing Firebase Functions in Kotlin"
   },
-  "203": {
-    "complexity": "Intermediate",
-    "description": "We all love a good game, don’t we? I’ve got some good news for you, making games is almost as fun as playing them, and you can do it in JavaScript.\n\nYou will learn the components of game development, and will walk out with a responsive prototype. \nAnd of course we won’t forget to add some juice! As with any good game, the right amount of particles, cameras shakes and other goodies will be added.\n\nGame development is a very versatile skill that can also act as a gateway to creative coding, and with the advent of VR, an understanding of its principles and challenges is more relevant than ever.",
-    "id": 203,
-    "language": "English",
-    "type": "Workshop",
-    "speakers": [
-      30
-    ],
-    "tags": [
-      "Web"
-    ],
-    "title": "Introduction to JavaScript Game Development"
-  },
   "204": {
     "complexity": "Beginner",
     "description": "One of the hardest things to do in any social situation is to get the courage to introduce yourself and talk to people you don't know. This workshop will help you lose the fear and will give you some practical strategies for networking.",

@@ -738,38 +738,6 @@
        "title":"Android Developer"
     },
     {
-       "bio":"Alvin is a web and game developer working on interactive graphics for BBC news. \nA lover of open-source, always looking to push the boundaries of the browsers when it comes to creativity and interactivity.\nEspecially into programming when it comes to journalism, 3D and all things data-driven.\n\nI've worked on some award-winning HTML5 games and I have been a core contributor to the Phaser game framework as well as Pixi.js, the fast and versatile 2D rendering engine.\n\nAccolades include FWA mobile, Lovie Awards, finalist for Broadcast Digital and Tiga awards, as well as a BAFTA nomination.",
-       "company":"BBC",
-       "companyLogo":"https://firebasestorage.googleapis.com/v0/b/devfest-2017-d44d9.appspot.com/o/images%2Fpartners%2FBBC.svg?alt=media&token=82f5959f-db14-4385-a2ce-ddfe25273dc3",
-       "country":"London, UK",
-       "featured":true,
-       "id":30,
-       "name":"Alvin Ourrad",
-       "photoUrl":"https://firebasestorage.googleapis.com/v0/b/devfest-2017-d44d9.appspot.com/o/images%2Fspeakers%2Falvin_ourrad.jpg?alt=media&token=2f379caf-5a16-4d88-a059-7b4ce5b1dd13",
-       "shortBio":"Creative developer making interactive experiences @BBCNews — Formerly @goodboydigital #pixijs, #phaserjs - Aspiring speaker, and 3D enthusiast. Views my own",
-       "socials":[
-          {
-             "icon":"website",
-             "link":"http://alvin.me.uk",
-             "name":"Website"
-          },
-          {
-             "icon":"twitter",
-             "link":"https://twitter.com/alvinsight",
-             "name":"Twitter"
-          },
-          {
-             "icon":"github",
-             "link":"https://github.com/alvinsight",
-             "name":"GitHub"
-          }
-       ],
-       "tags":[
-          "Web"
-       ],
-       "title":"Software engineer"
-    },
-    {
        "bio":"I'm passionate about helping people communicate. One of the areas I've focused on since 2009 is helping IT professionals share their ideas and projects and even communicate with each other in networking situations.",
        "company":"Freelance",
        "companyLogo":"",
