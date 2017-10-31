@@ -1043,5 +1043,37 @@
           "Soft skills"
        ],
        "title":"CEO"
+    },
+    {
+       "bio":"I have 4+ years experience in the area of processing data. I worked in the search engine team on web crawler. Since this year I can call myself as Software Engineers in Cisco. My team tries to analyze data flow in the company's network and protect them. Last few months I am a learner of Scala language. I was part of the GDG Prague for 5 years.",
+       "company":"Cisco",
+       "companyLogo": "https://firebasestorage.googleapis.com/v0/b/devfest-2017-d44d9.appspot.com/o/images%2Fpartners%2Fcisco.jpg?alt=media&token=af41c2dd-fb46-4e48-8eb1-ef927875112e",
+       "country":"Prague, Czech Republic",
+       "featured":false,
+       "id":42,
+       "name":"Ondřej Kučera",
+       "photoUrl":"https://firebasestorage.googleapis.com/v0/b/devfest-2017-d44d9.appspot.com/o/images%2Fspeakers%2Fondra_kucera.jpg?alt=media&token=f7430b18-3204-4a34-83fb-23d4f9e73299",
+       "shortBio":"I have 4+ years experience in the area of processing data. I worked in the search engine team on web crawler.",
+       "socials":[
+          {
+             "icon":"twitter",
+             "link":"https://twitter.com/OndrejKucera",
+             "name":"Twitter"
+          },
+          {
+            "icon":"linkedin",
+            "link":"https://www.linkedin.com/in/ondrejkucera/",
+            "name":"LinkedIn"  
+          },
+          {
+            "icon":"facebook",
+            "link":"https://www.facebook.com/ondra.kuca",
+            "name":"Facebook"
+          }
+       ],
+       "tags":[
+          "Cloud"
+       ],
+       "title":"Software Engineer"
     }
  ]

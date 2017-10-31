@@ -533,5 +533,19 @@
       "Web"
     ],
     "title": "Angular4 in Action"
+  },
+  "212": {
+    "complexity": "Beginner",
+    "description": "Is Hadoop MapReduce dead and what will replace it? In last decade, the MapReduce became the standard for a work with a huge amount of data. This paradigm helps us process information, but the concept of adjusting all problems into only two stages, map and reduce, is already overcome. There are many other approaches and frameworks that help us to get the right questions and the right answers from data.\n\nOne of the many frameworks that provide different approach than MapReduce is Apache Spark (https://spark.apache.org/). The project that is used by the many companies that have access to lot of data like Yahoo, eBay, Alibaba, Yandex, Baidu, Netflix, TripAdvisor, etc.) We will go through an introduction to the concepts of the Apache Spark and then we will try to create our own Spark application. All that you need for the workshop is laptop and knowledge of Java or Scala language.",
+    "id": 212,
+    "language": "English",
+    "type": "Workshop",
+    "speakers": [
+      42
+    ],
+    "tags": [
+      "Cloud"
+    ],
+    "title": "An Introduction to Apache Spark"
   }
 }
