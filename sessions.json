@@ -155,7 +155,7 @@
   },
   "105": {
     "complexity": "Beginner",
-    "description": "The future of med & tech is contact-less. The future is now and the tricoder from Star Track is just one step away. Our presentation shows how we are able to detect movement/activity or even breathing in a contact-less fashion on Android phones using just their speaker and microphone. How we utilize this for sleep phase tracking in our app Sleep as Android (15M Downloads). What challenges we are facing with the technology in terms of development, hardware, background processes, Android's audio system but also signal processing, false positive filtering etc..",
+    "description": "The future of med & tech is contact-less. The future is now and the tricorder from Star Track is just one step away. Our presentation shows how we are able to detect movement/activity or even breathing in a contact-less fashion on Android phones using just their speaker and microphone. How we utilize this for sleep phase tracking in our app Sleep as Android (15M Downloads). What challenges we are facing with the technology in terms of development, hardware, background processes, Android's audio system but also signal processing, false positive filtering etc..",
     "id": 105,
     "language": "English",
     "type": "Talk",
@@ -165,7 +165,7 @@
     "tags": [
       "Android"
     ],
-    "title": "Sonar or the Tricoder (how we created a new smartphone sensor)"
+    "title": "Sonar or the Tricorder (how we created a new smartphone sensor)"
   },
   "107": {
     "complexity": "Beginner",
