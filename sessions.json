@@ -9,7 +9,8 @@
     "type": "Talk",
     "tags":[
       "UX"
-    ]
+    ],
+    "presentation": "https://docs.google.com/presentation/d/1oKE_3bGbIS7Nik-h96wc-6JdcltlZ9l23DaAbIS53gg/edit?usp=sharing"
   },
   "1" : {
     "description" : "Get your badge, coffee, enjoy talking with tech edicts around",
@@ -108,7 +109,8 @@
     "tags": [
       "Android"
     ],
-    "title": "Building a Connected Product using Android Things"
+    "title": "Building a Connected Product using Android Things",
+    "presentation": "https://drive.google.com/file/d/10w2SImoNSr961AniiL6fcQfnGfJo_jBc/view?usp=sharing"
   },
   "102": {
     "complexity": "Beginner",
@@ -123,7 +125,8 @@
       "Firebase",
       "Cloud"
     ],
-    "title": "Go beyond the web development with Firebase Cloud Functions"
+    "title": "Go beyond the web development with Firebase Cloud Functions",
+    "presentation": "https://drive.google.com/file/d/1WA6PWZZGPhSk3YBR3a0cCajbuS45AOfv/view?usp=sharing"
   },
   "103": {
     "complexity": "Intermediate",
@@ -137,7 +140,8 @@
     "tags": [
       "Cloud"
     ],
-    "title": "Infrastructure as Code in Google Cloud"
+    "title": "Infrastructure as Code in Google Cloud",
+    "presentation": "https://drive.google.com/file/d/1t0b0AKdPvudk84AWxdpGv-IEbPFY0c2k/view?usp=sharing"
   },
   "104": {
     "complexity": "Intermediate",
@@ -165,7 +169,8 @@
     "tags": [
       "Android"
     ],
-    "title": "Sonar or the Tricorder (how we created a new smartphone sensor)"
+    "title": "Sonar or the Tricorder (how we created a new smartphone sensor)",
+    "presentation": "https://docs.google.com/presentation/d/12pxUtuIn4RYdrwJCrDtxPYNl7Mvo2itBdKk4P2mevts/edit?usp=sharing"
   },
   "107": {
     "complexity": "Beginner",
@@ -179,7 +184,8 @@
     "tags": [
       "Android"
     ],
-    "title": "Room: the blessed Object Mapper"
+    "title": "Room: the blessed Object Mapper",
+    "presentation": "https://drive.google.com/file/d/12MJu-MjQ70WYkkvu57ahnIVrkGT22-cu/view?usp=sharing"
   },
   "108": {
     "complexity": "Advanced",
@@ -194,7 +200,8 @@
       "Android",
       "iOS"
     ],
-    "title": "How not to fuckup with building SDK and make clients happy"
+    "title": "How not to fuckup with building SDK and make clients happy",
+    "presentation": "https://drive.google.com/file/d/1SUrdx2vbNqiFXue6YDi3bmS-KBsUTa-a/view?usp=sharing"
   },
   "109": {
     "complexity": "Beginner",
@@ -208,7 +215,8 @@
     "tags": [
       "UX"
     ],
-    "title": "Web Based Virtual Reality"
+    "title": "Web Based Virtual Reality",
+    "presentation": "https://drive.google.com/file/d/1UzWilzEZXJSPtCtOQdM4RoYd2tpJ3IEE/view?usp=sharing"
   },
   "110": {
     "complexity": "Intermediate",
@@ -222,7 +230,8 @@
     "tags": [
       "Web"
     ],
-    "title": "Cross Platform Progressive Web Apps"
+    "title": "Cross Platform Progressive Web Apps",
+    "presentation": "http://slides.com/simonmacdonald/cross-platform-pwa-21-24#/"
   },
   "111": {
     "complexity": "Advanced",
@@ -236,7 +245,8 @@
     "tags": [
       "Firebase"
     ],
-    "title": "Let Firebase help you to build better Front-end apps"
+    "title": "Let Firebase help you to build better Front-end apps",
+    "presentation": "https://drive.google.com/file/d/1NVGgE8oW_bYEV4xMU8aOmAHUl2IcJfP4/view?usp=sharing"
   },
   "112": {
     "complexity": "Beginner",
@@ -265,7 +275,8 @@
       "Android",
       "iOS"
     ],
-    "title": "Úspěšný vývoj multiplaformní aplikace pomocí J2ObjC"
+    "title": "Úspěšný vývoj multiplaformní aplikace pomocí J2ObjC",
+    "presentation": "https://drive.google.com/file/d/1zmiAojzCQ4sm_ixVkfIXJ3F3APxTIErS/view?usp=sharing"
   },
   "115": {
     "complexity": "Intermediate",
@@ -280,7 +291,8 @@
       "Dart",
       "Web"
     ],
-    "title": "How AngularDart & Firebase did an App together"
+    "title": "How AngularDart & Firebase did an App together",
+    "presentation": "https://docs.google.com/presentation/d/1_g3CC71IhYmIkWG8OklGLhmUXhJ9aqtw8kd0reQEnvs/edit?usp=sharing"
   },
   "116": {
     "complexity": "Beginner",
@@ -294,7 +306,8 @@
     "tags": [
       "Android"
     ],
-    "title": "Writing A Plugin for Android Studio"
+    "title": "Writing A Plugin for Android Studio",
+    "presentation": "https://drive.google.com/file/d/11D_r2-aKvsEpSjDcZc5kaYH9WO0rqfWP/view?usp=sharing"
   },
   "117": {
     "complexity": "Beginner",
@@ -308,7 +321,8 @@
     "tags": [
       "Dart"
     ],
-    "title": "Dart pro Javisty"
+    "title": "Dart pro Javisty",
+    "presentation": "https://docs.google.com/presentation/d/1zQstTUf5aRuaxzLd8Lj2j72QHuYXSWBGtoVCV2f4ZyE/edit?usp=sharing"
   },
   "119": {
     "complexity": "Intermediate",
@@ -322,7 +336,8 @@
     "tags": [
       "Web"
     ],
-    "title": "HTTP/2"
+    "title": "HTTP/2",
+    "presentation": "https://drive.google.com/file/d/1_YNOVtWUjPszV3aWGQUQoDlYf67OpYl-/view?usp=sharing"
   },
   "121": {
     "complexity": "Intermediate",
@@ -336,7 +351,8 @@
     "tags": [
       "Web"
     ],
-    "title": "Service workers and their role in PWAs"
+    "title": "Service workers and their role in PWAs",
+    "presentation": "https://drive.google.com/file/d/1cPJBOBhzl2aE_OIpO2UlEFkl55mojK8p/view?usp=sharing"
   },
   "122": {
     "complexity": "Beginner",
@@ -350,7 +366,8 @@
     "tags": [
       "IoT"
     ],
-    "title": "Dark side of IoT"
+    "title": "Dark side of IoT",
+    "presentation": "https://drive.google.com/file/d/1xtM-b7OKl4AxOsD_BHrM0ye7FcQzexh1/view?usp=sharing"
   },
   "123": {
     "complexity": "Advanced",
@@ -364,7 +381,8 @@
     "tags": [
       "IoT"
     ],
-    "title": "When a Robot is smart enough?"
+    "title": "When a Robot is smart enough?",
+    "presentation": "https://drive.google.com/file/d/1IpotGQRMvo8YGugmdy6nODRrGdOpBK7N/view?usp=sharing"
   },
   "124": {
     "complexity": "Beginner",
@@ -406,7 +424,8 @@
     "tags": [
       "General"
     ],
-    "title": "Morfina - The World Unique Homomorphic Encrypted Open API"
+    "title": "Morfina - The World Unique Homomorphic Encrypted Open API",
+    "presentation": "https://drive.google.com/file/d/1y8c0pF9u_uGCGB4bOGf1QmxLs9upgRW_/view?usp=sharing"
   },
   "202": {
     "complexity": "Intermediate",
@@ -476,7 +495,8 @@
     "tags": [
       "AI"
     ],
-    "title": "Crypto currency trading algorithm"
+    "title": "Crypto currency trading algorithm",
+    "presentation": "https://drive.google.com/file/d/1dzH4ANAbV9UlRPCbdqm3FRKR0u27XHc1/view?usp=sharing"
   },
   "208": {
     "complexity": "Advanced",
