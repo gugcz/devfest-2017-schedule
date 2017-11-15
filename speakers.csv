@@ -1,27 +1,27 @@
-Name,Firma,Název talku/workshopu,Topic,Co chce zaplatit?,Rozhodnutí,Stav,Poznámky,Pohlaví (kvůli ubytování),Medailon,,
-Kasper Lund,Google,Flutter: The best way to build for mobile?,Dart,nic,talk,potvrzeno,,M,https://drive.google.com/open?id=1nJrh6ru55yJHYIXRsXws3hR5nR3GEDjloQroBh91g2o,,
-Rebecca Franks,Dynamic Visual Technologies,Android Things: The IoT Platform for Everyone,Android,GDE,talk,potvrzeno,odlisny title od cfp,F,https://drive.google.com/open?id=16PLCmeMki8vz6cPhur7bbj9MBY1DWg4W8w1X665HpyY,,
-Sofia Huts,JustAnswer,Go beyond the web development with Firebase Cloud Functions,"Web, Firebase",ubytko+letenku,talk,potvrzeno,"Nezaplati Tlak, aby si zaplatila letenku (z Ukrajiny)",F,https://drive.google.com/open?id=1zeDgc8DiR7u7nx0yUyvgcutCKmrkppYxVVGF5kut0a4,,
-Radek Simko,HashiCorp,Infrastructure as Code in Google Cloud,Cloud,nic,talk,potvrzeno,,,https://docs.google.com/drawings/d/1QSkVFAD_newGNJMLJGRDv0K7vRW-cklLQ-cNGjAIJ44,,
-Tomáš Hubálek,Indie,(TBD) How to design app to be easily sellable on Play Store,"Marketing, Indie",ubytko,talk,potvrzeno,,M,https://docs.google.com/drawings/d/1gOG0-aoOA1uJlAGGxpxJOCEQksl1ZjavRk4EMPsOASI,,
-Petr Nálevka,Urbandroid,Sonar or the Tricoder (how we created a new smartphone sensor),"Android, Cloud",nic,talk,potvrzeno,,,https://docs.google.com/drawings/d/1Acpsz0TEYvhhDpz8zAoczHSB5z8dE7x3VOWqnf8MeDc,,
-Gerard Sans,AngularZone,What's new in Angular 5?,Web,GDE,talk,potvrzeno,,M,https://docs.google.com/drawings/d/1ADnOsqLEIQTyoJhBARSyViAmwGl7kjxXbik_GqkomEQ/edit,,
-Hugo Visser,Little Robots,Room: the blessed Object Mapper,Android,GDE,talk,potvrzeno,,M,https://drive.google.com/open?id=1Zh9jnkqAgdiSl68s-pWOigrfey3sowadD97mwfLlv00,,
-Vitaliy Zasadnyy,GetSocial,How not to fuckup with building SDK and make clients happy,"Android, iOS",letenku,talk,potvrzeno,"Tlak, aby si sám zaplatil letenku (Jednosmerna z Amsterdamu)",,https://docs.google.com/drawings/d/1_2KtZNPM3mUJLt61foZjJepEajdh2D34BnKYYX8GVcI/edit,,
-Tanay Pant,Mozilla,Web Based Virtual Reality,"UX, VR/AR",ubytko,talk,potvrzeno,,M,https://drive.google.com/open?id=1X7289fPjwhYEp4VvqCXQHVFI8CroPtey9bIHF8vuaQ0,,
-Simon MacDonald,Adobe,Cross Platform Progressive Web Apps,"Web, Mobile",letenku,talk,potvrzeno,"Nezaplati. Tlak, aby si zaplatil letenku (z Kanady), ubytovani plati Adobe",M,,,
-Juarez Filho,Caravana Web,Let Firebase help you to build better Front-end apps,Firebase,GDE,talk,potvrzeno,,M,https://drive.google.com/open?id=1rJVGWw3xUAbXCeKF1AWsD3FpZl5wKI9Wpt9-I1N7zlA,,
-Sarabeth Jaffe,Unloop,Programming in Prison: Web Development behind Bars,Web,letenku,talk,potvrzeno,"Nezaplati Tlak, aby si zaplatila letenku (z USA) Letenka ze Seattlu pekelne draha!",,https://drive.google.com/open?id=1IdbzzGv_keB8qFt__odqM1ZvF-5-Z36uZbeab3eUc80,,
-Britt Barak,Android Academy,When your app is asleep,Android,ubytko+letenku,talk,potvrzeno,"Nezaplati. Tlak, aby si zaplatila letenku sama (z Israele) + napsat, jestli by si k tomu ještě nevzala workshop ""From view to pixel""",F,,,
-Jindrich Sarson,TappyTaps,Úspěšný vývoj multiplaformní aplikace pomocí J2Objc,,nic,talk,potvrzeno,,,,,
-Jana Moudrá,Juicymo,Angular Dart?,"Dart, Web",nic,talk,potvrzeno,,,,,
-Alexey Buzdin,GDG Riga,Writing A Plugin for Android Studio,Android,ubytko+letenku,talk,potvrzeno,"Nezaplati. Tlak, aby si sám zaplatil letenku (z Lotyšska)",M,,,
-Tomáš Zvěřina,fnx.io,Dart pro Javisty,Dart,nic,talk,potvrzeno,"David napsal, domluvili jsme se na změně tématu",,https://drive.google.com/open?id=1vfCbuLVBMGYEgJH3OvJTTsxPfOwCrD7Z-Kel9kiPzDI,,
-Faisal Abid,Zoom.ai,Building Google Assistant Actions,Assistant,GDE,talk,potvrzeno,"David napsal, domluvili jsme se na změně tématu",M,https://drive.google.com/open?id=1Ra1OThh1xE2_4GR8kUWMZHaFLIkjPbDAPu5DdxqjCko,,
-Daniel Stenberg ,Mozilla,Http/2,web,Mozilla funding,talk,potvrzeno,,,,,
-Vigneshwer Dhinakaran,Mozilla,Building Artificial Intelligence Units in Rust,"AI, IOT",ubytko,talk,potvrzeno,Zaplati. z Indie,M,,,
-Ipsha Bhidonia,Mozilla,Service workers and their role in PWAs,Web,ubytko,talk,potvrzeno,Zaplati. z Indie,F,,,
-Vladislav Iliushin,Avast,Dark side of IoT,IOT,nic,talk,potvrzeno,,,,,
-Tomáš Jukin,Juicymo,When a Robot is smart enough?,IOT,nic,talk,potvrzeno,chceme talk kvuli Kasperovi,,,,
-Vaclav Souhrada,eMan,Kotlin for Android,Android,nic,talk,potvrzeno,,,,,
-Nik Page,GDE,nahradni speaker,,nic,,,,,,,
+Name,Firma,Název talku/workshopu,Topic,Rozhodnutí,Stav,Pohlaví (kvůli ubytování),Medailon
+Kasper Lund,Google,Flutter: The best way to build for mobile?,Dart,talk,potvrzeno,M,https://drive.google.com/open?id=1nJrh6ru55yJHYIXRsXws3hR5nR3GEDjloQroBh91g2o
+Rebecca Franks,Dynamic Visual Technologies,Android Things: The IoT Platform for Everyone,Android,talk,potvrzeno,F,https://drive.google.com/open?id=16PLCmeMki8vz6cPhur7bbj9MBY1DWg4W8w1X665HpyY
+Sofia Huts,JustAnswer,Go beyond the web development with Firebase Cloud Functions,"Web, Firebase",talk,potvrzeno,F,https://drive.google.com/open?id=1zeDgc8DiR7u7nx0yUyvgcutCKmrkppYxVVGF5kut0a4
+Radek Simko,HashiCorp,Infrastructure as Code in Google Cloud,Cloud,talk,potvrzeno,,https://docs.google.com/drawings/d/1QSkVFAD_newGNJMLJGRDv0K7vRW-cklLQ-cNGjAIJ44
+Tomáš Hubálek,Indie,(TBD) How to design app to be easily sellable on Play Store,"Marketing, Indie",talk,potvrzeno,M,https://docs.google.com/drawings/d/1gOG0-aoOA1uJlAGGxpxJOCEQksl1ZjavRk4EMPsOASI
+Petr Nálevka,Urbandroid,Sonar or the Tricoder (how we created a new smartphone sensor),"Android, Cloud",talk,potvrzeno,,https://docs.google.com/drawings/d/1Acpsz0TEYvhhDpz8zAoczHSB5z8dE7x3VOWqnf8MeDc
+Gerard Sans,AngularZone,What's new in Angular 5?,Web,talk,potvrzeno,M,https://docs.google.com/drawings/d/1ADnOsqLEIQTyoJhBARSyViAmwGl7kjxXbik_GqkomEQ/edit
+Hugo Visser,Little Robots,Room: the blessed Object Mapper,Android,talk,potvrzeno,M,https://drive.google.com/open?id=1Zh9jnkqAgdiSl68s-pWOigrfey3sowadD97mwfLlv00
+Vitaliy Zasadnyy,GetSocial,How not to fuckup with building SDK and make clients happy,"Android, iOS",talk,potvrzeno,,https://docs.google.com/drawings/d/1_2KtZNPM3mUJLt61foZjJepEajdh2D34BnKYYX8GVcI/edit
+Tanay Pant,Mozilla,Web Based Virtual Reality,"UX, VR/AR",talk,potvrzeno,M,https://drive.google.com/open?id=1X7289fPjwhYEp4VvqCXQHVFI8CroPtey9bIHF8vuaQ0
+Simon MacDonald,Adobe,Cross Platform Progressive Web Apps,"Web, Mobile",talk,potvrzeno,M,
+Juarez Filho,Caravana Web,Let Firebase help you to build better Front-end apps,Firebase,talk,potvrzeno,M,https://drive.google.com/open?id=1rJVGWw3xUAbXCeKF1AWsD3FpZl5wKI9Wpt9-I1N7zlA
+Sarabeth Jaffe,Unloop,Programming in Prison: Web Development behind Bars,Web,talk,potvrzeno,,https://drive.google.com/open?id=1IdbzzGv_keB8qFt__odqM1ZvF-5-Z36uZbeab3eUc80
+Britt Barak,Android Academy,When your app is asleep,Android,talk,potvrzeno,F,
+Jindrich Sarson,TappyTaps,Úspěšný vývoj multiplaformní aplikace pomocí J2Objc,,talk,potvrzeno,,
+Jana Moudrá,Juicymo,Angular Dart?,"Dart, Web",talk,potvrzeno,,
+Alexey Buzdin,GDG Riga,Writing A Plugin for Android Studio,Android,talk,potvrzeno,M,
+Tomáš Zvěřina,fnx.io,Dart pro Javisty,Dart,talk,potvrzeno,,https://drive.google.com/open?id=1vfCbuLVBMGYEgJH3OvJTTsxPfOwCrD7Z-Kel9kiPzDI
+Faisal Abid,Zoom.ai,Building Google Assistant Actions,Assistant,talk,potvrzeno,M,https://drive.google.com/open?id=1Ra1OThh1xE2_4GR8kUWMZHaFLIkjPbDAPu5DdxqjCko
+Daniel Stenberg,Mozilla,Http/2,web,talk,potvrzeno,,
+Vigneshwer Dhinakaran,Mozilla,Building Artificial Intelligence Units in Rust,"AI, IOT",talk,potvrzeno,M,
+Ipsha Bhidonia,Mozilla,Service workers and their role in PWAs,Web,talk,potvrzeno,F,
+Vladislav Iliushin,Avast,Dark side of IoT,IOT,talk,potvrzeno,,
+Tomáš Jukin,Juicymo,When a Robot is smart enough?,IOT,talk,potvrzeno,,
+Vaclav Souhrada,eMan,Kotlin for Android,Android,talk,potvrzeno,,
+Nik Page,GDE,nahradni speaker,,,,,
