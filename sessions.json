@@ -10,7 +10,8 @@
     "tags":[
       "UX"
     ],
-    "presentation": "https://docs.google.com/presentation/d/1oKE_3bGbIS7Nik-h96wc-6JdcltlZ9l23DaAbIS53gg/edit?usp=sharing"
+    "presentation": "https://docs.google.com/presentation/d/1oKE_3bGbIS7Nik-h96wc-6JdcltlZ9l23DaAbIS53gg/edit?usp=sharing",
+    "videoId": "ArIiuVaUkyM"
   },
   "1" : {
     "description" : "Get your badge, coffee, enjoy talking with tech edicts around",
@@ -47,7 +48,8 @@
     "title" : "Opening Ceremony",
     "track" : {
       "title": "Circle Hall"
-    }
+    },
+    "videoId": "zBOrU2hdd-o"
   },
   "5" : {
     "description" : "Google I/O-inspired fun & networking",
@@ -66,13 +68,15 @@
     "language" : "English",
     "track" : {
       "title": "Circle Hall"
-    }
+    },
+    "videoId": "edzMgbjSREY"
   },
   "7" : {
     "description" : "7 speakers, 7 minutes each. Strictly.",
     "id" : 7,
     "title" : "Lightning talks",
-    "language" : "Czech/English"
+    "language" : "Czech/English",
+    "videoId": "FPEWuTxus9w"
   },
   "8" : {
     "description" : "Boot up for your DevFest day",
@@ -96,7 +100,8 @@
       "Dart"
     ],
     "title": "Flutter: The best way to build for mobile?",
-    "presentation": "https://docs.google.com/presentation/d/1_249icEDgU7GsRQNsHHGhGjTWPseVNyxPyuH0vEJl2Y/edit#slide=id.g2700812471_0_0"
+    "presentation": "https://docs.google.com/presentation/d/1_249icEDgU7GsRQNsHHGhGjTWPseVNyxPyuH0vEJl2Y/edit#slide=id.g2700812471_0_0",
+    "videoId": "z03-lV4MHPw"
   },
   "101": {
     "complexity": "Intermediate",
@@ -111,7 +116,8 @@
       "Android"
     ],
     "title": "Building a Connected Product using Android Things",
-    "presentation": "https://drive.google.com/file/d/10w2SImoNSr961AniiL6fcQfnGfJo_jBc/view?usp=sharing"
+    "presentation": "https://drive.google.com/file/d/10w2SImoNSr961AniiL6fcQfnGfJo_jBc/view?usp=sharing",
+    "videoId": "fKDZka0wcXo"
   },
   "102": {
     "complexity": "Beginner",
@@ -127,7 +133,8 @@
       "Cloud"
     ],
     "title": "Go beyond the web development with Firebase Cloud Functions",
-    "presentation": "https://drive.google.com/file/d/1WA6PWZZGPhSk3YBR3a0cCajbuS45AOfv/view?usp=sharing"
+    "presentation": "https://drive.google.com/file/d/1WA6PWZZGPhSk3YBR3a0cCajbuS45AOfv/view?usp=sharing",
+    "videoId": "lKPOmk-n4aM"
   },
   "103": {
     "complexity": "Intermediate",
@@ -142,7 +149,8 @@
       "Cloud"
     ],
     "title": "Infrastructure as Code in Google Cloud",
-    "presentation": "https://drive.google.com/file/d/1t0b0AKdPvudk84AWxdpGv-IEbPFY0c2k/view?usp=sharing"
+    "presentation": "https://drive.google.com/file/d/1t0b0AKdPvudk84AWxdpGv-IEbPFY0c2k/view?usp=sharing",
+    "videoId": "gcEgaYP0PvE"
   },
   "104": {
     "complexity": "Intermediate",
@@ -157,7 +165,8 @@
       "Marketing"
     ],
     "title": "Jak nadesignovat aplikaci, aby se dobře prodávala na Play Store",
-    "presentation": "https://docs.google.com/presentation/d/1YcDl37rxH0D9gcZzw88B5v8SfjkP5cMS4fqgpk5AF0M/edit#slide=id.g299ad2e2e0_2_6"
+    "presentation": "https://docs.google.com/presentation/d/1YcDl37rxH0D9gcZzw88B5v8SfjkP5cMS4fqgpk5AF0M/edit#slide=id.g299ad2e2e0_2_6",
+    "videoId": "BVhHxaOd7KQ"
   },
   "105": {
     "complexity": "Beginner",
@@ -172,7 +181,8 @@
       "Android"
     ],
     "title": "Sonar or the Tricorder (how we created a new smartphone sensor)",
-    "presentation": "https://docs.google.com/presentation/d/12pxUtuIn4RYdrwJCrDtxPYNl7Mvo2itBdKk4P2mevts/edit?usp=sharing"
+    "presentation": "https://docs.google.com/presentation/d/12pxUtuIn4RYdrwJCrDtxPYNl7Mvo2itBdKk4P2mevts/edit?usp=sharing",
+    "videoId": "v9YyZ1hwdJ8"
   },
   "107": {
     "complexity": "Beginner",
@@ -187,7 +197,8 @@
       "Android"
     ],
     "title": "Room: the blessed Object Mapper",
-    "presentation": "https://drive.google.com/file/d/12MJu-MjQ70WYkkvu57ahnIVrkGT22-cu/view?usp=sharing"
+    "presentation": "https://drive.google.com/file/d/12MJu-MjQ70WYkkvu57ahnIVrkGT22-cu/view?usp=sharing",
+    "videoId": "HpP56qAYkhs"
   },
   "108": {
     "complexity": "Advanced",
@@ -203,7 +214,8 @@
       "iOS"
     ],
     "title": "How not to fuckup with building SDK and make clients happy",
-    "presentation": "https://drive.google.com/file/d/1SUrdx2vbNqiFXue6YDi3bmS-KBsUTa-a/view?usp=sharing"
+    "presentation": "https://drive.google.com/file/d/1SUrdx2vbNqiFXue6YDi3bmS-KBsUTa-a/view?usp=sharing",
+    "videoId": "sXrfy6aYpWs"
   },
   "109": {
     "complexity": "Beginner",
@@ -218,7 +230,8 @@
       "UX"
     ],
     "title": "Web Based Virtual Reality",
-    "presentation": "https://drive.google.com/file/d/1UzWilzEZXJSPtCtOQdM4RoYd2tpJ3IEE/view?usp=sharing"
+    "presentation": "https://drive.google.com/file/d/1UzWilzEZXJSPtCtOQdM4RoYd2tpJ3IEE/view?usp=sharing",
+    "videoId": "vTntqtIh3mM"
   },
   "110": {
     "complexity": "Intermediate",
@@ -233,7 +246,8 @@
       "Web"
     ],
     "title": "Cross Platform Progressive Web Apps",
-    "presentation": "http://slides.com/simonmacdonald/cross-platform-pwa-21-24#/"
+    "presentation": "http://slides.com/simonmacdonald/cross-platform-pwa-21-24#/",
+    "videoId": "gJVHjHfLQlY"
   },
   "111": {
     "complexity": "Advanced",
@@ -248,7 +262,8 @@
       "Firebase"
     ],
     "title": "Let Firebase help you to build better Front-end apps",
-    "presentation": "https://drive.google.com/file/d/1NVGgE8oW_bYEV4xMU8aOmAHUl2IcJfP4/view?usp=sharing"
+    "presentation": "https://drive.google.com/file/d/1NVGgE8oW_bYEV4xMU8aOmAHUl2IcJfP4/view?usp=sharing",
+    "videoId": "8WvNdyD3bnQ"
   },
   "112": {
     "complexity": "Beginner",
@@ -262,7 +277,8 @@
     "tags": [
       "Web"
     ],
-    "title": "Programming in Prison: Web Development behind Bars [STREAM]"
+    "title": "Programming in Prison: Web Development behind Bars [STREAM]",
+    "videoId": "SuZXF1Iai50"
   },
   "114": {
     "complexity": "Advanced",
@@ -278,7 +294,8 @@
       "iOS"
     ],
     "title": "Úspěšný vývoj multiplaformní aplikace pomocí J2ObjC",
-    "presentation": "https://drive.google.com/file/d/1zmiAojzCQ4sm_ixVkfIXJ3F3APxTIErS/view?usp=sharing"
+    "presentation": "https://drive.google.com/file/d/1zmiAojzCQ4sm_ixVkfIXJ3F3APxTIErS/view?usp=sharing",
+    "videoId": "U03kUsMwtf0"
   },
   "115": {
     "complexity": "Intermediate",
@@ -294,7 +311,8 @@
       "Web"
     ],
     "title": "How AngularDart & Firebase did an App together",
-    "presentation": "https://docs.google.com/presentation/d/1_g3CC71IhYmIkWG8OklGLhmUXhJ9aqtw8kd0reQEnvs/edit?usp=sharing"
+    "presentation": "https://docs.google.com/presentation/d/1_g3CC71IhYmIkWG8OklGLhmUXhJ9aqtw8kd0reQEnvs/edit?usp=sharing",
+    "videoId": "dEv78OhXgqs"
   },
   "116": {
     "complexity": "Beginner",
@@ -309,7 +327,8 @@
       "Android"
     ],
     "title": "Writing A Plugin for Android Studio",
-    "presentation": "https://drive.google.com/file/d/11D_r2-aKvsEpSjDcZc5kaYH9WO0rqfWP/view?usp=sharing"
+    "presentation": "https://drive.google.com/file/d/11D_r2-aKvsEpSjDcZc5kaYH9WO0rqfWP/view?usp=sharing",
+    "videoId": "mEHLkbww2Ao"
   },
   "117": {
     "complexity": "Beginner",
@@ -324,7 +343,8 @@
       "Dart"
     ],
     "title": "Dart pro Javisty",
-    "presentation": "https://docs.google.com/presentation/d/1zQstTUf5aRuaxzLd8Lj2j72QHuYXSWBGtoVCV2f4ZyE/edit?usp=sharing"
+    "presentation": "https://docs.google.com/presentation/d/1zQstTUf5aRuaxzLd8Lj2j72QHuYXSWBGtoVCV2f4ZyE/edit?usp=sharing",
+    "videoId": "y4M1p13w5wI"
   },
   "119": {
     "complexity": "Intermediate",
@@ -339,7 +359,8 @@
       "Web"
     ],
     "title": "HTTP/2",
-    "presentation": "https://drive.google.com/file/d/1_YNOVtWUjPszV3aWGQUQoDlYf67OpYl-/view?usp=sharing"
+    "presentation": "https://drive.google.com/file/d/1_YNOVtWUjPszV3aWGQUQoDlYf67OpYl-/view?usp=sharing",
+    "videoId": "GqpDtjvZ_Rc"
   },
   "121": {
     "complexity": "Intermediate",
@@ -354,7 +375,8 @@
       "Web"
     ],
     "title": "Service workers and their role in PWAs",
-    "presentation": "https://drive.google.com/file/d/1cPJBOBhzl2aE_OIpO2UlEFkl55mojK8p/view?usp=sharing"
+    "presentation": "https://drive.google.com/file/d/1cPJBOBhzl2aE_OIpO2UlEFkl55mojK8p/view?usp=sharing",
+    "videoId": "x-vyYuQse3I"
   },
   "122": {
     "complexity": "Beginner",
@@ -369,7 +391,8 @@
       "IoT"
     ],
     "title": "Dark side of IoT",
-    "presentation": "https://drive.google.com/file/d/1xtM-b7OKl4AxOsD_BHrM0ye7FcQzexh1/view?usp=sharing"
+    "presentation": "https://drive.google.com/file/d/1xtM-b7OKl4AxOsD_BHrM0ye7FcQzexh1/view?usp=sharing",
+    "videoId": "Apf-vvyixJs"
   },
   "123": {
     "complexity": "Advanced",
@@ -384,7 +407,8 @@
       "IoT"
     ],
     "title": "When a Robot is smart enough?",
-    "presentation": "https://drive.google.com/file/d/1IpotGQRMvo8YGugmdy6nODRrGdOpBK7N/view?usp=sharing"
+    "presentation": "https://drive.google.com/file/d/1IpotGQRMvo8YGugmdy6nODRrGdOpBK7N/view?usp=sharing",
+    "videoId": "ey2pS95kG4U"
   },
   "124": {
     "complexity": "Beginner",
@@ -399,7 +423,8 @@
       "Android"
     ],
     "title": "Kotlin for Android",
-    "presentation": "https://docs.google.com/presentation/d/e/2PACX-1vS0ZhDIugRZa_lkQy8oW2pKmsr5e1NdnORT_OVc512jD4m8OVagLJXDOnGpgy7lr9mB2UReevJOJx8x/pub?start=false&loop=false&delayms=3000&slide=id.g29429118f9_0_171"
+    "presentation": "https://docs.google.com/presentation/d/e/2PACX-1vS0ZhDIugRZa_lkQy8oW2pKmsr5e1NdnORT_OVc512jD4m8OVagLJXDOnGpgy7lr9mB2UReevJOJx8x/pub?start=false&loop=false&delayms=3000&slide=id.g29429118f9_0_171",
+    "videoId": "fYZW5PzEWfQ"
   },
   "200": {
     "complexity": "Intermediate",
@@ -428,7 +453,8 @@
       "General"
     ],
     "title": "Morfina - The World Unique Homomorphic Encrypted Open API",
-    "presentation": "https://drive.google.com/file/d/1y8c0pF9u_uGCGB4bOGf1QmxLs9upgRW_/view?usp=sharing"
+    "presentation": "https://drive.google.com/file/d/1y8c0pF9u_uGCGB4bOGf1QmxLs9upgRW_/view?usp=sharing",
+    "videoId": "AnzUv6DjMjE"
   },
   "202": {
     "complexity": "Intermediate",
