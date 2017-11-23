@@ -1,0 +1,62 @@
+{
+  "0": {
+    "link": "https://www.youtube.com/watch?v=z03-lV4MHPw",
+    "speakers": "Kasper Lund",
+    "thumbnail": "https://img.youtube.com/vi/z03-lV4MHPw/maxresdefault.jpg",
+    "title": "Flutter: The best way to build for mobile?"
+  },
+  "1": {
+    "link": "https://www.youtube.com/watch?v=fKDZka0wcXo",
+    "speakers": "Rebecca Franks",
+    "thumbnail": "https://img.youtube.com/vi/fKDZka0wcXo/maxresdefault.jpg",
+    "title": "Building a Connected Product using Android Things"
+  },
+  "2": {
+    "link": "https://www.youtube.com/watch?v=y4M1p13w5wI",
+    "speakers": "Tomáš Zvěřina",
+    "thumbnail": "https://img.youtube.com/vi/y4M1p13w5wI/maxresdefault.jpg",
+    "title": "Dart pro Javisty"
+  },
+  "3": {
+    "link": "https://www.youtube.com/watch?v=ey2pS95kG4U",
+    "speakers": "Tomáš Jukin",
+    "thumbnail": "https://img.youtube.com/vi/ey2pS95kG4U/maxresdefault.jpg",
+    "title": "When a Robot is smart enough?"
+  },
+  "4": {
+    "link": "https://www.youtube.com/watch?v=SuZXF1Iai50",
+    "speakers": "Sarabeth Jaffe",
+    "thumbnail": "https://img.youtube.com/vi/SuZXF1Iai50/maxresdefault.jpg",
+    "title": "Programming in Prison: Web Development behind Bars"
+  },
+  "5": {
+    "link": "https://www.youtube.com/watch?v=sXrfy6aYpWs",
+    "speakers": "Vitaliy Zasadnyy",
+    "thumbnail": "https://img.youtube.com/vi/sXrfy6aYpWs/maxresdefault.jpg",
+    "title": "How not to fuckup with building SDK and make clients happy"
+  },
+  "6": {
+    "link": "https://www.youtube.com/watch?v=GqpDtjvZ_Rc",
+    "speakers": "Daniel Stenberg",
+    "thumbnail": "https://img.youtube.com/vi/GqpDtjvZ_Rc/maxresdefault.jpg",
+    "title": "HTTP/2"
+  },
+  "7": {
+    "link": "https://www.youtube.com/watch?v=BVhHxaOd7KQ",
+    "speakers": "Tomáš Hubálek",
+    "thumbnail": "https://img.youtube.com/vi/BVhHxaOd7KQ/maxresdefault.jpg",
+    "title": "Jak nadesignovat aplikaci, aby se dobře prodávala na Play Store"
+  },
+  "8": {
+    "link": "https://www.youtube.com/watch?v=v9YyZ1hwdJ8",
+    "speakers": "Petr Nálevka, Jan Marek",
+    "thumbnail": "https://img.youtube.com/vi/v9YyZ1hwdJ8/maxresdefault.jpg",
+    "title": "Sonar or the Tricorder (how we created a new smartphone sensor)"
+  },
+  "9": {
+    "link": "https://www.youtube.com/watch?v=Apf-vvyixJs",
+    "speakers": "Vladislav Iliushin",
+    "thumbnail": "https://img.youtube.com/vi/Apf-vvyixJs/maxresdefault.jpg",
+    "title": "Dark side of IoT"
+  }
+}
